@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1 Corinthians Bible Quiz for Kids!</title>
+    <style>
+        :root {
+            --primary: #4A90E2;
+            --secondary: #FFB300;
+            --success: #2ECC71;
+            --danger: #E74C3C;
+            --background: #F4F7F9;
+            --text: #2C3E50;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--background);
+            color: var(--text);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            max-width: 750px;
+            width: 100%;
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+            box-sizing: border-box;
+            text-align: center;
+        }
+
+        h1 {
+            color: var(--primary);
+            margin-bottom: 10px;
+            font-size: 2.2rem;
+        }
+
+        .subtitle {
+            color: #7F8C8D;
+            margin-bottom: 30px;
+            font-size: 1.1rem;
+        }
+
+        .menu-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        @media(max-width: 550px) {
+            .menu-grid { grid-template-columns: 1fr; }
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 15px 20px;
+            font-size: 1.1rem;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: transform 0.1s, background-color 0.2s;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            background-color: #357ABD;
+            transform: translateY(-2px);
+        }
+
+        .btn-orange { background-color: var(--secondary); color: #2C3E50; grid-column: span 2; }
+        .btn-orange:hover { background-color: #FF9800; }
+
+        .btn-danger { background-color: #95A5A6; color: white; margin-top: 10px; font-size: 0.95rem; padding: 10px 15px; }
+        .btn-danger:hover { background-color: #7F8C8D; }
+        
+        @media(max-width: 550px) {
+            .btn-orange { grid-column: span 1; }
+        }
+
+        .hidden { display: none !important; }
+
+        .progress-bar {
+            background-color: #E0E0E0;
+            border-radius: 10px;
+            height: 12px;
+            width: 100%;
+            margin-bottom: 25px;
+            overflow: hidden;
+        }
+
+        .progress {
+            background-color: var(--success);
+            height: 100%;
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+
+        .question-text {
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin-bottom: 25px;
+            line-height: 1.4;
+            text-align: left;
+        }
+
+        .options-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+            margin-bottom: 25px;
+        }
+
+        .option-btn {
+            background-color: #F8F9FA;
+            border: 2px solid #E2E8F0;
+            padding: 14px 20px;
+            border-radius: 8px;
+            text-align: left;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: var(--text);
+            font-weight: 500;
+        }
+
+        .option-btn:hover:not([disabled]) {
+            background-color: #EDF2F7;
+            border-color: #CBD5E0;
+        }
+
+        .option-btn.correct {
+            background-color: #D4EDDA !important;
+            border-color: var(--success) !important;
+            color: #155724 !important;
+            font-weight: bold;
+        }
+
+        .option-btn.wrong {
+            background-color: #F8D7DA !important;
+            border-color: var(--danger) !important;
+            color: #721C24 !important;
+        }
+
+        .feedback-box {
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        .score-banner {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--primary);
+            margin-bottom: 15px;
+        }
+
+        .stats {
+            font-size: 1.3rem;
+            margin-bottom: 25px;
+            color: #7F8C8D;
+        }
+
+        .quiz-actions {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 15px;
+            border-top: 2px dashed #E2E8F0;
+            padding-top: 15px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container" id="menu-screen">
+        <h1>📖 1 Corinthians Quiz Room!</h1>
+        <p class="subtitle">Every single question from your study guides has been loaded here!</p>
+        <div class="menu-grid">
+            <button class="btn" onclick="startQuiz('ch1-2')">Chapters 1 & 2</button>
+            <button class="btn" onclick="startQuiz('ch3-4')">Chapters 3 & 4</button>
+            <button class="btn" onclick="startQuiz('ch5-6')">Chapters 5 & 6</button>
+            <button class="btn" onclick="startQuiz('ch7-8')">Chapters 7 & 8</button>
+            <button class="btn" onclick="startQuiz('ch9-10')">Chapters 9 & 10</button>
+            <button class="btn" onclick="startQuiz('ch11-12')">Chapters 11 & 12</button>
+            <button class="btn" onclick="startQuiz('ch13-14')">Chapters 13 & 14</button>
+            <button class="btn" onclick="startQuiz('ch15-16')">Chapters 15 & 16</button>
+            <button class="btn btn-orange" onclick="startQuiz('all')">🌟 All Chapters Mix</button>
+        </div>
+    </div>
+
+    <div class="container hidden" id="quiz-screen">
+        <div class="progress-bar"><div class="progress" id="progress-indicator"></div></div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px; font-weight: bold; color: #7F8C8D;">
+            <span id="question-counter">Question 1</span>
+            <span id="live-score">Score: 0</span>
+        </div>
+        <div class="question-text" id="question-container">Question placeholder text</div>
+        <div class="options-list" id="options-container"></div>
+        <div class="feedback-box hidden" id="feedback-container"></div>
+        
+        <div class="quiz-actions">
+            <button class="btn btn-danger" onclick="showMenu()">🏠 Exit to Home Page</button>
+            <button class="btn" id="next-btn" onclick="nextQuestion()">Next Question ➡️</button>
+        </div>
+    </div>
+
+    <div class="container hidden" id="result-screen">
+        <div class="score-banner">🎉 Study Run Complete!</div>
+        <div class="stats" id="final-stats">You got 0 out of 0 questions right!</div>
+        <button class="btn" onclick="showMenu()">🏠 Back to Main Menu</button>
+    </div>
+    <script src="questions.js"></script>
+    <script>
+        let currentQuestions = [];
+        let activeQuestionIndex = 0;
+        let runningScore = 0;
+        let currentCategory = '';
+
+        function startQuiz(category) {
+            currentCategory = category;
+            document.getElementById('menu-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.add('hidden');
+            document.getElementById('quiz-screen').classList.remove('hidden');
+            
+            let saved = localStorage.getItem('quiz_progress_' + category);
+            if (saved) {
+                try {
+                    let progress = JSON.parse(saved);
+                    currentQuestions = progress.currentQuestions;
+                    activeQuestionIndex = progress.activeQuestionIndex;
+                    runningScore = progress.runningScore;
+                } catch (e) {
+                    initNewQuiz(category);
+                }
+            } else {
+                initNewQuiz(category);
+            }
+            
+            displayQuestion();
+        }
+
+        function initNewQuiz(category) {
+            if (category === 'all') {
+                currentQuestions = [];
+                for (let cat in questionsDatabase) {
+                    let copied = questionsDatabase[cat].map(q => ({
+                        q: q.q,
+                        a: q.a,
+                        o: [...q.o],
+                        shuffledOptions: [...q.o].sort(() => Math.random() - 0.5),
+                        userAnswer: null
+                    }));
+                    currentQuestions = currentQuestions.concat(copied);
+                }
+            } else {
+                currentQuestions = questionsDatabase[category].map(q => ({
+                    q: q.q,
+                    a: q.a,
+                    o: [...q.o],
+                    shuffledOptions: [...q.o].sort(() => Math.random() - 0.5),
+                    userAnswer: null
+                }));
+            }
+            
+            currentQuestions.sort(() => Math.random() - 0.5);
+
+            activeQuestionIndex = 0;
+            runningScore = 0;
+        }
+
+        function saveProgress() {
+            if (currentCategory) {
+                let state = {
+                    currentQuestions: currentQuestions,
+                    activeQuestionIndex: activeQuestionIndex,
+                    runningScore: runningScore
+                };
+                localStorage.setItem('quiz_progress_' + currentCategory, JSON.stringify(state));
+            }
+        }
+
+        function displayQuestion() {
+            document.getElementById('next-btn').classList.add('hidden');
+            document.getElementById('feedback-container').classList.add('hidden');
+            
+            let qData = currentQuestions[activeQuestionIndex];
+            
+            document.getElementById('question-counter').innerText = `Question ${activeQuestionIndex + 1} of ${currentQuestions.length}`;
+            document.getElementById('live-score').innerText = `Score: ${runningScore}`;
+            document.getElementById('question-container').innerText = qData.q;
+            
+            let percentage = (activeQuestionIndex / currentQuestions.length) * 100;
+            document.getElementById('progress-indicator').style.width = `${percentage}%`;
+
+            let optionsContainer = document.getElementById('options-container');
+            optionsContainer.innerHTML = '';
+
+            let optionsShuffled = qData.shuffledOptions;
+
+            optionsShuffled.forEach(option => {
+                let btn = document.createElement('button');
+                btn.className = 'option-btn';
+                btn.innerText = option;
+                btn.onclick = () => verifyAnswer(btn, option, qData.a);
+                optionsContainer.appendChild(btn);
+            });
+
+            if (qData.userAnswer !== null) {
+                let options = optionsContainer.querySelectorAll('.option-btn');
+                options.forEach(btn => {
+                    btn.disabled = true;
+                    if (btn.innerText === qData.a) {
+                        btn.classList.add('correct');
+                    }
+                    if (btn.innerText === qData.userAnswer && btn.innerText !== qData.a) {
+                        btn.classList.add('wrong');
+                    }
+                });
+
+                let feedbackBox = document.getElementById('feedback-container');
+                feedbackBox.classList.remove('hidden');
+                if (qData.userAnswer === qData.a) {
+                    feedbackBox.className = 'feedback-box correct';
+                    feedbackBox.innerText = "🌟 Great job! That's correct!";
+                } else {
+                    feedbackBox.className = 'feedback-box wrong';
+                    feedbackBox.innerText = `👉 Oops! The right answer was: ${qData.a}`;
+                }
+                document.getElementById('next-btn').classList.remove('hidden');
+            }
+
+            saveProgress();
+        }
+
+        function verifyAnswer(selectedBtn, selectedText, correctValue) {
+            let qData = currentQuestions[activeQuestionIndex];
+            qData.userAnswer = selectedText;
+
+            let options = document.querySelectorAll('.option-btn');
+            options.forEach(btn => btn.disabled = true);
+
+            let feedbackBox = document.getElementById('feedback-container');
+            feedbackBox.classList.remove('hidden');
+
+            if (selectedText === correctValue) {
+                selectedBtn.classList.add('correct');
+                feedbackBox.className = 'feedback-box correct';
+                feedbackBox.innerText = "🌟 Great job! That's correct!";
+                runningScore++;
+            } else {
+                selectedBtn.classList.add('wrong');
+                feedbackBox.className = 'feedback-box wrong';
+                feedbackBox.innerText = `👉 Oops! The right answer was: ${correctValue}`;
+                
+                options.forEach(btn => {
+                    if(btn.innerText === correctValue) btn.classList.add('correct');
+                });
+            }
+
+            document.getElementById('live-score').innerText = `Score: ${runningScore}`;
+            document.getElementById('next-btn').classList.remove('hidden');
+
+            saveProgress();
+        }
+
+        function nextQuestion() {
+            activeQuestionIndex++;
+            if (activeQuestionIndex < currentQuestions.length) {
+                displayQuestion();
+            } else {
+                showResults();
+            }
+        }
+
+        function showResults() {
+            if (currentCategory) {
+                localStorage.removeItem('quiz_progress_' + currentCategory);
+            }
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.remove('hidden');
+            document.getElementById('final-stats').innerText = `Awesome effort! You scored ${runningScore} out of ${currentQuestions.length} correctly!`;
+        }
+
+        function showMenu() {
+            currentQuestions = [];
+            activeQuestionIndex = 0;
+            runningScore = 0;
+            currentCategory = '';
+            
+            document.getElementById('quiz-screen').classList.add('hidden');
+            document.getElementById('result-screen').classList.add('hidden');
+            document.getElementById('menu-screen').classList.remove('hidden');
+        }
+    </script>
+</body>
+</html>
