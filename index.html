@@ -221,14 +221,33 @@
         <div class="stats" id="final-stats">You got 0 out of 0 questions right!</div>
         <button class="btn" onclick="showMenu()">🏠 Back to Main Menu</button>
     </div>
-    <script src="questions.json"></script>
+
     <script>
+        let questionsDatabase = {};
         let currentQuestions = [];
         let activeQuestionIndex = 0;
         let runningScore = 0;
         let currentCategory = '';
 
+        // Safely fetch your custom wrapped JSON data structure on page load
+        fetch('questions.json')
+            .then(response => response.json())
+            .then(data => {
+                if (data && data.questionsDatabase) {
+                    questionsDatabase = data.questionsDatabase;
+                }
+            })
+            .catch(error => {
+                console.error('Error parsing quiz database:', error);
+            });
+
         function startQuiz(category) {
+            // Defensive check to ensure data has completely loaded from the JSON file
+            if (!questionsDatabase || (category !== 'all' && !questionsDatabase[category])) {
+                alert('Quiz data is still initializing. Please wait a brief moment and try again.');
+                return;
+            }
+
             currentCategory = category;
             document.getElementById('menu-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
@@ -259,6 +278,7 @@
                         q: q.q,
                         a: q.a,
                         o: [...q.o],
+                        ref: q.ref || '',
                         shuffledOptions: [...q.o].sort(() => Math.random() - 0.5),
                         userAnswer: null
                     }));
@@ -269,6 +289,7 @@
                     q: q.q,
                     a: q.a,
                     o: [...q.o],
+                    ref: q.ref || '',
                     shuffledOptions: [...q.o].sort(() => Math.random() - 0.5),
                     userAnswer: null
                 }));
@@ -331,12 +352,15 @@
 
                 let feedbackBox = document.getElementById('feedback-container');
                 feedbackBox.classList.remove('hidden');
+                
+                // Formulate text utilizing your new "ref" field cleanly
+                let refText = qData.ref ? ` (${qData.ref})` : '';
                 if (qData.userAnswer === qData.a) {
                     feedbackBox.className = 'feedback-box correct';
-                    feedbackBox.innerText = "🌟 Great job! That's correct!";
+                    feedbackBox.innerText = `🌟 Great job! That's correct!${refText}`;
                 } else {
                     feedbackBox.className = 'feedback-box wrong';
-                    feedbackBox.innerText = `👉 Oops! The right answer was: ${qData.a}`;
+                    feedbackBox.innerText = `👉 Oops! The right answer was: ${qData.a}${refText}`;
                 }
                 document.getElementById('next-btn').classList.remove('hidden');
             }
@@ -354,15 +378,17 @@
             let feedbackBox = document.getElementById('feedback-container');
             feedbackBox.classList.remove('hidden');
 
+            let refText = qData.ref ? ` (${qData.ref})` : '';
+
             if (selectedText === correctValue) {
                 selectedBtn.classList.add('correct');
                 feedbackBox.className = 'feedback-box correct';
-                feedbackBox.innerText = "🌟 Great job! That's correct!";
+                feedbackBox.innerText = `🌟 Great job! That's correct!${refText}`;
                 runningScore++;
             } else {
                 selectedBtn.classList.add('wrong');
                 feedbackBox.className = 'feedback-box wrong';
-                feedbackBox.innerText = `👉 Oops! The right answer was: ${correctValue}`;
+                feedbackBox.innerText = `👉 Oops! The right answer was: ${correctValue}${refText}`;
                 
                 options.forEach(btn => {
                     if(btn.innerText === correctValue) btn.classList.add('correct');
