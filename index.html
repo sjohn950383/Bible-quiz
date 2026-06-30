@@ -234,6 +234,7 @@
         
         <div class="quiz-actions">
             <button class="btn btn-danger" onclick="showMenu()">🏠 Exit to Home Page</button>
+            <button class="btn hidden" id="prev-btn" onclick="previousQuestion()">⬅️ Previous</button>
             <button class="btn" id="next-btn" onclick="nextQuestion()">Next Question ➡️</button>
         </div>
     </div>
@@ -522,6 +523,13 @@
             document.getElementById('live-score').innerText = `Score: ${runningScore}`;
             document.getElementById('next-btn').classList.remove('hidden');
 
+            // show previous button when not on first question
+            if (activeQuestionIndex > 0) {
+                document.getElementById('prev-btn').classList.remove('hidden');
+            } else {
+                document.getElementById('prev-btn').classList.add('hidden');
+            }
+
             saveProgress();
         }
 
@@ -531,6 +539,13 @@
                 displayQuestion();
             } else {
                 showResults();
+            }
+        }
+
+        function previousQuestion() {
+            if (activeQuestionIndex > 0) {
+                activeQuestionIndex--;
+                displayQuestion();
             }
         }
 
