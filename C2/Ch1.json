@@ -1,0 +1,831 @@
+{
+  "questionsDatabase": {
+    "ch1": [
+      {
+        "q": "Who was an apostle of Christ Jesus?",
+        "a": "Paul",
+        "o": [
+          "Peter",
+          "Paul",
+          "Barnabas",
+          "Silas"
+        ],
+        "ref": "2 Corinthians 1:1"
+      },
+      {
+        "q": "By whose will was Paul an apostle?",
+        "a": "God",
+        "o": [
+          "The Sanhedrin",
+          "God",
+          "The Roman Emperor",
+          "His own choice"
+        ],
+        "ref": "2 Corinthians 1:1"
+      },
+      {
+        "q": "Who is mentioned as Paul's brother?",
+        "a": "Timothy",
+        "o": [
+          "Timothy",
+          "Silas",
+          "Titus",
+          "Apollos"
+        ],
+        "ref": "2 Corinthians 1:1"
+      },
+      {
+        "q": "To whom was this letter written?",
+        "a": "The church of God in Corinth",
+        "o": [
+          "The church in Ephesus",
+          "The church in Rome",
+          "The church of God in Corinth",
+          "The believers in Galatia"
+        ],
+        "ref": "2 Corinthians 1:1"
+      },
+      {
+        "q": "Who else was included in the greeting?",
+        "a": "All the saints throughout Achaia",
+        "o": [
+          "The brethren in Macedonia",
+          "The elders in Judea",
+          "All the believers in Asia",
+          "All the saints throughout Achaia"
+        ],
+        "ref": "2 Corinthians 1:1"
+      },
+      {
+        "q": "What two blessings did Paul wish the believers?",
+        "a": "Grace and peace",
+        "o": [
+          "Mercy and truth",
+          "Grace and peace",
+          "Faith and hope",
+          "Love and joy"
+        ],
+        "ref": "2 Corinthians 1:2"
+      },
+      {
+        "q": "From whom do grace and peace come?",
+        "a": "God our Father",
+        "o": [
+          "The Holy Spirit",
+          "The angels in heaven",
+          "God our Father",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 1:2"
+      },
+      {
+        "q": "Who is also the source of grace and peace?",
+        "a": "The Lord Jesus Christ",
+        "o": [
+          "The apostles",
+          "The Lord Jesus Christ",
+          "The Holy Spirit",
+          "The archangel Michael"
+        ],
+        "ref": "2 Corinthians 1:2"
+      },
+      {
+        "q": "Who is called the God and Father of our Lord Jesus Christ?",
+        "a": "God",
+        "o": [
+          "Abraham",
+          "David",
+          "God",
+          "The Holy Spirit"
+        ],
+        "ref": "2 Corinthians 1:3"
+      },
+      {
+        "q": "God is the Father of what?",
+        "a": "Mercies",
+        "o": [
+          "All creation",
+          "Mercies",
+          "Justice",
+          "Truth"
+        ],
+        "ref": "2 Corinthians 1:3"
+      },
+      {
+        "q": "God is the God of what?",
+        "a": "All comfort",
+        "o": [
+          "All vengeance",
+          "Endless power",
+          "Perfect peace",
+          "All comfort"
+        ],
+        "ref": "2 Corinthians 1:3"
+      },
+      {
+        "q": "In what does God comfort us?",
+        "a": "All our affliction",
+        "o": [
+          "All our affliction",
+          "Only our physical pain",
+          "Our times of doubt",
+          "Our financial struggles"
+        ],
+        "ref": "2 Corinthians 1:4"
+      },
+      {
+        "q": "Why does God comfort us?",
+        "a": "So that we may comfort those in any affliction",
+        "o": [
+          "So that we never suffer again",
+          "So that we may comfort those in any affliction",
+          "To prove His existence",
+          "So we can boast to others"
+        ],
+        "ref": "2 Corinthians 1:4"
+      },
+      {
+        "q": "With what do we comfort others?",
+        "a": "The comfort with which we ourselves are comforted by God",
+        "o": [
+          "Earthly wisdom",
+          "Encouraging words from scripture",
+          "The comfort with which we ourselves are comforted by God",
+          "Financial support"
+        ],
+        "ref": "2 Corinthians 1:4"
+      },
+      {
+        "q": "What is abundant for us through Christ?",
+        "a": "Christ's sufferings",
+        "o": [
+          "Financial wealth",
+          "Earthly peace",
+          "Christ's sufferings",
+          "Perfect health"
+        ],
+        "ref": "2 Corinthians 1:5"
+      },
+      {
+        "q": "What also overflows through Christ?",
+        "a": "Our consolation",
+        "o": [
+          "Our consolation",
+          "Our wealth",
+          "Our spiritual gifts",
+          "Our trials"
+        ],
+        "ref": "2 Corinthians 1:5"
+      },
+      {
+        "q": "If Paul was afflicted, it was for whose comfort and salvation?",
+        "a": "The Corinthians'",
+        "o": [
+          "The Romans'",
+          "His own",
+          "The Macedonians'",
+          "The Corinthians'"
+        ],
+        "ref": "2 Corinthians 1:6"
+      },
+      {
+        "q": "If Paul was comforted, it was for whose comfort?",
+        "a": "The Corinthians'",
+        "o": [
+          "The churches in Asia",
+          "The Corinthians'",
+          "His companions'",
+          "The Gentiles'"
+        ],
+        "ref": "2 Corinthians 1:6"
+      },
+      {
+        "q": "What does this comfort produce?",
+        "a": "Patient endurance",
+        "o": [
+          "Immediate relief",
+          "Great wealth",
+          "Patient endurance",
+          "Perfect health"
+        ],
+        "ref": "2 Corinthians 1:6"
+      },
+      {
+        "q": "Patient endurance of what?",
+        "a": "The same sufferings",
+        "o": [
+          "The same temptations",
+          "The same sufferings",
+          "The trials of others",
+          "Worldly persecution"
+        ],
+        "ref": "2 Corinthians 1:6"
+      },
+      {
+        "q": "What was Paul's hope for the Corinthians?",
+        "a": "Unshaken",
+        "o": [
+          "Weak",
+          "Unshaken",
+          "Growing",
+          "Nonexistent"
+        ],
+        "ref": "2 Corinthians 1:7"
+      },
+      {
+        "q": "What did Paul know they shared?",
+        "a": "The sufferings",
+        "o": [
+          "The financial burden",
+          "The spiritual gifts",
+          "The sufferings",
+          "The law of Moses"
+        ],
+        "ref": "2 Corinthians 1:7"
+      },
+      {
+        "q": "What else would they share?",
+        "a": "The comfort",
+        "o": [
+          "The comfort",
+          "The glory",
+          "The judgment",
+          "The persecution"
+        ],
+        "ref": "2 Corinthians 1:7"
+      },
+      {
+        "q": "In what province did Paul experience severe affliction?",
+        "a": "Asia",
+        "o": [
+          "Macedonia",
+          "Asia",
+          "Achaia",
+          "Galatia"
+        ],
+        "ref": "2 Corinthians 1:8"
+      },
+      {
+        "q": "How did Paul describe that affliction?",
+        "a": "Utterly, unbearably crushed",
+        "o": [
+          "A minor inconvenience",
+          "A brief trial",
+          "Utterly, unbearably crushed",
+          "A test of faith"
+        ],
+        "ref": "2 Corinthians 1:8"
+      },
+      {
+        "q": "Of what did Paul despair?",
+        "a": "Life itself",
+        "o": [
+          "His ministry",
+          "Life itself",
+          "His friendships",
+          "His financial state"
+        ],
+        "ref": "2 Corinthians 1:8"
+      },
+      {
+        "q": "What sentence did Paul feel he had received?",
+        "a": "The sentence of death",
+        "o": [
+          "Banishment",
+          "The sentence of death",
+          "Imprisonment",
+          "Excommunication"
+        ],
+        "ref": "2 Corinthians 1:9"
+      },
+      {
+        "q": "Why did this happen?",
+        "a": "So that they would rely not on themselves",
+        "o": [
+          "Because of their sins",
+          "To test their patience",
+          "As punishment from Rome",
+          "So that they would rely not on themselves"
+        ],
+        "ref": "2 Corinthians 1:9"
+      },
+      {
+        "q": "On whom should they rely?",
+        "a": "God",
+        "o": [
+          "The Roman authorities",
+          "The local church",
+          "God",
+          "Their own strength"
+        ],
+        "ref": "2 Corinthians 1:9"
+      },
+      {
+        "q": "What does God do?",
+        "a": "Raises the dead",
+        "o": [
+          "Raises the dead",
+          "Punishes the wicked",
+          "Rewards the wealthy",
+          "Ignores the suffering"
+        ],
+        "ref": "2 Corinthians 1:9"
+      },
+      {
+        "q": "From what did God rescue Paul?",
+        "a": "A deadly peril",
+        "o": [
+          "A Roman prison",
+          "A shipwreck",
+          "A severe famine",
+          "A deadly peril"
+        ],
+        "ref": "2 Corinthians 1:10"
+      },
+      {
+        "q": "What will God continue to do?",
+        "a": "Rescue us",
+        "o": [
+          "Rescue us",
+          "Test our faith",
+          "Punish the wicked",
+          "Send us to prison"
+        ],
+        "ref": "2 Corinthians 1:10"
+      },
+      {
+        "q": "On whom had Paul set his hope?",
+        "a": "God",
+        "o": [
+          "Timothy",
+          "God",
+          "The Corinthian church",
+          "His Roman citizenship"
+        ],
+        "ref": "2 Corinthians 1:10"
+      },
+      {
+        "q": "What did Paul believe God would continue to do?",
+        "a": "Deliver us",
+        "o": [
+          "Keep them in prison",
+          "Give them great wealth",
+          "Protect them from all physical harm",
+          "Deliver us"
+        ],
+        "ref": "2 Corinthians 1:10"
+      },
+      {
+        "q": "How could the Corinthians help Paul?",
+        "a": "By prayer",
+        "o": [
+          "By sending money",
+          "By prayer",
+          "By sending soldiers",
+          "By writing letters"
+        ],
+        "ref": "2 Corinthians 1:11"
+      },
+      {
+        "q": "What would many people do because of God's gracious gift?",
+        "a": "Give thanks",
+        "o": [
+          "Complain",
+          "Doubt",
+          "Give thanks",
+          "Flee"
+        ],
+        "ref": "2 Corinthians 1:11"
+      },
+      {
+        "q": "What did Paul say was his boast?",
+        "a": "His conscience",
+        "o": [
+          "His wealth",
+          "His conscience",
+          "His Roman citizenship",
+          "His physical strength"
+        ],
+        "ref": "2 Corinthians 1:12"
+      },
+      {
+        "q": "In what had Paul conducted himself?",
+        "a": "Holiness",
+        "o": [
+          "Worldly wisdom",
+          "Pride",
+          "Secrecy",
+          "Holiness"
+        ],
+        "ref": "2 Corinthians 1:12"
+      },
+      {
+        "q": "What kind of sincerity did Paul have?",
+        "a": "Godly sincerity",
+        "o": [
+          "Worldly sincerity",
+          "Godly sincerity",
+          "Fleeting sincerity",
+          "Perfect sincerity"
+        ],
+        "ref": "2 Corinthians 1:12"
+      },
+      {
+        "q": "By what had Paul not acted?",
+        "a": "Earthly wisdom",
+        "o": [
+          "Earthly wisdom",
+          "God's grace",
+          "The Spirit's leading",
+          "Apostolic authority"
+        ],
+        "ref": "2 Corinthians 1:12"
+      },
+      {
+        "q": "By what had Paul acted?",
+        "a": "The grace of God",
+        "o": [
+          "Human logic",
+          "Roman law",
+          "The grace of God",
+          "His own strength"
+        ],
+        "ref": "2 Corinthians 1:12"
+      },
+      {
+        "q": "What did Paul write that they could do?",
+        "a": "Read",
+        "o": [
+          "Sing",
+          "Recite",
+          "Read",
+          "Memorize"
+        ],
+        "ref": "2 Corinthians 1:13"
+      },
+      {
+        "q": "What else could they do with what Paul wrote?",
+        "a": "Understand",
+        "o": [
+          "Ignore",
+          "Understand",
+          "Burn",
+          "Copy"
+        ],
+        "ref": "2 Corinthians 1:13"
+      },
+      {
+        "q": "On what day would the Corinthians boast of Paul?",
+        "a": "The day of the Lord Jesus",
+        "o": [
+          "The day of Pentecost",
+          "The Sabbath",
+          "The Day of Atonement",
+          "The day of the Lord Jesus"
+        ],
+        "ref": "2 Corinthians 1:14"
+      },
+      {
+        "q": "Who would also boast of the Corinthians?",
+        "a": "Paul",
+        "o": [
+          "Timothy",
+          "Paul",
+          "Peter",
+          "Silas"
+        ],
+        "ref": "2 Corinthians 1:14"
+      },
+      {
+        "q": "What was Paul confident about?",
+        "a": "The Corinthians",
+        "o": [
+          "His own health",
+          "His wealth",
+          "The Corinthians",
+          "The Roman government"
+        ],
+        "ref": "2 Corinthians 1:15"
+      },
+      {
+        "q": "What did Paul originally intend to do?",
+        "a": "Visit them",
+        "o": [
+          "Visit them",
+          "Send Timothy in his place",
+          "Write a harsher letter",
+          "Excommunicate them"
+        ],
+        "ref": "2 Corinthians 1:15"
+      },
+      {
+        "q": "Why did Paul plan to visit them?",
+        "a": "So they might have a double favor",
+        "o": [
+          "To collect money",
+          "To scold them",
+          "So they might have a double favor",
+          "To rest from his travels"
+        ],
+        "ref": "2 Corinthians 1:15"
+      },
+      {
+        "q": "Through what region did Paul plan to travel?",
+        "a": "Macedonia",
+        "o": [
+          "Galatia",
+          "Macedonia",
+          "Judea",
+          "Asia"
+        ],
+        "ref": "2 Corinthians 1:16"
+      },
+      {
+        "q": "From where did Paul plan to return to Corinth?",
+        "a": "Macedonia",
+        "o": [
+          "Ephesus",
+          "Rome",
+          "Jerusalem",
+          "Macedonia"
+        ],
+        "ref": "2 Corinthians 1:16"
+      },
+      {
+        "q": "Where did Paul hope the Corinthians would send him?",
+        "a": "Judea",
+        "o": [
+          "Rome",
+          "Spain",
+          "Judea",
+          "Galatia"
+        ],
+        "ref": "2 Corinthians 1:16"
+      },
+      {
+        "q": "Was Paul vacillating when he wanted to do this?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only occasionally",
+          "He was unsure",
+          "No"
+        ],
+        "ref": "2 Corinthians 1:17"
+      },
+      {
+        "q": "Did Paul make his plans according to ordinary human standards?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Sometimes",
+          "No",
+          "Only when traveling"
+        ],
+        "ref": "2 Corinthians 1:17"
+      },
+      {
+        "q": "What expression did Paul use to describe double-minded speech?",
+        "a": "\"Yes, Yes\" and \"No, No\"",
+        "o": [
+          "\"Here today, gone tomorrow\"",
+          "\"Double-tongued\"",
+          "\"Yes, Yes\" and \"No, No\"",
+          "\"Speaking from both sides of the mouth\""
+        ],
+        "ref": "2 Corinthians 1:17"
+      },
+      {
+        "q": "Who is faithful?",
+        "a": "God",
+        "o": [
+          "Only Paul",
+          "The Roman Emperor",
+          "God",
+          "Humanity"
+        ],
+        "ref": "2 Corinthians 1:18"
+      },
+      {
+        "q": "Paul's message to the Corinthians was not what and what?",
+        "a": "\"Yes\" and \"No\"",
+        "o": [
+          "\"True\" and \"False\"",
+          "\"Yes\" and \"No\"",
+          "\"Right\" and \"Wrong\"",
+          "\"Grace\" and \"Law\""
+        ],
+        "ref": "2 Corinthians 1:18"
+      },
+      {
+        "q": "Who is the Son of God proclaimed among the Corinthians?",
+        "a": "Jesus Christ",
+        "o": [
+          "John the Baptist",
+          "Jesus Christ",
+          "Paul",
+          "Timothy"
+        ],
+        "ref": "2 Corinthians 1:19"
+      },
+      {
+        "q": "Who proclaimed Jesus Christ to the Corinthians?",
+        "a": "Paul",
+        "o": [
+          "Peter",
+          "Apollos",
+          "Paul",
+          "James"
+        ],
+        "ref": "2 Corinthians 1:19"
+      },
+      {
+        "q": "Which two men proclaimed Christ with Paul?",
+        "a": "Silvanus and Timothy",
+        "o": [
+          "Barnabas and Mark",
+          "Peter and John",
+          "Luke and Titus",
+          "Silvanus and Timothy"
+        ],
+        "ref": "2 Corinthians 1:19"
+      },
+      {
+        "q": "In Christ there is always what?",
+        "a": "Yes",
+        "o": [
+          "No",
+          "Yes",
+          "Maybe",
+          "Judgment"
+        ],
+        "ref": "2 Corinthians 1:19"
+      },
+      {
+        "q": "How many of God's promises find their Yes in Christ?",
+        "a": "All",
+        "o": [
+          "Some",
+          "Most",
+          "All",
+          "Few"
+        ],
+        "ref": "2 Corinthians 1:20"
+      },
+      {
+        "q": "Through whom do believers say \"Amen\"?",
+        "a": "Christ",
+        "o": [
+          "The Holy Spirit",
+          "Christ",
+          "The angels",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 1:20"
+      },
+      {
+        "q": "For whose glory is \"Amen\" spoken?",
+        "a": "God",
+        "o": [
+          "Paul's",
+          "The church's",
+          "God",
+          "The angels'"
+        ],
+        "ref": "2 Corinthians 1:20"
+      },
+      {
+        "q": "Who establishes us with you in Christ?",
+        "a": "God",
+        "o": [
+          "The apostles",
+          "The Holy Spirit",
+          "The local elders",
+          "God"
+        ],
+        "ref": "2 Corinthians 1:21"
+      },
+      {
+        "q": "Who has anointed us?",
+        "a": "God",
+        "o": [
+          "God",
+          "Paul",
+          "Peter",
+          "John the Baptist"
+        ],
+        "ref": "2 Corinthians 1:21"
+      },
+      {
+        "q": "What has God put on us?",
+        "a": "His seal",
+        "o": [
+          "A heavy burden",
+          "A physical mark",
+          "His seal",
+          "A crown of thorns"
+        ],
+        "ref": "2 Corinthians 1:22"
+      },
+      {
+        "q": "What has God placed in our hearts?",
+        "a": "His Spirit",
+        "o": [
+          "Worldly wisdom",
+          "His Spirit",
+          "Fear",
+          "Doubt"
+        ],
+        "ref": "2 Corinthians 1:22"
+      },
+      {
+        "q": "What is the Spirit called in this verse?",
+        "a": "A first installment",
+        "o": [
+          "A gentle breeze",
+          "A burning fire",
+          "A final judgment",
+          "A first installment"
+        ],
+        "ref": "2 Corinthians 1:22"
+      },
+      {
+        "q": "Whom did Paul call as his witness?",
+        "a": "God",
+        "o": [
+          "Timothy",
+          "God",
+          "The Corinthian elders",
+          "The Holy Spirit"
+        ],
+        "ref": "2 Corinthians 1:23"
+      },
+      {
+        "q": "Upon what did Paul call God as witness?",
+        "a": "His life",
+        "o": [
+          "His ministry",
+          "The scriptures",
+          "His life",
+          "The church in Rome"
+        ],
+        "ref": "2 Corinthians 1:23"
+      },
+      {
+        "q": "Why did Paul not return to Corinth?",
+        "a": "To spare them",
+        "o": [
+          "He was imprisoned",
+          "He was shipwrecked",
+          "To spare them",
+          "He ran out of money"
+        ],
+        "ref": "2 Corinthians 1:23"
+      },
+      {
+        "q": "What did Paul say he was not lording over?",
+        "a": "Their faith",
+        "o": [
+          "Their money",
+          "Their faith",
+          "Their worship services",
+          "Their daily lives"
+        ],
+        "ref": "2 Corinthians 1:24"
+      },
+      {
+        "q": "What were Paul and his companions?",
+        "a": "Workers with them",
+        "o": [
+          "Masters over them",
+          "Judges of them",
+          "Strangers to them",
+          "Workers with them"
+        ],
+        "ref": "2 Corinthians 1:24"
+      },
+      {
+        "q": "For what did Paul work with them?",
+        "a": "Their joy",
+        "o": [
+          "Their wealth",
+          "Their fame",
+          "Their joy",
+          "Their discipline"
+        ],
+        "ref": "2 Corinthians 1:24"
+      },
+      {
+        "q": "By what do believers stand?",
+        "a": "Faith",
+        "o": [
+          "Good works",
+          "The law",
+          "Apostolic authority",
+          "Faith"
+        ],
+        "ref": "2 Corinthians 1:24"
+      }
+    ]
+  }
+}

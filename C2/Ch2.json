@@ -1,0 +1,490 @@
+{
+  "questionsDatabase": {
+    "ch2": [
+      {
+        "q": "What did Paul decide not to do again?",
+        "a": "Visit them in sorrow",
+        "o": [
+          "Write them a harsh letter",
+          "Send Timothy away",
+          "Visit them in sorrow",
+          "Boast about his sufferings"
+        ],
+        "ref": "2 Corinthians 2:1"
+      },
+      {
+        "q": "How did Paul not want to come to them?",
+        "a": "In sorrow",
+        "o": [
+          "In secret",
+          "In sorrow",
+          "In wealth",
+          "In weakness"
+        ],
+        "ref": "2 Corinthians 2:1"
+      },
+      {
+        "q": "If Paul caused the Corinthians sorrow, who could make him glad?",
+        "a": "The one whom he had made sorrowful",
+        "o": [
+          "The Roman officials",
+          "The apostles in Jerusalem",
+          "The one whom he had made sorrowful",
+          "The angels in heaven"
+        ],
+        "ref": "2 Corinthians 2:2"
+      },
+      {
+        "q": "What emotion did Paul mention in this verse?",
+        "a": "Gladness",
+        "o": [
+          "Gladness",
+          "Anger",
+          "Fear",
+          "Jealousy"
+        ],
+        "ref": "2 Corinthians 2:2"
+      },
+      {
+        "q": "Why did Paul write as he did?",
+        "a": "So that he would not suffer pain from those who should have made him rejoice",
+        "o": [
+          "Because he was physically unable to travel",
+          "To demand financial support",
+          "So that he would not suffer pain from those who should have made him rejoice",
+          "To scold the false apostles"
+        ],
+        "ref": "2 Corinthians 2:3"
+      },
+      {
+        "q": "Of what was Paul confident?",
+        "a": "That his joy would be the joy of all of them",
+        "o": [
+          "That they would send money",
+          "That his joy would be the joy of all of them",
+          "That they would defeat their enemies",
+          "That Peter would visit them"
+        ],
+        "ref": "2 Corinthians 2:3"
+      },
+      {
+        "q": "Out of what did Paul write to them?",
+        "a": "Great distress",
+        "o": [
+          "Arrogance",
+          "Great distress",
+          "Boredom",
+          "Perfect peace"
+        ],
+        "ref": "2 Corinthians 2:4"
+      },
+      {
+        "q": "Out of what else did Paul write?",
+        "a": "Anguish of heart",
+        "o": [
+          "Physical illness",
+          "Anguish of heart",
+          "Financial poverty",
+          "Fear of the Romans"
+        ],
+        "ref": "2 Corinthians 2:4"
+      },
+      {
+        "q": "With what did Paul write?",
+        "a": "Many tears",
+        "o": [
+          "Many tears",
+          "A heavy hand",
+          "Golden ink",
+          "Shaking hands"
+        ],
+        "ref": "2 Corinthians 2:4"
+      },
+      {
+        "q": "Why did Paul write?",
+        "a": "To let them know the abundant love he had for them",
+        "o": [
+          "To demand their obedience",
+          "To let them know the abundant love he had for them",
+          "To boast of his visions",
+          "To excommunicate the leaders"
+        ],
+        "ref": "2 Corinthians 2:4"
+      },
+      {
+        "q": "If anyone caused sorrow, whom had he not caused sorrow to completely?",
+        "a": "Paul",
+        "o": [
+          "Timothy",
+          "The whole church",
+          "God",
+          "Paul"
+        ],
+        "ref": "2 Corinthians 2:5"
+      },
+      {
+        "q": "Whom had he caused sorrow to?",
+        "a": "All of them",
+        "o": [
+          "The Romans",
+          "The Jews",
+          "All of them",
+          "Only the elders"
+        ],
+        "ref": "2 Corinthians 2:5"
+      },
+      {
+        "q": "What was sufficient for the offender?",
+        "a": "This punishment",
+        "o": [
+          "A harsh beating",
+          "This punishment",
+          "Exile",
+          "A monetary fine"
+        ],
+        "ref": "2 Corinthians 2:6"
+      },
+      {
+        "q": "By whom was the punishment inflicted?",
+        "a": "The majority",
+        "o": [
+          "Paul alone",
+          "The Roman guard",
+          "The majority",
+          "The high priest"
+        ],
+        "ref": "2 Corinthians 2:6"
+      },
+      {
+        "q": "What should the Corinthians now do?",
+        "a": "Forgive",
+        "o": [
+          "Forgive",
+          "Punish him more",
+          "Banish him",
+          "Report him"
+        ],
+        "ref": "2 Corinthians 2:7"
+      },
+      {
+        "q": "What else should they do?",
+        "a": "Console",
+        "o": [
+          "Ignore",
+          "Console",
+          "Condemn",
+          "Mock"
+        ],
+        "ref": "2 Corinthians 2:7"
+      },
+      {
+        "q": "Why should they forgive and console him?",
+        "a": "So that he would not be overwhelmed by excessive sorrow",
+        "o": [
+          "So that Paul would reward them",
+          "Because Roman law required it",
+          "So that he would not be overwhelmed by excessive sorrow",
+          "So that he would give them money"
+        ],
+        "ref": "2 Corinthians 2:7"
+      },
+      {
+        "q": "What did Paul urge the Corinthians to reaffirm?",
+        "a": "Their love",
+        "o": [
+          "Their faith",
+          "Their doctrinal purity",
+          "Their love",
+          "Their financial commitment"
+        ],
+        "ref": "2 Corinthians 2:8"
+      },
+      {
+        "q": "Toward whom should they reaffirm their love?",
+        "a": "The offender",
+        "o": [
+          "Paul",
+          "The offender",
+          "The Roman governor",
+          "Apollos"
+        ],
+        "ref": "2 Corinthians 2:8"
+      },
+      {
+        "q": "Why did Paul write to them?",
+        "a": "To test them",
+        "o": [
+          "To test them",
+          "To entertain them",
+          "To ask for money",
+          "To explain a vision"
+        ],
+        "ref": "2 Corinthians 2:9"
+      },
+      {
+        "q": "What did Paul want to know?",
+        "a": "Whether they were obedient in everything",
+        "o": [
+          "How much money they saved",
+          "Whether they were obedient in everything",
+          "If they built a new church",
+          "Whether they kept the Jewish law"
+        ],
+        "ref": "2 Corinthians 2:9"
+      },
+      {
+        "q": "What should the Corinthians do if they forgive anyone?",
+        "a": "Forgive",
+        "o": [
+          "Demand restitution",
+          "Forgive",
+          "Consult Paul first",
+          "Wait for an apology"
+        ],
+        "ref": "2 Corinthians 2:10"
+      },
+      {
+        "q": "In whose presence did Paul forgive?",
+        "a": "Christ",
+        "o": [
+          "The emperor",
+          "Christ",
+          "The high priest",
+          "The angels"
+        ],
+        "ref": "2 Corinthians 2:10"
+      },
+      {
+        "q": "For whose sake did Paul forgive?",
+        "a": "Their sake",
+        "o": [
+          "His own sake",
+          "God's sake",
+          "Their sake",
+          "The Roman's sake"
+        ],
+        "ref": "2 Corinthians 2:10"
+      },
+      {
+        "q": "Who must not outwit believers?",
+        "a": "Satan",
+        "o": [
+          "The Romans",
+          "Satan",
+          "The Pharisees",
+          "False teachers"
+        ],
+        "ref": "2 Corinthians 2:11"
+      },
+      {
+        "q": "Of what were believers not ignorant?",
+        "a": "Satan's designs",
+        "o": [
+          "The law of Moses",
+          "Roman law",
+          "Satan's designs",
+          "Greek philosophy"
+        ],
+        "ref": "2 Corinthians 2:11"
+      },
+      {
+        "q": "Where did Paul go to proclaim the gospel?",
+        "a": "Troas",
+        "o": [
+          "Troas",
+          "Athens",
+          "Jerusalem",
+          "Ephesus"
+        ],
+        "ref": "2 Corinthians 2:12"
+      },
+      {
+        "q": "What had been opened for Paul?",
+        "a": "A door in the Lord",
+        "o": [
+          "A scroll of Isaiah",
+          "A door in the Lord",
+          "A prison gate",
+          "A hidden pathway"
+        ],
+        "ref": "2 Corinthians 2:12"
+      },
+      {
+        "q": "Why did Paul have no peace of mind?",
+        "a": "He did not find Titus",
+        "o": [
+          "He was very sick",
+          "He did not find Titus",
+          "He lacked money",
+          "The Romans were chasing him"
+        ],
+        "ref": "2 Corinthians 2:13"
+      },
+      {
+        "q": "Whom was Paul looking for?",
+        "a": "Titus",
+        "o": [
+          "Timothy",
+          "Luke",
+          "Silas",
+          "Titus"
+        ],
+        "ref": "2 Corinthians 2:13"
+      },
+      {
+        "q": "To what region did Paul go?",
+        "a": "Macedonia",
+        "o": [
+          "Judea",
+          "Achaia",
+          "Macedonia",
+          "Galatia"
+        ],
+        "ref": "2 Corinthians 2:13"
+      },
+      {
+        "q": "Who always leads us in triumph?",
+        "a": "God",
+        "o": [
+          "Angels",
+          "The Holy Spirit",
+          "God",
+          "The apostles"
+        ],
+        "ref": "2 Corinthians 2:14"
+      },
+      {
+        "q": "In whom does God lead us in triumph?",
+        "a": "Christ",
+        "o": [
+          "The Spirit",
+          "Christ",
+          "Abraham",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 2:14"
+      },
+      {
+        "q": "What does God spread everywhere through us?",
+        "a": "The fragrance of the knowledge of Him",
+        "o": [
+          "The fear of judgment",
+          "The burden of the law",
+          "The fragrance of the knowledge of Him",
+          "The wealth of heaven"
+        ],
+        "ref": "2 Corinthians 2:14"
+      },
+      {
+        "q": "What are believers to God?",
+        "a": "The aroma of Christ",
+        "o": [
+          "The aroma of Christ",
+          "The salt of the earth",
+          "A holy temple",
+          "A chosen nation"
+        ],
+        "ref": "2 Corinthians 2:15"
+      },
+      {
+        "q": "Among whom is this aroma spread?",
+        "a": "Those who are being saved",
+        "o": [
+          "Only the Jews",
+          "The angels",
+          "Those who are being saved",
+          "The wealthy"
+        ],
+        "ref": "2 Corinthians 2:15"
+      },
+      {
+        "q": "Among whom else is it spread?",
+        "a": "Those who are perishing",
+        "o": [
+          "The Romans",
+          "Those who are perishing",
+          "The Pharisees",
+          "The Greeks"
+        ],
+        "ref": "2 Corinthians 2:15"
+      },
+      {
+        "q": "To some, believers are an aroma from what to what?",
+        "a": "Death to death",
+        "o": [
+          "Death to death",
+          "Life to life",
+          "Sin to judgment",
+          "Earth to heaven"
+        ],
+        "ref": "2 Corinthians 2:16"
+      },
+      {
+        "q": "To others, believers are an aroma from what to what?",
+        "a": "Life to life",
+        "o": [
+          "Death to death",
+          "Life to life",
+          "Hope to glory",
+          "Faith to faith"
+        ],
+        "ref": "2 Corinthians 2:16"
+      },
+      {
+        "q": "Who is sufficient for these things?",
+        "a": "No one",
+        "o": [
+          "Paul",
+          "The apostles",
+          "No one",
+          "Everyone who believes"
+        ],
+        "ref": "2 Corinthians 2:16"
+      },
+      {
+        "q": "What did Paul say he was not doing with God's word?",
+        "a": "Peddling it",
+        "o": [
+          "Memorizing it",
+          "Translating it",
+          "Peddling it",
+          "Keeping it secret"
+        ],
+        "ref": "2 Corinthians 2:17"
+      },
+      {
+        "q": "In whose sincerity did Paul speak?",
+        "a": "God's",
+        "o": [
+          "His own",
+          "God's",
+          "The church's",
+          "The apostles'"
+        ],
+        "ref": "2 Corinthians 2:17"
+      },
+      {
+        "q": "In whose presence did Paul speak?",
+        "a": "God",
+        "o": [
+          "The Romans",
+          "The high priest",
+          "God",
+          "The philosophers"
+        ],
+        "ref": "2 Corinthians 2:17"
+      },
+      {
+        "q": "In whom did Paul speak?",
+        "a": "Christ",
+        "o": [
+          "Moses",
+          "The Spirit",
+          "Christ",
+          "Elijah"
+        ],
+        "ref": "2 Corinthians 2:17"
+      }
+    ]
+  }
+}

@@ -199,6 +199,28 @@
             <button class="btn btn-orange" onclick="startQuiz('all')">🌟 All Chapters Mix</button>
         </div>
     </div>
+    <div style="height:24px"></div>
+    <div class="container" id="menu-screen-c2">
+        <h1>📖 2 Corinthians Quiz</h1>
+        <p class="subtitle">Study Guide Practice</p>
+        <div class="menu-grid">
+            <button class="btn" onclick="startQuizC2('Ch1')">Chapter 1</button>
+            <button class="btn" onclick="startQuizC2('Ch2')">Chapter 2</button>
+            <button class="btn" onclick="startQuizC2('Ch3')">Chapter 3</button>
+            <button class="btn" onclick="startQuizC2('Ch4')">Chapter 4</button>
+            <button class="btn" onclick="startQuizC2('Ch5')">Chapter 5</button>
+            <button class="btn" onclick="startQuizC2('Ch6')">Chapter 6</button>
+            <button class="btn" onclick="startQuizC2('Ch7')">Chapter 7</button>
+            <button class="btn" onclick="startQuizC2('Ch8')">Chapter 8</button>
+            <button class="btn" onclick="startQuizC2('Ch9')">Chapter 9</button>
+            <button class="btn" onclick="startQuizC2('Ch10')">Chapter 10</button>
+            <button class="btn" onclick="startQuizC2('Ch11')">Chapter 11</button>
+            <button class="btn" onclick="startQuizC2('Ch12')">Chapter 12</button>
+            <button class="btn" onclick="startQuizC2('Ch13')">Chapter 13</button>
+            <button class="btn btn-orange" onclick="startQuizC2('all')">🌟 All Chapters Mix</button>
+        </div>
+    </div>
+    
 
     <div class="container hidden" id="quiz-screen">
         <div class="progress-bar"><div class="progress" id="progress-indicator"></div></div>
@@ -241,6 +263,107 @@
                 console.error('Error parsing quiz database:', error);
             });
 
+        function startQuizC2(chapter) {
+                // Load a single chapter file from C2/ and start the quiz
+                function normalizeKey(k) { return k ? String(k).toLowerCase() : k; }
+                function extractQuestions(data, chapterKey) {
+                    if (!data) return [];
+                    if (Array.isArray(data)) return data;
+                    if (Array.isArray(data.questions)) return data.questions;
+                    // support files that wrap with questionsDatabase: { ch1: [...] }
+                    if (data.questionsDatabase && typeof data.questionsDatabase === 'object') {
+                        if (chapterKey) {
+                            const wanted = normalizeKey(chapterKey);
+                            // try direct key
+                            if (Array.isArray(data.questionsDatabase[wanted])) return data.questionsDatabase[wanted];
+                            // try matching ignoring case
+                            for (let k in data.questionsDatabase) {
+                                if (normalizeKey(k) === wanted && Array.isArray(data.questionsDatabase[k])) return data.questionsDatabase[k];
+                            }
+                        }
+                        // if no chapterKey or not found, concat all arrays inside questionsDatabase
+                        let out = [];
+                        for (let k in data.questionsDatabase) {
+                            if (Array.isArray(data.questionsDatabase[k])) out = out.concat(data.questionsDatabase[k]);
+                        }
+                        if (out.length) return out;
+                    }
+                    // fallback: collect any array values
+                    let out = [];
+                    for (let k in data) {
+                        if (Array.isArray(data[k])) out = out.concat(data[k]);
+                    }
+                    return out;
+                }
+
+                if (chapter === 'all') {
+                    const files = ['Ch1','Ch2','Ch3','Ch4','Ch5','Ch6','Ch7','Ch8','Ch9','Ch10','Ch11','Ch12','Ch13'];
+                    const fetches = files.map(f => fetch(`C2/${f}.json`).then(r => r.ok ? r.json() : null).catch(()=>null));
+                    Promise.all(fetches).then(results => {
+                        let combined = [];
+                        results.forEach(data => {
+                            if (!data) return;
+                            let arr = extractQuestions(data);
+                            if (arr && arr.length) combined = combined.concat(arr);
+                        });
+                        if (combined.length === 0) { alert('No questions found in C2 folder.'); return; }
+                        currentQuestions = combined.map(q => ({
+                            q: q.q || q.question || '',
+                            a: q.a || q.answer || '',
+                            o: [...(q.o || q.options || [])],
+                            ref: q.ref || '',
+                            shuffledOptions: [...(q.o || q.options || [])].sort(() => Math.random() - 0.5),
+                            userAnswer: null
+                        }));
+                        currentQuestions.sort(() => Math.random() - 0.5);
+                        activeQuestionIndex = 0;
+                        runningScore = 0;
+                        currentCategory = 'C2/all';
+                        document.getElementById('menu-screen').classList.add('hidden');
+                        const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.add('hidden');
+                        document.getElementById('result-screen').classList.add('hidden');
+                        document.getElementById('quiz-screen').classList.remove('hidden');
+                        displayQuestion();
+                    }).catch(err => { console.error(err); alert('Error loading C2 files.'); });
+                    return;
+                }
+
+                const path = `C2/${chapter}.json`;
+                fetch(path)
+                    .then(response => {
+                        if (!response.ok) throw new Error('Network response was not ok');
+                        return response.json();
+                    })
+                    .then(data => {
+                        let arr = extractQuestions(data, chapter);
+                        if (!arr || arr.length === 0) {
+                            alert('No questions found in ' + path);
+                            return;
+                        }
+                        currentQuestions = arr.map(q => ({
+                            q: q.q || q.question || '',
+                            a: q.a || q.answer || '',
+                            o: [...(q.o || q.options || [])],
+                            ref: q.ref || '',
+                            shuffledOptions: [...(q.o || q.options || [])].sort(() => Math.random() - 0.5),
+                            userAnswer: null
+                        }));
+                        currentQuestions.sort(() => Math.random() - 0.5);
+                        activeQuestionIndex = 0;
+                        runningScore = 0;
+                        currentCategory = `C2/${chapter}`;
+                        document.getElementById('menu-screen').classList.add('hidden');
+                        const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.add('hidden');
+                        document.getElementById('result-screen').classList.add('hidden');
+                        document.getElementById('quiz-screen').classList.remove('hidden');
+                        displayQuestion();
+                    })
+                    .catch(error => {
+                        console.error('Error loading chapter:', error);
+                        alert('Could not load chapter file: ' + path);
+                    });
+        }
+
         function startQuiz(category) {
             // Defensive check to ensure data has completely loaded from the JSON file
             if (!questionsDatabase || (category !== 'all' && !questionsDatabase[category])) {
@@ -250,6 +373,7 @@
 
             currentCategory = category;
             document.getElementById('menu-screen').classList.add('hidden');
+            const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('quiz-screen').classList.remove('hidden');
             
@@ -428,6 +552,7 @@
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('menu-screen').classList.remove('hidden');
+            const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.remove('hidden');
         }
     </script>
 </body>

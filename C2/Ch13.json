@@ -1,0 +1,413 @@
+{
+  "questionsDatabase": {
+    "ch13": [
+      {
+        "q": "How many times was Paul coming to the Corinthians?",
+        "a": "The third time",
+        "o": [
+          "The first time",
+          "The second time",
+          "The third time",
+          "The fourth time"
+        ],
+        "ref": "2 Corinthians 13:1"
+      },
+      {
+        "q": "By the testimony of how many witnesses must every charge be sustained?",
+        "a": "Two or three",
+        "o": [
+          "At least five",
+          "One credible witness",
+          "Two or three",
+          "Twelve"
+        ],
+        "ref": "2 Corinthians 13:1"
+      },
+      {
+        "q": "To whom had Paul previously given a warning?",
+        "a": "Those who had sinned before",
+        "o": [
+          "The Roman governor",
+          "Those who had sinned before",
+          "The church in Ephesus",
+          "The high priest"
+        ],
+        "ref": "2 Corinthians 13:2"
+      },
+      {
+        "q": "What would Paul not do if he came again?",
+        "a": "Spare them",
+        "o": [
+          "Spare them",
+          "Visit them",
+          "Write to them",
+          "Judge them"
+        ],
+        "ref": "2 Corinthians 13:2"
+      },
+      {
+        "q": "What proof were the Corinthians seeking?",
+        "a": "That Christ was speaking through Paul",
+        "o": [
+          "Of Paul's Roman citizenship",
+          "Of the resurrection",
+          "That Paul was sinless",
+          "That Christ was speaking through Paul"
+        ],
+        "ref": "2 Corinthians 13:3"
+      },
+      {
+        "q": "Is Christ weak in dealing with believers?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only when they sin",
+          "No",
+          "Sometimes"
+        ],
+        "ref": "2 Corinthians 13:3"
+      },
+      {
+        "q": "How is Christ among believers?",
+        "a": "Powerful",
+        "o": [
+          "Distant",
+          "Hidden",
+          "Powerful",
+          "Silent"
+        ],
+        "ref": "2 Corinthians 13:3"
+      },
+      {
+        "q": "Through what was Christ crucified?",
+        "a": "Weakness",
+        "o": [
+          "Anger",
+          "Weakness",
+          "Sin",
+          "Force"
+        ],
+        "ref": "2 Corinthians 13:4"
+      },
+      {
+        "q": "By what does Christ live?",
+        "a": "The power of God",
+        "o": [
+          "The power of God",
+          "Human will",
+          "The law",
+          "Angelic help"
+        ],
+        "ref": "2 Corinthians 13:4"
+      },
+      {
+        "q": "In what are believers weak?",
+        "a": "In Christ",
+        "o": [
+          "In the world",
+          "In their minds",
+          "In Christ",
+          "In the flesh"
+        ],
+        "ref": "2 Corinthians 13:4"
+      },
+      {
+        "q": "By what will believers live with Christ?",
+        "a": "The power of God",
+        "o": [
+          "Their own merits",
+          "The power of God",
+          "Strict obedience",
+          "Worldly wisdom"
+        ],
+        "ref": "2 Corinthians 13:4"
+      },
+      {
+        "q": "What did Paul tell the Corinthians to examine?",
+        "a": "Yourselves",
+        "o": [
+          "The scriptures",
+          "Paul's credentials",
+          "The false teachers",
+          "Yourselves"
+        ],
+        "ref": "2 Corinthians 13:5"
+      },
+      {
+        "q": "What were they to test?",
+        "a": "Yourselves",
+        "o": [
+          "The spirits",
+          "Yourselves",
+          "The local laws",
+          "The apostles"
+        ],
+        "ref": "2 Corinthians 13:5"
+      },
+      {
+        "q": "What were they to determine?",
+        "a": "Whether they were living in the faith",
+        "o": [
+          "How much they had given",
+          "Whether they were living in the faith",
+          "Who was the greatest",
+          "The date of Christ's return"
+        ],
+        "ref": "2 Corinthians 13:5"
+      },
+      {
+        "q": "Who was to be found in them?",
+        "a": "Jesus Christ",
+        "o": [
+          "The spirit of Moses",
+          "A holy angel",
+          "Jesus Christ",
+          "The wisdom of the Greeks"
+        ],
+        "ref": "2 Corinthians 13:5"
+      },
+      {
+        "q": "What did Paul hope the Corinthians would discover?",
+        "a": "That Paul had not failed the test",
+        "o": [
+          "That they were sinless",
+          "That Paul had not failed the test",
+          "A hidden treasure",
+          "A new prophecy"
+        ],
+        "ref": "2 Corinthians 13:6"
+      },
+      {
+        "q": "What did Paul pray the Corinthians would not do?",
+        "a": "Wrong",
+        "o": [
+          "Wrong",
+          "Flee",
+          "Pay him",
+          "Boast"
+        ],
+        "ref": "2 Corinthians 13:7"
+      },
+      {
+        "q": "Why did Paul want them to do what is right?",
+        "a": "So they would do what is right before God",
+        "o": [
+          "To prove Paul wrong",
+          "To earn salvation",
+          "To avoid Roman taxes",
+          "So they would do what is right before God"
+        ],
+        "ref": "2 Corinthians 13:7"
+      },
+      {
+        "q": "Against what can believers do nothing?",
+        "a": "The truth",
+        "o": [
+          "The truth",
+          "The Roman army",
+          "The law of gravity",
+          "The high priest"
+        ],
+        "ref": "2 Corinthians 13:8"
+      },
+      {
+        "q": "For what can believers work?",
+        "a": "The truth",
+        "o": [
+          "The truth",
+          "Earthly fame",
+          "Personal gain",
+          "The destruction of enemies"
+        ],
+        "ref": "2 Corinthians 13:8"
+      },
+      {
+        "q": "When did Paul rejoice?",
+        "a": "When he was weak and they were strong",
+        "o": [
+          "When he received gold",
+          "When he was weak and they were strong",
+          "When he defeated the super-apostles",
+          "When he was released from prison"
+        ],
+        "ref": "2 Corinthians 13:9"
+      },
+      {
+        "q": "For what did Paul pray?",
+        "a": "Their restoration",
+        "o": [
+          "Their wealth",
+          "The destruction of Corinth",
+          "Their restoration",
+          "A sign from heaven"
+        ],
+        "ref": "2 Corinthians 13:9"
+      },
+      {
+        "q": "Why did Paul write these things while absent?",
+        "a": "So he would not have to be severe when present",
+        "o": [
+          "Because he was afraid to face them",
+          "Because he had run out of money",
+          "So he would not have to be severe when present",
+          "To show off his writing skills"
+        ],
+        "ref": "2 Corinthians 13:10"
+      },
+      {
+        "q": "For what purpose had the Lord given Paul authority?",
+        "a": "To build up",
+        "o": [
+          "To rule",
+          "To build up",
+          "To collect taxes",
+          "To judge the world"
+        ],
+        "ref": "2 Corinthians 13:10"
+      },
+      {
+        "q": "Not for what purpose?",
+        "a": "To tear down",
+        "o": [
+          "To teach",
+          "To preach",
+          "To tear down",
+          "To travel"
+        ],
+        "ref": "2 Corinthians 13:10"
+      },
+      {
+        "q": "What did Paul tell the Corinthians to do?",
+        "a": "Rejoice",
+        "o": [
+          "Weep",
+          "Flee",
+          "Rejoice",
+          "Fight"
+        ],
+        "ref": "2 Corinthians 13:11"
+      },
+      {
+        "q": "What else did Paul tell them to do?",
+        "a": "Put things in order",
+        "o": [
+          "Build a temple",
+          "Put things in order",
+          "Seek worldly wisdom",
+          "Ignore the elders"
+        ],
+        "ref": "2 Corinthians 13:11"
+      },
+      {
+        "q": "What else?",
+        "a": "Listen to my appeal",
+        "o": [
+          "Listen to my appeal",
+          "Pay the tithe",
+          "Leave the city",
+          "Question the truth"
+        ],
+        "ref": "2 Corinthians 13:11"
+      },
+      {
+        "q": "What else?",
+        "a": "Agree with one another",
+        "o": [
+          "Agree with one another",
+          "Compete with one another",
+          "Judge the Gentiles",
+          "Learn Greek philosophy"
+        ],
+        "ref": "2 Corinthians 13:11"
+      },
+      {
+        "q": "What else?",
+        "a": "Live in peace",
+        "o": [
+          "Live in fear",
+          "Live in peace",
+          "Live in luxury",
+          "Live in isolation"
+        ],
+        "ref": "2 Corinthians 13:11"
+      },
+      {
+        "q": "Who would be with them?",
+        "a": "The God of love and peace",
+        "o": [
+          "The God of love and peace",
+          "The Roman legion",
+          "The spirits of the ancestors",
+          "The goddess Aphrodite"
+        ],
+        "ref": "2 Corinthians 13:11"
+      },
+      {
+        "q": "How were the Corinthians to greet one another?",
+        "a": "With a holy kiss",
+        "o": [
+          "With a handshake",
+          "With a holy kiss",
+          "With a bow",
+          "With a wave"
+        ],
+        "ref": "2 Corinthians 13:12"
+      },
+      {
+        "q": "Who sent greetings?",
+        "a": "All the saints",
+        "o": [
+          "Only Timothy",
+          "The Emperor",
+          "All the saints",
+          "The high priest"
+        ],
+        "ref": "2 Corinthians 13:13"
+      },
+      {
+        "q": "Whose grace did Paul mention?",
+        "a": "The Lord Jesus Christ",
+        "o": [
+          "The Lord Jesus Christ",
+          "The Virgin Mary",
+          "The prophet Elijah",
+          "King David"
+        ],
+        "ref": "2 Corinthians 13:14"
+      },
+      {
+        "q": "Whose love did Paul mention?",
+        "a": "God",
+        "o": [
+          "Moses",
+          "God",
+          "The church",
+          "The world"
+        ],
+        "ref": "2 Corinthians 13:14"
+      },
+      {
+        "q": "What fellowship did Paul mention?",
+        "a": "The fellowship of the Holy Spirit",
+        "o": [
+          "The fellowship of the Holy Spirit",
+          "The fellowship of the apostles",
+          "The fellowship of the table",
+          "The fellowship of the martyrs"
+        ],
+        "ref": "2 Corinthians 13:14"
+      },
+      {
+        "q": "With whom did Paul desire these blessings to be?",
+        "a": "All of you",
+        "o": [
+          "Only the leaders",
+          "The Jews only",
+          "All of you",
+          "Just the pure"
+        ],
+        "ref": "2 Corinthians 13:14"
+      }
+    ]
+  }
+}

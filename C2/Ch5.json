@@ -1,0 +1,633 @@
+{
+  "questionsDatabase": {
+    "ch5": [
+      {
+        "q": "What is destroyed according to this verse?",
+        "a": "Our earthly tent",
+        "o": [
+          "Our earthly tent",
+          "Our heavenly dwelling",
+          "The physical temple",
+          "The Roman empire"
+        ],
+        "ref": "2 Corinthians 5:1"
+      },
+      {
+        "q": "What kind of building do believers have from God?",
+        "a": "A house not made with hands",
+        "o": [
+          "A kingdom of gold",
+          "A temple of stone",
+          "A house not made with hands",
+          "A fortress of power"
+        ],
+        "ref": "2 Corinthians 5:1"
+      },
+      {
+        "q": "Where is this house?",
+        "a": "In heaven",
+        "o": [
+          "In Jerusalem",
+          "In our hearts",
+          "In heaven",
+          "On the new earth"
+        ],
+        "ref": "2 Corinthians 5:1"
+      },
+      {
+        "q": "How long is this house?",
+        "a": "Eternal",
+        "o": [
+          "A thousand years",
+          "Temporary",
+          "Eternal",
+          "Until the end of the age"
+        ],
+        "ref": "2 Corinthians 5:1"
+      },
+      {
+        "q": "What do believers do in the earthly tent?",
+        "a": "Groan",
+        "o": [
+          "Rejoice",
+          "Groan",
+          "Sleep",
+          "Fast"
+        ],
+        "ref": "2 Corinthians 5:2"
+      },
+      {
+        "q": "What do believers long to be clothed with?",
+        "a": "Our heavenly dwelling",
+        "o": [
+          "Royal robes",
+          "Our heavenly dwelling",
+          "The armor of God",
+          "Earthly riches"
+        ],
+        "ref": "2 Corinthians 5:2"
+      },
+      {
+        "q": "When clothed, what will believers not be found?",
+        "a": "Naked",
+        "o": [
+          "Guilty",
+          "Sleeping",
+          "Naked",
+          "Weeping"
+        ],
+        "ref": "2 Corinthians 5:3"
+      },
+      {
+        "q": "What do believers do while in this tent?",
+        "a": "Groan",
+        "o": [
+          "Tremble",
+          "Groan",
+          "Doubt",
+          "Sing"
+        ],
+        "ref": "2 Corinthians 5:4"
+      },
+      {
+        "q": "Why do believers groan?",
+        "a": "Because they are burdened",
+        "o": [
+          "Because they are sick",
+          "Because they are afraid",
+          "Because they are burdened",
+          "Because they lack faith"
+        ],
+        "ref": "2 Corinthians 5:4"
+      },
+      {
+        "q": "What do believers not wish?",
+        "a": "To be unclothed",
+        "o": [
+          "To be unclothed",
+          "To suffer persecution",
+          "To remain on earth",
+          "To be judged"
+        ],
+        "ref": "2 Corinthians 5:4"
+      },
+      {
+        "q": "What do believers wish instead?",
+        "a": "To be further clothed",
+        "o": [
+          "To become angels",
+          "To be further clothed",
+          "To rule the earth",
+          "To escape judgment"
+        ],
+        "ref": "2 Corinthians 5:4"
+      },
+      {
+        "q": "What will be swallowed up?",
+        "a": "What is mortal",
+        "o": [
+          "Our sins",
+          "The old covenant",
+          "What is mortal",
+          "The evil in the world"
+        ],
+        "ref": "2 Corinthians 5:4"
+      },
+      {
+        "q": "By what will mortality be swallowed up?",
+        "a": "Life",
+        "o": [
+          "Death",
+          "Life",
+          "Judgment",
+          "Glory"
+        ],
+        "ref": "2 Corinthians 5:4"
+      },
+      {
+        "q": "Who prepared believers for this very thing?",
+        "a": "God",
+        "o": [
+          "The apostles",
+          "Paul",
+          "God",
+          "Angels"
+        ],
+        "ref": "2 Corinthians 5:5"
+      },
+      {
+        "q": "What has God given as a guarantee?",
+        "a": "The Spirit",
+        "o": [
+          "The Law",
+          "The Spirit",
+          "The Church",
+          "Peace"
+        ],
+        "ref": "2 Corinthians 5:5"
+      },
+      {
+        "q": "What are believers always?",
+        "a": "Confident",
+        "o": [
+          "Confident",
+          "Joyful",
+          "Wealthy",
+          "Perfect"
+        ],
+        "ref": "2 Corinthians 5:6"
+      },
+      {
+        "q": "While at home in the body, believers are away from whom?",
+        "a": "The Lord",
+        "o": [
+          "The Spirit",
+          "The Lord",
+          "Their family",
+          "The angels"
+        ],
+        "ref": "2 Corinthians 5:6"
+      },
+      {
+        "q": "How do believers walk?",
+        "a": "By faith",
+        "o": [
+          "By the Law",
+          "By their own strength",
+          "By faith",
+          "By angelic guidance"
+        ],
+        "ref": "2 Corinthians 5:7"
+      },
+      {
+        "q": "Not by what?",
+        "a": "Sight",
+        "o": [
+          "Works",
+          "Sight",
+          "Human wisdom",
+          "Tradition"
+        ],
+        "ref": "2 Corinthians 5:7"
+      },
+      {
+        "q": "What would believers rather do than remain in the body?",
+        "a": "Be away from the body",
+        "o": [
+          "Rule nations",
+          "Be away from the body",
+          "Sleep endlessly",
+          "Return to their youth"
+        ],
+        "ref": "2 Corinthians 5:8"
+      },
+      {
+        "q": "With whom would believers rather be?",
+        "a": "The Lord",
+        "o": [
+          "The apostles",
+          "The Lord",
+          "The angels",
+          "Abraham"
+        ],
+        "ref": "2 Corinthians 5:8"
+      },
+      {
+        "q": "What is Paul's ambition?",
+        "a": "To please the Lord",
+        "o": [
+          "To travel to Spain",
+          "To build many churches",
+          "To please the Lord",
+          "To avoid prison"
+        ],
+        "ref": "2 Corinthians 5:9"
+      },
+      {
+        "q": "Whether at home or away, whom should believers please?",
+        "a": "The Lord",
+        "o": [
+          "Themselves",
+          "The church leaders",
+          "The Lord",
+          "The government"
+        ],
+        "ref": "2 Corinthians 5:9"
+      },
+      {
+        "q": "Before whose judgment seat must everyone appear?",
+        "a": "Christ",
+        "o": [
+          "The Roman Emperor",
+          "Christ",
+          "Peter",
+          "Paul"
+        ],
+        "ref": "2 Corinthians 5:10"
+      },
+      {
+        "q": "What will each person receive?",
+        "a": "What has been done in the body",
+        "o": [
+          "An earthly crown",
+          "What has been done in the body",
+          "A vision of the future",
+          "Seventy times seven rewards"
+        ],
+        "ref": "2 Corinthians 5:10"
+      },
+      {
+        "q": "Whether deeds are what two things?",
+        "a": "Good or evil",
+        "o": [
+          "Large or small",
+          "Public or private",
+          "Good or evil",
+          "Legal or illegal"
+        ],
+        "ref": "2 Corinthians 5:10"
+      },
+      {
+        "q": "What does Paul know?",
+        "a": "The fear of the Lord",
+        "o": [
+          "The day of judgment",
+          "The fear of the Lord",
+          "The thoughts of men",
+          "All earthly wisdom"
+        ],
+        "ref": "2 Corinthians 5:11"
+      },
+      {
+        "q": "What does Paul try to do?",
+        "a": "Persuade others",
+        "o": [
+          "Condemn the wicked",
+          "Gain wealth",
+          "Persuade others",
+          "Hide from enemies"
+        ],
+        "ref": "2 Corinthians 5:11"
+      },
+      {
+        "q": "To whom is Paul well known?",
+        "a": "God",
+        "o": [
+          "The Roman authorities",
+          "The high priests",
+          "God",
+          "The philosophers of Athens"
+        ],
+        "ref": "2 Corinthians 5:11"
+      },
+      {
+        "q": "What was Paul not doing again?",
+        "a": "Commending himself",
+        "o": [
+          "Asking for money",
+          "Commending himself",
+          "Writing a harsh letter",
+          "Planning to visit"
+        ],
+        "ref": "2 Corinthians 5:12"
+      },
+      {
+        "q": "What was Paul giving the Corinthians?",
+        "a": "An opportunity to boast about him",
+        "o": [
+          "A strict command",
+          "A financial blessing",
+          "An opportunity to boast about him",
+          "A new spiritual gift"
+        ],
+        "ref": "2 Corinthians 5:12"
+      },
+      {
+        "q": "Against whom would this help them answer?",
+        "a": "Those who boast in outward appearance",
+        "o": [
+          "The Roman authorities",
+          "Those who boast in outward appearance",
+          "The false prophets in Jerusalem",
+          "Those who keep the Law of Moses"
+        ],
+        "ref": "2 Corinthians 5:12"
+      },
+      {
+        "q": "If Paul was beside himself, it was for whom?",
+        "a": "God",
+        "o": [
+          "The angels",
+          "The Corinthians",
+          "God",
+          "The gospel"
+        ],
+        "ref": "2 Corinthians 5:13"
+      },
+      {
+        "q": "If Paul was in his right mind, it was for whom?",
+        "a": "The Corinthians",
+        "o": [
+          "God",
+          "The Corinthians",
+          "The Romans",
+          "Himself"
+        ],
+        "ref": "2 Corinthians 5:13"
+      },
+      {
+        "q": "What controls us?",
+        "a": "The love of Christ",
+        "o": [
+          "The fear of death",
+          "The Law of Moses",
+          "The love of Christ",
+          "The Holy Spirit"
+        ],
+        "ref": "2 Corinthians 5:14"
+      },
+      {
+        "q": "Who died for all?",
+        "a": "Christ",
+        "o": [
+          "Paul",
+          "Christ",
+          "Peter",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 5:14"
+      },
+      {
+        "q": "Therefore, what happened to all?",
+        "a": "All have died",
+        "o": [
+          "All are saved",
+          "All are guilty",
+          "All have died",
+          "All must suffer"
+        ],
+        "ref": "2 Corinthians 5:14"
+      },
+      {
+        "q": "For whom did Christ die?",
+        "a": "All",
+        "o": [
+          "Only the Jews",
+          "All",
+          "Only the apostles",
+          "The righteous"
+        ],
+        "ref": "2 Corinthians 5:15"
+      },
+      {
+        "q": "How should those who live no longer live?",
+        "a": "For themselves",
+        "o": [
+          "Under the Law",
+          "For themselves",
+          "In fear",
+          "For the world"
+        ],
+        "ref": "2 Corinthians 5:15"
+      },
+      {
+        "q": "For whom should believers live?",
+        "a": "For Christ",
+        "o": [
+          "For the church",
+          "For their families",
+          "For Christ",
+          "For their nation"
+        ],
+        "ref": "2 Corinthians 5:15"
+      },
+      {
+        "q": "How should we regard no one?",
+        "a": "From a human point of view",
+        "o": [
+          "From a human point of view",
+          "As an enemy",
+          "With judgment",
+          "As unworthy of grace"
+        ],
+        "ref": "2 Corinthians 5:16"
+      },
+      {
+        "q": "Whom did Paul once regard from a human point of view?",
+        "a": "Christ",
+        "o": [
+          "Peter",
+          "Christ",
+          "The Roman Emperor",
+          "Himself"
+        ],
+        "ref": "2 Corinthians 5:16"
+      },
+      {
+        "q": "If anyone is in Christ, what are they?",
+        "a": "A new creation",
+        "o": [
+          "A perfect being",
+          "An angel",
+          "A new creation",
+          "A prophet"
+        ],
+        "ref": "2 Corinthians 5:17"
+      },
+      {
+        "q": "What has passed away?",
+        "a": "The old",
+        "o": [
+          "The Law",
+          "The old",
+          "Sin",
+          "Their memory"
+        ],
+        "ref": "2 Corinthians 5:17"
+      },
+      {
+        "q": "What has become new?",
+        "a": "Everything",
+        "o": [
+          "Their body",
+          "Everything",
+          "Their wealth",
+          "Their relationships"
+        ],
+        "ref": "2 Corinthians 5:17"
+      },
+      {
+        "q": "From whom are all things?",
+        "a": "God",
+        "o": [
+          "Christ",
+          "The Holy Spirit",
+          "God",
+          "The earth"
+        ],
+        "ref": "2 Corinthians 5:18"
+      },
+      {
+        "q": "Through whom did God reconcile us?",
+        "a": "Christ",
+        "o": [
+          "Moses",
+          "The angels",
+          "Christ",
+          "Paul"
+        ],
+        "ref": "2 Corinthians 5:18"
+      },
+      {
+        "q": "What ministry has God given us?",
+        "a": "The ministry of reconciliation",
+        "o": [
+          "The ministry of judgment",
+          "The ministry of reconciliation",
+          "The ministry of the Law",
+          "The ministry of healing"
+        ],
+        "ref": "2 Corinthians 5:18"
+      },
+      {
+        "q": "In whom was God reconciling the world?",
+        "a": "Christ",
+        "o": [
+          "The church",
+          "Christ",
+          "The Spirit",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 5:19"
+      },
+      {
+        "q": "What was God not counting against people?",
+        "a": "Their trespasses",
+        "o": [
+          "Their past lives",
+          "Their debts",
+          "Their lack of faith",
+          "Their trespasses"
+        ],
+        "ref": "2 Corinthians 5:19"
+      },
+      {
+        "q": "What message has been entrusted to us?",
+        "a": "The message of reconciliation",
+        "o": [
+          "The message of doom",
+          "The message of prosperity",
+          "The message of reconciliation",
+          "The message of the Law"
+        ],
+        "ref": "2 Corinthians 5:19"
+      },
+      {
+        "q": "What are believers for Christ?",
+        "a": "Ambassadors",
+        "o": [
+          "Slaves",
+          "Judges",
+          "Ambassadors",
+          "Kings"
+        ],
+        "ref": "2 Corinthians 5:20"
+      },
+      {
+        "q": "Through whom is God making His appeal?",
+        "a": "Us",
+        "o": [
+          "Angels",
+          "Us",
+          "The rulers of the world",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 5:20"
+      },
+      {
+        "q": "What does Paul urge on behalf of Christ?",
+        "a": "Be reconciled to God",
+        "o": [
+          "Keep the commandments",
+          "Sell all your possessions",
+          "Be reconciled to God",
+          "Flee from evil"
+        ],
+        "ref": "2 Corinthians 5:20"
+      },
+      {
+        "q": "Who knew no sin?",
+        "a": "Christ",
+        "o": [
+          "Paul",
+          "Christ",
+          "Abraham",
+          "Mary"
+        ],
+        "ref": "2 Corinthians 5:21"
+      },
+      {
+        "q": "What did God make Christ to be for us?",
+        "a": "Sin",
+        "o": [
+          "A king",
+          "A priest",
+          "Sin",
+          "A judge"
+        ],
+        "ref": "2 Corinthians 5:21"
+      },
+      {
+        "q": "What might we become in Christ?",
+        "a": "The righteousness of God",
+        "o": [
+          "Angels in heaven",
+          "Perfect on earth",
+          "The righteousness of God",
+          "The masters of the world"
+        ],
+        "ref": "2 Corinthians 5:21"
+      }
+    ]
+  }
+}

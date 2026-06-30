@@ -1,0 +1,446 @@
+{
+  "questionsDatabase": {
+    "ch10": [
+      {
+        "q": "Who appealed to the Corinthians?",
+        "a": "Paul",
+        "o": [
+          "Peter",
+          "Apollos",
+          "Timothy",
+          "Paul"
+        ],
+        "ref": "2 Corinthians 10:1"
+      },
+      {
+        "q": "By what two qualities of Christ did Paul appeal?",
+        "a": "Meekness and gentleness",
+        "o": [
+          "Power and glory",
+          "Meekness and gentleness",
+          "Justice and wrath",
+          "Wisdom and knowledge"
+        ],
+        "ref": "2 Corinthians 10:1"
+      },
+      {
+        "q": "How did some people describe Paul when present?",
+        "a": "Humble",
+        "o": [
+          "Arrogant",
+          "Humble",
+          "Powerful",
+          "Eloquent"
+        ],
+        "ref": "2 Corinthians 10:1"
+      },
+      {
+        "q": "How did they describe him when absent?",
+        "a": "Bold",
+        "o": [
+          "Bold",
+          "Weak",
+          "Timid",
+          "Silent"
+        ],
+        "ref": "2 Corinthians 10:1"
+      },
+      {
+        "q": "What did Paul ask the Corinthians not to make him do?",
+        "a": "Be bold",
+        "o": [
+          "Leave them",
+          "Ask for money",
+          "Be bold",
+          "Weep"
+        ],
+        "ref": "2 Corinthians 10:2"
+      },
+      {
+        "q": "Against whom did Paul expect to be bold?",
+        "a": "Those who thought they lived by human standards",
+        "o": [
+          "The Roman authorities",
+          "Those who thought they lived by human standards",
+          "The false prophets in Jerusalem",
+          "The Greek philosophers"
+        ],
+        "ref": "2 Corinthians 10:2"
+      },
+      {
+        "q": "In what do believers live?",
+        "a": "The flesh",
+        "o": [
+          "The spirit",
+          "The world",
+          "The flesh",
+          "The temple"
+        ],
+        "ref": "2 Corinthians 10:3"
+      },
+      {
+        "q": "According to what do believers not wage war?",
+        "a": "The flesh",
+        "o": [
+          "The Spirit",
+          "The flesh",
+          "The truth",
+          "The law"
+        ],
+        "ref": "2 Corinthians 10:3"
+      },
+      {
+        "q": "Are the weapons of our warfare merely human?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Sometimes",
+          "Only in physical battles"
+        ],
+        "ref": "2 Corinthians 10:4"
+      },
+      {
+        "q": "What power do our weapons have?",
+        "a": "Divine power",
+        "o": [
+          "Political power",
+          "Intellectual power",
+          "Divine power",
+          "Roman power"
+        ],
+        "ref": "2 Corinthians 10:4"
+      },
+      {
+        "q": "What can these weapons destroy?",
+        "a": "Strongholds",
+        "o": [
+          "Empires",
+          "False gods",
+          "Physical walls",
+          "Strongholds"
+        ],
+        "ref": "2 Corinthians 10:4"
+      },
+      {
+        "q": "What do believers destroy?",
+        "a": "Arguments",
+        "o": [
+          "Physical temples",
+          "Arguments",
+          "Roman laws",
+          "Idols of stone"
+        ],
+        "ref": "2 Corinthians 10:5"
+      },
+      {
+        "q": "What else do believers destroy?",
+        "a": "Every proud obstacle",
+        "o": [
+          "Every proud obstacle",
+          "Every government",
+          "Every earthly king",
+          "Every opposing army"
+        ],
+        "ref": "2 Corinthians 10:5"
+      },
+      {
+        "q": "Raised against what?",
+        "a": "The knowledge of God",
+        "o": [
+          "The church of Corinth",
+          "The Roman Empire",
+          "The knowledge of God",
+          "The law of Moses"
+        ],
+        "ref": "2 Corinthians 10:5"
+      },
+      {
+        "q": "What should every thought be taken captive to?",
+        "a": "Obey Christ",
+        "o": [
+          "Serve the church",
+          "Please God the Father",
+          "Follow the law",
+          "Obey Christ"
+        ],
+        "ref": "2 Corinthians 10:5"
+      },
+      {
+        "q": "What was Paul ready to punish?",
+        "a": "Every disobedience",
+        "o": [
+          "Every disobedience",
+          "The Roman guards",
+          "The false apostles",
+          "Those who did not pay tithes"
+        ],
+        "ref": "2 Corinthians 10:6"
+      },
+      {
+        "q": "When would Paul do this?",
+        "a": "When their obedience was complete",
+        "o": [
+          "When he arrived in Corinth",
+          "When their obedience was complete",
+          "After the Passover",
+          "When the Roman governor left"
+        ],
+        "ref": "2 Corinthians 10:6"
+      },
+      {
+        "q": "At what should the Corinthians look?",
+        "a": "What is before their eyes",
+        "o": [
+          "The visions of angels",
+          "The ancient scriptures",
+          "What is before their eyes",
+          "The letters of Peter"
+        ],
+        "ref": "2 Corinthians 10:7"
+      },
+      {
+        "q": "If anyone belongs to Christ, what should they remember?",
+        "a": "Paul also belongs to Christ",
+        "o": [
+          "They are free from the law",
+          "Paul also belongs to Christ",
+          "They must go to Jerusalem",
+          "They should sell their possessions"
+        ],
+        "ref": "2 Corinthians 10:7"
+      },
+      {
+        "q": "For what purpose did the Lord give Paul authority?",
+        "a": "To build up",
+        "o": [
+          "To tear down",
+          "To rule over them",
+          "To build up",
+          "To gain wealth"
+        ],
+        "ref": "2 Corinthians 10:8"
+      },
+      {
+        "q": "Not for what purpose?",
+        "a": "To tear down",
+        "o": [
+          "To tear down",
+          "To build up",
+          "To teach Gentiles",
+          "To heal the sick"
+        ],
+        "ref": "2 Corinthians 10:8"
+      },
+      {
+        "q": "What did Paul not want to appear to do?",
+        "a": "Frighten them with his letters",
+        "o": [
+          "Ask them for money",
+          "Command them harshly",
+          "Ignore their struggles",
+          "Frighten them with his letters"
+        ],
+        "ref": "2 Corinthians 10:9"
+      },
+      {
+        "q": "How did some describe Paul's letters?",
+        "a": "Weighty and strong",
+        "o": [
+          "Weak and timid",
+          "Weighty and strong",
+          "Confusing and long",
+          "Full of grace"
+        ],
+        "ref": "2 Corinthians 10:10"
+      },
+      {
+        "q": "How did they describe Paul's bodily presence?",
+        "a": "Weak",
+        "o": [
+          "Intimidating",
+          "Strong",
+          "Weak",
+          "Majestic"
+        ],
+        "ref": "2 Corinthians 10:10"
+      },
+      {
+        "q": "How did they describe Paul's speech?",
+        "a": "Contemptible",
+        "o": [
+          "Eloquent",
+          "Persuasive",
+          "Contemptible",
+          "Divine"
+        ],
+        "ref": "2 Corinthians 10:10"
+      },
+      {
+        "q": "What did Paul say about his actions?",
+        "a": "They would match his words",
+        "o": [
+          "They would be gentle",
+          "They would match his words",
+          "They would surprise them",
+          "They would be guided by the Spirit"
+        ],
+        "ref": "2 Corinthians 10:11"
+      },
+      {
+        "q": "What did Paul refuse to do?",
+        "a": "Compare himself with others",
+        "o": [
+          "Take money from them",
+          "Visit them again",
+          "Compare himself with others",
+          "Write another letter"
+        ],
+        "ref": "2 Corinthians 10:12"
+      },
+      {
+        "q": "What did Paul say about those who compare themselves with themselves?",
+        "a": "They are not wise",
+        "o": [
+          "They are proud",
+          "They are not wise",
+          "They are cursed",
+          "They are hypocrites"
+        ],
+        "ref": "2 Corinthians 10:12"
+      },
+      {
+        "q": "Beyond what would Paul not boast?",
+        "a": "Proper limits",
+        "o": [
+          "Proper limits",
+          "His visions",
+          "The grace of God",
+          "The cross of Christ"
+        ],
+        "ref": "2 Corinthians 10:13"
+      },
+      {
+        "q": "What had God assigned Paul?",
+        "a": "A field of ministry",
+        "o": [
+          "A physical throne",
+          "A heavy burden",
+          "A field of ministry",
+          "A specific church"
+        ],
+        "ref": "2 Corinthians 10:13"
+      },
+      {
+        "q": "Had Paul reached the Corinthians?",
+        "a": "Yes",
+        "o": [
+          "No",
+          "He was on his way",
+          "Yes",
+          "Only through letters"
+        ],
+        "ref": "2 Corinthians 10:14"
+      },
+      {
+        "q": "What had Paul brought to them?",
+        "a": "The gospel of Christ",
+        "o": [
+          "The law of Moses",
+          "The gospel of Christ",
+          "A collection for the poor",
+          "The letters from Jerusalem"
+        ],
+        "ref": "2 Corinthians 10:14"
+      },
+      {
+        "q": "In whose labors did Paul refuse to boast?",
+        "a": "Another's",
+        "o": [
+          "His own",
+          "The Corinthians'",
+          "Another's",
+          "The apostles in Jerusalem"
+        ],
+        "ref": "2 Corinthians 10:15"
+      },
+      {
+        "q": "What did Paul hope would increase?",
+        "a": "Their faith",
+        "o": [
+          "Their wealth",
+          "Their faith",
+          "Their numbers",
+          "Their spiritual gifts"
+        ],
+        "ref": "2 Corinthians 10:15"
+      },
+      {
+        "q": "Where did Paul hope to preach the gospel?",
+        "a": "Beyond Corinth",
+        "o": [
+          "In Jerusalem",
+          "In Rome",
+          "In Antioch",
+          "Beyond Corinth"
+        ],
+        "ref": "2 Corinthians 10:16"
+      },
+      {
+        "q": "Why did Paul not want to boast elsewhere?",
+        "a": "The work had already been done",
+        "o": [
+          "The work had already been done",
+          "He was afraid of persecution",
+          "He lacked funds",
+          "He did not speak the language"
+        ],
+        "ref": "2 Corinthians 10:16"
+      },
+      {
+        "q": "Who should boast?",
+        "a": "The one who boasts",
+        "o": [
+          "The rich",
+          "The one who boasts",
+          "The apostles",
+          "The strong"
+        ],
+        "ref": "2 Corinthians 10:17"
+      },
+      {
+        "q": "In whom should they boast?",
+        "a": "The Lord",
+        "o": [
+          "Themselves",
+          "Paul",
+          "The Lord",
+          "Their spiritual gifts"
+        ],
+        "ref": "2 Corinthians 10:17"
+      },
+      {
+        "q": "Who is approved?",
+        "a": "The one whom the Lord commends",
+        "o": [
+          "The one who works miracles",
+          "The one whom the Lord commends",
+          "The one who speaks in tongues",
+          "The one who gives everything to the poor"
+        ],
+        "ref": "2 Corinthians 10:18"
+      },
+      {
+        "q": "Who is not approved?",
+        "a": "The one who commends himself",
+        "o": [
+          "The one who questions Paul",
+          "The one who lacks faith",
+          "The one who fails to give",
+          "The one who commends himself"
+        ],
+        "ref": "2 Corinthians 10:18"
+      }
+    ]
+  }
+}

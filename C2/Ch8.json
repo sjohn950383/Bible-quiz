@@ -1,0 +1,721 @@
+{
+  "questionsDatabase": {
+    "ch8": [
+      {
+        "q": "What did Paul want the Corinthians to know?",
+        "a": "The grace of God",
+        "o": [
+          "The law of Moses",
+          "The grace of God",
+          "The anger of the Lord",
+          "The history of Israel"
+        ],
+        "ref": "2 Corinthians 8:1"
+      },
+      {
+        "q": "To whom had God's grace been given?",
+        "a": "The churches of Macedonia",
+        "o": [
+          "The churches of Galatia",
+          "The believers in Rome",
+          "The saints in Ephesus",
+          "The churches of Macedonia"
+        ],
+        "ref": "2 Corinthians 8:1"
+      },
+      {
+        "q": "What severe experience had the Macedonian churches endured?",
+        "a": "A severe ordeal of affliction",
+        "o": [
+          "A great famine",
+          "A severe ordeal of affliction",
+          "A devastating earthquake",
+          "A brutal persecution by Romans"
+        ],
+        "ref": "2 Corinthians 8:2"
+      },
+      {
+        "q": "What overflowed despite their affliction?",
+        "a": "Their abundant joy",
+        "o": [
+          "Their financial wealth",
+          "Their abundant joy",
+          "Their bitter tears",
+          "Their deep resentment"
+        ],
+        "ref": "2 Corinthians 8:2"
+      },
+      {
+        "q": "What was their financial condition?",
+        "a": "Extreme poverty",
+        "o": [
+          "Great wealth",
+          "Moderate means",
+          "Extreme poverty",
+          "Complete bankruptcy"
+        ],
+        "ref": "2 Corinthians 8:2"
+      },
+      {
+        "q": "What did their joy and poverty produce?",
+        "a": "A wealth of generosity",
+        "o": [
+          "A wealth of generosity",
+          "A desire to hoard",
+          "A wealth of knowledge",
+          "A spirit of jealousy"
+        ],
+        "ref": "2 Corinthians 8:2"
+      },
+      {
+        "q": "According to what did they give?",
+        "a": "Their means",
+        "o": [
+          "The Roman tax laws",
+          "The strict tithe",
+          "Their means",
+          "Paul's command"
+        ],
+        "ref": "2 Corinthians 8:3"
+      },
+      {
+        "q": "Beyond what did they give?",
+        "a": "Their means",
+        "o": [
+          "Their means",
+          "Their expectations",
+          "The temple requirements",
+          "The needs of the saints"
+        ],
+        "ref": "2 Corinthians 8:3"
+      },
+      {
+        "q": "How did they give?",
+        "a": "Voluntarily",
+        "o": [
+          "Reluctantly",
+          "Under compulsion",
+          "Voluntarily",
+          "By a strict quota"
+        ],
+        "ref": "2 Corinthians 8:3"
+      },
+      {
+        "q": "For what did the Macedonians earnestly beg Paul?",
+        "a": "The privilege of sharing",
+        "o": [
+          "The opportunity to travel",
+          "The privilege of sharing",
+          "The right to preach",
+          "The lifting of their burden"
+        ],
+        "ref": "2 Corinthians 8:4"
+      },
+      {
+        "q": "In what ministry did they want to share?",
+        "a": "The ministry to the saints",
+        "o": [
+          "The ministry to the Gentiles",
+          "The ministry to the saints",
+          "The building of the temple",
+          "The buying of freedom"
+        ],
+        "ref": "2 Corinthians 8:4"
+      },
+      {
+        "q": "What did the Macedonians first give?",
+        "a": "Themselves",
+        "o": [
+          "Their money",
+          "Their land",
+          "Their livestock",
+          "Themselves"
+        ],
+        "ref": "2 Corinthians 8:5"
+      },
+      {
+        "q": "To whom did they first give themselves?",
+        "a": "The Lord",
+        "o": [
+          "The Lord",
+          "Paul",
+          "The Roman Emperor",
+          "The high priest"
+        ],
+        "ref": "2 Corinthians 8:5"
+      },
+      {
+        "q": "To whom did they also give themselves?",
+        "a": "Us",
+        "o": [
+          "The poor",
+          "Us",
+          "The local magistrates",
+          "The prophets"
+        ],
+        "ref": "2 Corinthians 8:5"
+      },
+      {
+        "q": "According to whose will did they do this?",
+        "a": "God's will",
+        "o": [
+          "Paul's will",
+          "Their own desires",
+          "God's will",
+          "The apostles' decree"
+        ],
+        "ref": "2 Corinthians 8:5"
+      },
+      {
+        "q": "Whom did Paul urge to complete this generous undertaking?",
+        "a": "Titus",
+        "o": [
+          "Timothy",
+          "Luke",
+          "Titus",
+          "Silas"
+        ],
+        "ref": "2 Corinthians 8:6"
+      },
+      {
+        "q": "In what did the Corinthians excel?",
+        "a": "Faith",
+        "o": [
+          "Giving",
+          "Humility",
+          "Faith",
+          "Patience"
+        ],
+        "ref": "2 Corinthians 8:7"
+      },
+      {
+        "q": "Name another area in which they excelled.",
+        "a": "Speech",
+        "o": [
+          "Wealth",
+          "Miracles",
+          "Architecture",
+          "Speech"
+        ],
+        "ref": "2 Corinthians 8:7"
+      },
+      {
+        "q": "Name another.",
+        "a": "Knowledge",
+        "o": [
+          "Knowledge",
+          "Fasting",
+          "Prophecy",
+          "Travel"
+        ],
+        "ref": "2 Corinthians 8:7"
+      },
+      {
+        "q": "Name another.",
+        "a": "Utmost eagerness",
+        "o": [
+          "Hospitality",
+          "Cautious planning",
+          "Utmost eagerness",
+          "Deep sorrow"
+        ],
+        "ref": "2 Corinthians 8:7"
+      },
+      {
+        "q": "Name another.",
+        "a": "Love",
+        "o": [
+          "Hope",
+          "Love",
+          "Righteousness",
+          "Vengeance"
+        ],
+        "ref": "2 Corinthians 8:7"
+      },
+      {
+        "q": "In what did Paul urge them to excel also?",
+        "a": "This generous undertaking",
+        "o": [
+          "Speaking in tongues",
+          "This generous undertaking",
+          "Fleeing persecution",
+          "Building churches"
+        ],
+        "ref": "2 Corinthians 8:7"
+      },
+      {
+        "q": "Was Paul giving a command?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only to the wealthy",
+          "Only to the elders",
+          "No"
+        ],
+        "ref": "2 Corinthians 8:8"
+      },
+      {
+        "q": "What was Paul testing?",
+        "a": "The genuineness of their love",
+        "o": [
+          "The size of their wallets",
+          "Their obedience to the law",
+          "The genuineness of their love",
+          "Their theological knowledge"
+        ],
+        "ref": "2 Corinthians 8:8"
+      },
+      {
+        "q": "Whose generous act did the Corinthians know?",
+        "a": "Jesus Christ",
+        "o": [
+          "Jesus Christ",
+          "David's",
+          "Abraham's",
+          "Moses'"
+        ],
+        "ref": "2 Corinthians 8:9"
+      },
+      {
+        "q": "Though Christ was what?",
+        "a": "Rich",
+        "o": [
+          "Poor",
+          "Rich",
+          "A servant",
+          "Exalted"
+        ],
+        "ref": "2 Corinthians 8:9"
+      },
+      {
+        "q": "What did Christ become?",
+        "a": "Poor",
+        "o": [
+          "Wealthy",
+          "Poor",
+          "A king",
+          "An angel"
+        ],
+        "ref": "2 Corinthians 8:9"
+      },
+      {
+        "q": "Why did Christ become poor?",
+        "a": "So that you might become rich",
+        "o": [
+          "To fulfill the law",
+          "So that you might become rich",
+          "To pay the Romans",
+          "So he could suffer"
+        ],
+        "ref": "2 Corinthians 8:9"
+      },
+      {
+        "q": "What did Paul give regarding this matter?",
+        "a": "His opinion",
+        "o": [
+          "His opinion",
+          "A strict command",
+          "A prophecy",
+          "A legal contract"
+        ],
+        "ref": "2 Corinthians 8:10"
+      },
+      {
+        "q": "What had the Corinthians begun the previous year?",
+        "a": "The work",
+        "o": [
+          "The work",
+          "A new temple",
+          "A fast",
+          "A theological debate"
+        ],
+        "ref": "2 Corinthians 8:10"
+      },
+      {
+        "q": "What else had they begun?",
+        "a": "The desire to do it",
+        "o": [
+          "A collection for Paul",
+          "The desire to do it",
+          "A rebellion",
+          "A journey to Rome"
+        ],
+        "ref": "2 Corinthians 8:10"
+      },
+      {
+        "q": "What did Paul tell them to do?",
+        "a": "Finish doing it",
+        "o": [
+          "Stop doing it",
+          "Let others do it",
+          "Finish doing it",
+          "Pray about it"
+        ],
+        "ref": "2 Corinthians 8:11"
+      },
+      {
+        "q": "According to what should they complete it?",
+        "a": "Their means",
+        "o": [
+          "Paul's demands",
+          "Their means",
+          "The needs of the poor",
+          "A fixed percentage"
+        ],
+        "ref": "2 Corinthians 8:11"
+      },
+      {
+        "q": "What makes a gift acceptable?",
+        "a": "Eagerness",
+        "o": [
+          "The exact amount",
+          "The type of currency",
+          "Eagerness",
+          "The public display"
+        ],
+        "ref": "2 Corinthians 8:12"
+      },
+      {
+        "q": "According to what is a gift accepted?",
+        "a": "What one has",
+        "o": [
+          "What one promised",
+          "What one has",
+          "What others give",
+          "The current tax rate"
+        ],
+        "ref": "2 Corinthians 8:12"
+      },
+      {
+        "q": "According to what is it not accepted?",
+        "a": "What one does not have",
+        "o": [
+          "The color of the coin",
+          "What one does not have",
+          "The day of the week",
+          "What the rich have"
+        ],
+        "ref": "2 Corinthians 8:12"
+      },
+      {
+        "q": "Did Paul desire relief for others and hardship for the Corinthians?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only for a short time",
+          "He didn't care",
+          "No"
+        ],
+        "ref": "2 Corinthians 8:13"
+      },
+      {
+        "q": "What did Paul seek instead?",
+        "a": "A fair balance",
+        "o": [
+          "Complete equality",
+          "Total poverty for all",
+          "A fair balance",
+          "A surplus in Jerusalem"
+        ],
+        "ref": "2 Corinthians 8:13"
+      },
+      {
+        "q": "What would the Corinthians' present abundance supply?",
+        "a": "The needs of others",
+        "o": [
+          "The needs of others",
+          "A new synagogue",
+          "Paul's travel fund",
+          "The Roman taxes"
+        ],
+        "ref": "2 Corinthians 8:14"
+      },
+      {
+        "q": "What might one day supply the Corinthians' need?",
+        "a": "Their abundance",
+        "o": [
+          "The government's aid",
+          "Their abundance",
+          "A miracle",
+          "Paul's labor"
+        ],
+        "ref": "2 Corinthians 8:14"
+      },
+      {
+        "q": "What would result?",
+        "a": "A fair balance",
+        "o": [
+          "Complete wealth",
+          "Absolute poverty",
+          "A hierarchical system",
+          "A fair balance"
+        ],
+        "ref": "2 Corinthians 8:14"
+      },
+      {
+        "q": "Who had nothing left over?",
+        "a": "The one who gathered much",
+        "o": [
+          "The lazy worker",
+          "The one who gathered much",
+          "The one who slept",
+          "The tax collector"
+        ],
+        "ref": "2 Corinthians 8:15"
+      },
+      {
+        "q": "Who had no shortage?",
+        "a": "The one who gathered little",
+        "o": [
+          "The wealthiest man",
+          "The king",
+          "The one who gathered little",
+          "The one who didn't work"
+        ],
+        "ref": "2 Corinthians 8:15"
+      },
+      {
+        "q": "Who put the same eagerness into Titus' heart?",
+        "a": "God",
+        "o": [
+          "God",
+          "Paul",
+          "The Macedonians",
+          "Peter"
+        ],
+        "ref": "2 Corinthians 8:16"
+      },
+      {
+        "q": "How did Titus go to Corinth?",
+        "a": "Voluntarily",
+        "o": [
+          "Begrudgingly",
+          "By Paul's strict order",
+          "Voluntarily",
+          "Under Roman escort"
+        ],
+        "ref": "2 Corinthians 8:17"
+      },
+      {
+        "q": "What had Titus accepted?",
+        "a": "Paul's appeal",
+        "o": [
+          "A large bribe",
+          "Paul's appeal",
+          "A promotion",
+          "A new prophecy"
+        ],
+        "ref": "2 Corinthians 8:17"
+      },
+      {
+        "q": "Who was sent with Titus?",
+        "a": "The brother",
+        "o": [
+          "Luke",
+          "The brother",
+          "Barnabas",
+          "Silas"
+        ],
+        "ref": "2 Corinthians 8:18"
+      },
+      {
+        "q": "For what was this brother praised?",
+        "a": "Proclaiming the good news",
+        "o": [
+          "His wealth",
+          "His physical strength",
+          "His tent-making skills",
+          "Proclaiming the good news"
+        ],
+        "ref": "2 Corinthians 8:18"
+      },
+      {
+        "q": "What had the churches appointed the brother to do?",
+        "a": "Travel with Paul",
+        "o": [
+          "Guard the money",
+          "Preach in Rome",
+          "Travel with Paul",
+          "Write a letter"
+        ],
+        "ref": "2 Corinthians 8:19"
+      },
+      {
+        "q": "What was being administered?",
+        "a": "This generous gift",
+        "o": [
+          "This generous gift",
+          "A new sacrament",
+          "The Lord's supper",
+          "Church discipline"
+        ],
+        "ref": "2 Corinthians 8:19"
+      },
+      {
+        "q": "For whose glory was the gift administered?",
+        "a": "The Lord's",
+        "o": [
+          "Paul's",
+          "The Macedonians'",
+          "The Lord's",
+          "The emperor's"
+        ],
+        "ref": "2 Corinthians 8:19"
+      },
+      {
+        "q": "What did Paul want to avoid?",
+        "a": "Blame",
+        "o": [
+          "Travel",
+          "Blame",
+          "Hunger",
+          "Preaching"
+        ],
+        "ref": "2 Corinthians 8:20"
+      },
+      {
+        "q": "In regard to what?",
+        "a": "This generous gift",
+        "o": [
+          "His theological views",
+          "His Roman citizenship",
+          "This generous gift",
+          "His past sins"
+        ],
+        "ref": "2 Corinthians 8:20"
+      },
+      {
+        "q": "What was Paul careful to do?",
+        "a": "Do what is right",
+        "o": [
+          "Hide the money",
+          "Spend it quickly",
+          "Give it to the Romans",
+          "Do what is right"
+        ],
+        "ref": "2 Corinthians 8:21"
+      },
+      {
+        "q": "Before whom?",
+        "a": "The Lord",
+        "o": [
+          "The Emperor",
+          "The Lord",
+          "The high priest",
+          "The angels"
+        ],
+        "ref": "2 Corinthians 8:21"
+      },
+      {
+        "q": "Before whom else?",
+        "a": "People",
+        "o": [
+          "Animals",
+          "Angels",
+          "People",
+          "Demons"
+        ],
+        "ref": "2 Corinthians 8:21"
+      },
+      {
+        "q": "Who else did Paul send?",
+        "a": "Our brother",
+        "o": [
+          "Apollos",
+          "A Roman centurion",
+          "A Greek philosopher",
+          "Our brother"
+        ],
+        "ref": "2 Corinthians 8:22"
+      },
+      {
+        "q": "What quality had this brother often demonstrated?",
+        "a": "Diligence",
+        "o": [
+          "Laziness",
+          "Wealth",
+          "Diligence",
+          "Eloquence"
+        ],
+        "ref": "2 Corinthians 8:22"
+      },
+      {
+        "q": "Titus was whose partner?",
+        "a": "Paul's",
+        "o": [
+          "Peter's",
+          "The Romans'",
+          "Paul's",
+          "Barnabas'"
+        ],
+        "ref": "2 Corinthians 8:23"
+      },
+      {
+        "q": "Titus was whose coworker?",
+        "a": "Paul's",
+        "o": [
+          "Paul's",
+          "John's",
+          "The high priest's",
+          "Apollos'"
+        ],
+        "ref": "2 Corinthians 8:23"
+      },
+      {
+        "q": "What are the other brothers called?",
+        "a": "Messengers of the churches",
+        "o": [
+          "Kings of the earth",
+          "Messengers of the churches",
+          "Angels of light",
+          "Prophets of old"
+        ],
+        "ref": "2 Corinthians 8:23"
+      },
+      {
+        "q": "Whose glory are they?",
+        "a": "Christ's",
+        "o": [
+          "Paul's",
+          "Christ's",
+          "The world's",
+          "Their own"
+        ],
+        "ref": "2 Corinthians 8:23"
+      },
+      {
+        "q": "What did Paul tell the Corinthians to show?",
+        "a": "Their love",
+        "o": [
+          "Their money",
+          "Their power",
+          "Their intellect",
+          "Their love"
+        ],
+        "ref": "2 Corinthians 8:24"
+      },
+      {
+        "q": "Before whom should they show it?",
+        "a": "The churches",
+        "o": [
+          "The Roman authorities",
+          "The churches",
+          "The non-believers",
+          "The angels"
+        ],
+        "ref": "2 Corinthians 8:24"
+      },
+      {
+        "q": "What else should they show?",
+        "a": "The reason for Paul's boasting",
+        "o": [
+          "Their spiritual gifts",
+          "Their financial records",
+          "The reason for Paul's boasting",
+          "The letters of recommendation"
+        ],
+        "ref": "2 Corinthians 8:24"
+      }
+    ]
+  }
+}

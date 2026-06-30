@@ -1,0 +1,523 @@
+{
+  "questionsDatabase": {
+    "ch3": [
+      {
+        "q": "What did Paul ask if they were beginning to do again?",
+        "a": "Commend themselves",
+        "o": [
+          "Preach false doctrines",
+          "Commend themselves",
+          "Ask for money",
+          "Judge one another"
+        ],
+        "ref": "2 Corinthians 3:1"
+      },
+      {
+        "q": "What kind of letters did Paul mention?",
+        "a": "Letters of recommendation",
+        "o": [
+          "Letters of condemnation",
+          "Letters of greeting",
+          "Letters of recommendation",
+          "Letters of warning"
+        ],
+        "ref": "2 Corinthians 3:1"
+      },
+      {
+        "q": "To whom were letters of recommendation written?",
+        "a": "The Corinthians",
+        "o": [
+          "The Romans",
+          "The Corinthians",
+          "The Galatians",
+          "The Ephesians"
+        ],
+        "ref": "2 Corinthians 3:1"
+      },
+      {
+        "q": "From whom were letters of recommendation received?",
+        "a": "The Corinthians",
+        "o": [
+          "The apostles in Jerusalem",
+          "The Macedonian churches",
+          "The Roman authorities",
+          "The Corinthians"
+        ],
+        "ref": "2 Corinthians 3:1"
+      },
+      {
+        "q": "What did Paul say the Corinthians were?",
+        "a": "Our letter",
+        "o": [
+          "Our joy",
+          "Our letter",
+          "Our burden",
+          "Our crown"
+        ],
+        "ref": "2 Corinthians 3:2"
+      },
+      {
+        "q": "Where was this letter written?",
+        "a": "On our hearts",
+        "o": [
+          "On parchment",
+          "On our hearts",
+          "On stone tablets",
+          "On scrolls"
+        ],
+        "ref": "2 Corinthians 3:2"
+      },
+      {
+        "q": "Who knows this letter?",
+        "a": "Everyone",
+        "o": [
+          "Only Paul",
+          "Everyone",
+          "Only the apostles",
+          "Only the church elders"
+        ],
+        "ref": "2 Corinthians 3:2"
+      },
+      {
+        "q": "Who reads this letter?",
+        "a": "Everyone",
+        "o": [
+          "The high priest",
+          "The Roman emperor",
+          "The angels",
+          "Everyone"
+        ],
+        "ref": "2 Corinthians 3:2"
+      },
+      {
+        "q": "Whose letter were the Corinthians?",
+        "a": "Christ's",
+        "o": [
+          "Paul's",
+          "Peter's",
+          "Christ's",
+          "The Spirit's"
+        ],
+        "ref": "2 Corinthians 3:3"
+      },
+      {
+        "q": "Who prepared this letter?",
+        "a": "Paul and his companions",
+        "o": [
+          "The twelve apostles",
+          "Paul and his companions",
+          "Angels",
+          "The early church fathers"
+        ],
+        "ref": "2 Corinthians 3:3"
+      },
+      {
+        "q": "With what was this letter not written?",
+        "a": "Ink",
+        "o": [
+          "Ink",
+          "Blood",
+          "Charcoal",
+          "Gold"
+        ],
+        "ref": "2 Corinthians 3:3"
+      },
+      {
+        "q": "With what was it written?",
+        "a": "The Spirit of the living God",
+        "o": [
+          "The blood of Christ",
+          "The tears of the saints",
+          "The Spirit of the living God",
+          "The fire of heaven"
+        ],
+        "ref": "2 Corinthians 3:3"
+      },
+      {
+        "q": "On what was it not written?",
+        "a": "Tablets of stone",
+        "o": [
+          "Scrolls of parchment",
+          "Papyrus leaves",
+          "Tablets of stone",
+          "Wooden boards"
+        ],
+        "ref": "2 Corinthians 3:3"
+      },
+      {
+        "q": "On what was it written?",
+        "a": "Tablets of human hearts",
+        "o": [
+          "The walls of the temple",
+          "Tablets of human hearts",
+          "The gates of the city",
+          "The minds of the wise"
+        ],
+        "ref": "2 Corinthians 3:3"
+      },
+      {
+        "q": "Through whom did Paul have confidence toward God?",
+        "a": "Christ",
+        "o": [
+          "Moses",
+          "Christ",
+          "Elijah",
+          "The Holy Spirit"
+        ],
+        "ref": "2 Corinthians 3:4"
+      },
+      {
+        "q": "Were Paul and his companions competent by themselves?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Sometimes",
+          "No",
+          "Only in spiritual matters"
+        ],
+        "ref": "2 Corinthians 3:5"
+      },
+      {
+        "q": "From whom did their competence come?",
+        "a": "God",
+        "o": [
+          "The law",
+          "The apostles",
+          "God",
+          "Themselves"
+        ],
+        "ref": "2 Corinthians 3:5"
+      },
+      {
+        "q": "What did God make Paul competent to be?",
+        "a": "A minister of a new covenant",
+        "o": [
+          "A judge of the law",
+          "A minister of a new covenant",
+          "A high priest",
+          "A king of Israel"
+        ],
+        "ref": "2 Corinthians 3:6"
+      },
+      {
+        "q": "The new covenant is not of what?",
+        "a": "Letter",
+        "o": [
+          "Faith",
+          "Grace",
+          "Letter",
+          "Spirit"
+        ],
+        "ref": "2 Corinthians 3:6"
+      },
+      {
+        "q": "The new covenant is of what?",
+        "a": "Spirit",
+        "o": [
+          "Letter",
+          "Spirit",
+          "Works",
+          "Law"
+        ],
+        "ref": "2 Corinthians 3:6"
+      },
+      {
+        "q": "What does the letter do?",
+        "a": "Kills",
+        "o": [
+          "Gives life",
+          "Brings peace",
+          "Forgives sin",
+          "Kills"
+        ],
+        "ref": "2 Corinthians 3:6"
+      },
+      {
+        "q": "What does the Spirit do?",
+        "a": "Gives life",
+        "o": [
+          "Kills",
+          "Gives life",
+          "Condemns",
+          "Judges"
+        ],
+        "ref": "2 Corinthians 3:6"
+      },
+      {
+        "q": "On what were the letters engraved?",
+        "a": "Stone",
+        "o": [
+          "Wood",
+          "Stone",
+          "Gold",
+          "Papyrus"
+        ],
+        "ref": "2 Corinthians 3:7"
+      },
+      {
+        "q": "How did the ministry of death come?",
+        "a": "In glory",
+        "o": [
+          "In shame",
+          "In glory",
+          "In darkness",
+          "In weakness"
+        ],
+        "ref": "2 Corinthians 3:7"
+      },
+      {
+        "q": "Whose face shone with glory?",
+        "a": "Moses",
+        "o": [
+          "Moses",
+          "Aaron",
+          "Joshua",
+          "David"
+        ],
+        "ref": "2 Corinthians 3:7"
+      },
+      {
+        "q": "What happened to the glory on Moses' face?",
+        "a": "It was being set aside",
+        "o": [
+          "It lasted forever",
+          "It turned into fire",
+          "It blinded the Israelites",
+          "It was being set aside"
+        ],
+        "ref": "2 Corinthians 3:7"
+      },
+      {
+        "q": "Which ministry has even more glory?",
+        "a": "The ministry of the Spirit",
+        "o": [
+          "The ministry of the law",
+          "The ministry of the Spirit",
+          "The ministry of angels",
+          "The ministry of prophets"
+        ],
+        "ref": "2 Corinthians 3:8"
+      },
+      {
+        "q": "What ministry came with glory?",
+        "a": "The ministry of condemnation",
+        "o": [
+          "The ministry of justification",
+          "The ministry of peace",
+          "The ministry of condemnation",
+          "The ministry of reconciliation"
+        ],
+        "ref": "2 Corinthians 3:9"
+      },
+      {
+        "q": "Which ministry abounds much more in glory?",
+        "a": "The ministry of justification",
+        "o": [
+          "The ministry of condemnation",
+          "The ministry of justification",
+          "The ministry of wrath",
+          "The ministry of the law"
+        ],
+        "ref": "2 Corinthians 3:9"
+      },
+      {
+        "q": "What has lost its glory because of the greater glory?",
+        "a": "The former glory",
+        "o": [
+          "The temple in Jerusalem",
+          "The former glory",
+          "The ark of the covenant",
+          "The stars in heaven"
+        ],
+        "ref": "2 Corinthians 3:10"
+      },
+      {
+        "q": "What was being set aside?",
+        "a": "The old covenant",
+        "o": [
+          "The old covenant",
+          "The new covenant",
+          "The Ten Commandments only",
+          "The priesthood of Melchizedek"
+        ],
+        "ref": "2 Corinthians 3:11"
+      },
+      {
+        "q": "What remains?",
+        "a": "The new covenant",
+        "o": [
+          "The old covenant",
+          "The sacrifices",
+          "The temple veil",
+          "The new covenant"
+        ],
+        "ref": "2 Corinthians 3:11"
+      },
+      {
+        "q": "Which has greater glory?",
+        "a": "The new covenant",
+        "o": [
+          "The old covenant",
+          "The law of Moses",
+          "The covenant of Abraham",
+          "The new covenant"
+        ],
+        "ref": "2 Corinthians 3:11"
+      },
+      {
+        "q": "Because of this hope, how does Paul act?",
+        "a": "With great boldness",
+        "o": [
+          "With extreme caution",
+          "With great boldness",
+          "With fear and trembling",
+          "In secrecy"
+        ],
+        "ref": "2 Corinthians 3:12"
+      },
+      {
+        "q": "Who put a veil over his face?",
+        "a": "Moses",
+        "o": [
+          "Aaron",
+          "Joshua",
+          "Moses",
+          "Paul"
+        ],
+        "ref": "2 Corinthians 3:13"
+      },
+      {
+        "q": "Why did Moses wear a veil?",
+        "a": "So the Israelites would not gaze at the end of the fading glory",
+        "o": [
+          "Because his face was scarred",
+          "To hide his tears",
+          "So the Israelites would not gaze at the end of the fading glory",
+          "So the Egyptians would not recognize him"
+        ],
+        "ref": "2 Corinthians 3:13"
+      },
+      {
+        "q": "What happened to the Israelites' minds?",
+        "a": "They were hardened",
+        "o": [
+          "They were enlightened",
+          "They were hardened",
+          "They were confused",
+          "They were opened"
+        ],
+        "ref": "2 Corinthians 3:14"
+      },
+      {
+        "q": "What remains unlifted when the old covenant is read?",
+        "a": "The veil",
+        "o": [
+          "The scroll",
+          "The veil",
+          "The law",
+          "The curse"
+        ],
+        "ref": "2 Corinthians 3:14"
+      },
+      {
+        "q": "Through whom is the veil removed?",
+        "a": "Christ",
+        "o": [
+          "Moses",
+          "The Holy Spirit",
+          "The high priest",
+          "Christ"
+        ],
+        "ref": "2 Corinthians 3:14"
+      },
+      {
+        "q": "What lies over their hearts when Moses is read?",
+        "a": "A veil",
+        "o": [
+          "A heavy burden",
+          "A veil",
+          "A shadow",
+          "A curse"
+        ],
+        "ref": "2 Corinthians 3:15"
+      },
+      {
+        "q": "What happens when one turns to the Lord?",
+        "a": "The veil is removed",
+        "o": [
+          "They are blinded by glory",
+          "They speak in tongues",
+          "The veil is removed",
+          "They fall to the ground"
+        ],
+        "ref": "2 Corinthians 3:16"
+      },
+      {
+        "q": "Who is the Lord?",
+        "a": "The Spirit",
+        "o": [
+          "The Lawgiver",
+          "The Creator",
+          "The Spirit",
+          "The Archangel"
+        ],
+        "ref": "2 Corinthians 3:17"
+      },
+      {
+        "q": "Where the Spirit of the Lord is, what is there?",
+        "a": "Freedom",
+        "o": [
+          "Freedom",
+          "Judgment",
+          "Law",
+          "Condemnation"
+        ],
+        "ref": "2 Corinthians 3:17"
+      },
+      {
+        "q": "With what kind of face do believers behold the Lord's glory?",
+        "a": "Unveiled",
+        "o": [
+          "Veiled",
+          "Fearful",
+          "Unveiled",
+          "Hidden"
+        ],
+        "ref": "2 Corinthians 3:18"
+      },
+      {
+        "q": "Into whose image are believers being transformed?",
+        "a": "The image of the Lord",
+        "o": [
+          "The image of angels",
+          "The image of Moses",
+          "The image of the apostles",
+          "The image of the Lord"
+        ],
+        "ref": "2 Corinthians 3:18"
+      },
+      {
+        "q": "From what to what are believers transformed?",
+        "a": "From glory to glory",
+        "o": [
+          "From death to life",
+          "From glory to glory",
+          "From sin to righteousness",
+          "From earthly to heavenly"
+        ],
+        "ref": "2 Corinthians 3:18"
+      },
+      {
+        "q": "Through whom does this transformation come?",
+        "a": "The Lord, the Spirit",
+        "o": [
+          "The law of Moses",
+          "The church elders",
+          "The works of the flesh",
+          "The Lord, the Spirit"
+        ],
+        "ref": "2 Corinthians 3:18"
+      }
+    ]
+  }
+}

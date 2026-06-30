@@ -1,0 +1,886 @@
+{
+  "questionsDatabase": {
+    "ch11": [
+      {
+        "q": "What did Paul ask the Corinthians to bear with?",
+        "a": "A little foolishness",
+        "o": [
+          "A heavy burden",
+          "A little foolishness",
+          "A strict command",
+          "Much boasting"
+        ],
+        "ref": "2 Corinthians 11:1"
+      },
+      {
+        "q": "What did Paul say they were already doing?",
+        "a": "Bearing with him",
+        "o": [
+          "Rejecting his authority",
+          "Seeking another apostle",
+          "Paying him money",
+          "Bearing with him"
+        ],
+        "ref": "2 Corinthians 11:1"
+      },
+      {
+        "q": "With what kind of jealousy was Paul jealous?",
+        "a": "God's jealousy",
+        "o": [
+          "Human jealousy",
+          "God's jealousy",
+          "Earthly envy",
+          "A brotherly jealousy"
+        ],
+        "ref": "2 Corinthians 11:2"
+      },
+      {
+        "q": "To whom had Paul promised the Corinthians?",
+        "a": "Christ",
+        "o": [
+          "God the Father",
+          "The Holy Spirit",
+          "Christ",
+          "The apostles in Jerusalem"
+        ],
+        "ref": "2 Corinthians 11:2"
+      },
+      {
+        "q": "As what did Paul want to present them to Christ?",
+        "a": "A pure virgin",
+        "o": [
+          "A spotless lamb",
+          "A wealthy bride",
+          "A faithful servant",
+          "A pure virgin"
+        ],
+        "ref": "2 Corinthians 11:2"
+      },
+      {
+        "q": "Who deceived Eve?",
+        "a": "The serpent",
+        "o": [
+          "Adam",
+          "An angel of light",
+          "The serpent",
+          "The false prophets"
+        ],
+        "ref": "2 Corinthians 11:3"
+      },
+      {
+        "q": "By what was Eve deceived?",
+        "a": "Cunning",
+        "o": [
+          "Force",
+          "Cunning",
+          "A vision",
+          "A false promise of wealth"
+        ],
+        "ref": "2 Corinthians 11:3"
+      },
+      {
+        "q": "What did Paul fear would be led astray?",
+        "a": "Their thoughts",
+        "o": [
+          "Their actions",
+          "Their wealth",
+          "Their thoughts",
+          "Their children"
+        ],
+        "ref": "2 Corinthians 11:3"
+      },
+      {
+        "q": "From what might they be led astray?",
+        "a": "Sincere and pure devotion to Christ",
+        "o": [
+          "The law of Moses",
+          "Sincere and pure devotion to Christ",
+          "Sincere and pure love for Paul",
+          "The fellowship of the saints"
+        ],
+        "ref": "2 Corinthians 11:3"
+      },
+      {
+        "q": "What different person might someone proclaim?",
+        "a": "Another Jesus",
+        "o": [
+          "Another Paul",
+          "Another Messiah",
+          "Another Jesus",
+          "Another Caesar"
+        ],
+        "ref": "2 Corinthians 11:4"
+      },
+      {
+        "q": "What different spirit might they receive?",
+        "a": "A different spirit",
+        "o": [
+          "A spirit of fear",
+          "A different spirit",
+          "An angel from heaven",
+          "A human spirit"
+        ],
+        "ref": "2 Corinthians 11:4"
+      },
+      {
+        "q": "What different message might they accept?",
+        "a": "A different gospel",
+        "o": [
+          "A different law",
+          "A different prophecy",
+          "A different letter",
+          "A different gospel"
+        ],
+        "ref": "2 Corinthians 11:4"
+      },
+      {
+        "q": "To whom did Paul compare himself?",
+        "a": "The super-apostles",
+        "o": [
+          "The Roman authorities",
+          "The false teachers",
+          "The super-apostles",
+          "The Pharisees"
+        ],
+        "ref": "2 Corinthians 11:5"
+      },
+      {
+        "q": "Was Paul inferior to the super-apostles?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only in speaking",
+          "No",
+          "Only in miracles"
+        ],
+        "ref": "2 Corinthians 11:5"
+      },
+      {
+        "q": "In what did Paul admit he was unskilled?",
+        "a": "Speaking",
+        "o": [
+          "Writing",
+          "Speaking",
+          "Healing",
+          "Prophesying"
+        ],
+        "ref": "2 Corinthians 11:6"
+      },
+      {
+        "q": "In what was Paul not lacking?",
+        "a": "Knowledge",
+        "o": [
+          "Wealth",
+          "Authority",
+          "Zeal",
+          "Knowledge"
+        ],
+        "ref": "2 Corinthians 11:6"
+      },
+      {
+        "q": "What did Paul proclaim free of charge?",
+        "a": "The gospel of God",
+        "o": [
+          "The law of Moses",
+          "The Roman decrees",
+          "The gospel of God",
+          "The mysteries of the Spirit"
+        ],
+        "ref": "2 Corinthians 11:7"
+      },
+      {
+        "q": "Why did Paul humble himself?",
+        "a": "So the Corinthians might be exalted",
+        "o": [
+          "So he could gain wealth",
+          "So the Corinthians might be exalted",
+          "So the Romans would not notice him",
+          "So the super-apostles would respect him"
+        ],
+        "ref": "2 Corinthians 11:7"
+      },
+      {
+        "q": "From whom did Paul accept support?",
+        "a": "Other churches",
+        "o": [
+          "The Roman government",
+          "The super-apostles",
+          "Other churches",
+          "The unbelievers"
+        ],
+        "ref": "2 Corinthians 11:8"
+      },
+      {
+        "q": "Why did Paul accept their support?",
+        "a": "To serve the Corinthians",
+        "o": [
+          "To build a temple",
+          "To serve the Corinthians",
+          "To travel to Spain",
+          "To pay off his debts"
+        ],
+        "ref": "2 Corinthians 11:8"
+      },
+      {
+        "q": "Who supplied Paul's needs?",
+        "a": "The brothers from Macedonia",
+        "o": [
+          "The sisters from Achaia",
+          "The elders in Jerusalem",
+          "The brothers from Macedonia",
+          "The believers in Rome"
+        ],
+        "ref": "2 Corinthians 11:9"
+      },
+      {
+        "q": "What burden did Paul refuse to be?",
+        "a": "A burden to the Corinthians",
+        "o": [
+          "A burden to the Macedonians",
+          "A burden to the Romans",
+          "A burden to God",
+          "A burden to the Corinthians"
+        ],
+        "ref": "2 Corinthians 11:9"
+      },
+      {
+        "q": "In what region would no one stop Paul's boasting?",
+        "a": "Achaia",
+        "o": [
+          "Macedonia",
+          "Achaia",
+          "Galatia",
+          "Judea"
+        ],
+        "ref": "2 Corinthians 11:10"
+      },
+      {
+        "q": "Why did Paul say this was not because he lacked love?",
+        "a": "God knows",
+        "o": [
+          "The angels know",
+          "The Macedonians know",
+          "God knows",
+          "The super-apostles know"
+        ],
+        "ref": "2 Corinthians 11:11"
+      },
+      {
+        "q": "What was Paul determined to continue doing?",
+        "a": "What he was doing",
+        "o": [
+          "Preaching a new gospel",
+          "What he was doing",
+          "Traveling to Jerusalem",
+          "Taking their money"
+        ],
+        "ref": "2 Corinthians 11:12"
+      },
+      {
+        "q": "Why?",
+        "a": "To deny false apostles an opportunity to boast",
+        "o": [
+          "To gain more wealth",
+          "To please the Romans",
+          "To deny false apostles an opportunity to boast",
+          "To build a new church"
+        ],
+        "ref": "2 Corinthians 11:12"
+      },
+      {
+        "q": "What kind of workers are false apostles?",
+        "a": "Deceitful",
+        "o": [
+          "Lazy",
+          "Unskilled",
+          "Deceitful",
+          "Honest"
+        ],
+        "ref": "2 Corinthians 11:13"
+      },
+      {
+        "q": "What do they disguise themselves as?",
+        "a": "Apostles of Christ",
+        "o": [
+          "Roman officials",
+          "Apostles of Christ",
+          "Prophets of old",
+          "Angels of light"
+        ],
+        "ref": "2 Corinthians 11:13"
+      },
+      {
+        "q": "As what does Satan disguise himself?",
+        "a": "An angel of light",
+        "o": [
+          "A roaring lion",
+          "A deceitful serpent",
+          "An angel of light",
+          "A Roman emperor"
+        ],
+        "ref": "2 Corinthians 11:14"
+      },
+      {
+        "q": "As what do Satan's servants disguise themselves?",
+        "a": "Servants of righteousness",
+        "o": [
+          "Teachers of the law",
+          "Prophets of God",
+          "Angels of truth",
+          "Servants of righteousness"
+        ],
+        "ref": "2 Corinthians 11:15"
+      },
+      {
+        "q": "What will match their deeds?",
+        "a": "Their end",
+        "o": [
+          "Their beginning",
+          "Their wealth",
+          "Their end",
+          "Their followers"
+        ],
+        "ref": "2 Corinthians 11:15"
+      },
+      {
+        "q": "What did Paul ask no one to think?",
+        "a": "That he was a fool",
+        "o": [
+          "That he was a king",
+          "That he was an angel",
+          "That he was a fool",
+          "That he was a thief"
+        ],
+        "ref": "2 Corinthians 11:16"
+      },
+      {
+        "q": "In what was Paul speaking?",
+        "a": "Foolish confidence",
+        "o": [
+          "Divine revelation",
+          "Human wisdom",
+          "Foolish confidence",
+          "Angelic tongues"
+        ],
+        "ref": "2 Corinthians 11:17"
+      },
+      {
+        "q": "Since many boast according to what?",
+        "a": "Human standards",
+        "o": [
+          "Divine revelation",
+          "Human standards",
+          "The law of Moses",
+          "Angelic visions"
+        ],
+        "ref": "2 Corinthians 11:18"
+      },
+      {
+        "q": "What did Paul say he would do?",
+        "a": "Boast",
+        "o": [
+          "Weep",
+          "Boast",
+          "Flee",
+          "Keep silent"
+        ],
+        "ref": "2 Corinthians 11:18"
+      },
+      {
+        "q": "Whom do the Corinthians gladly tolerate?",
+        "a": "Fools",
+        "o": [
+          "Sinners",
+          "Romans",
+          "Fools",
+          "Tax collectors"
+        ],
+        "ref": "2 Corinthians 11:19"
+      },
+      {
+        "q": "What might someone do to the Corinthians?",
+        "a": "Enslave them",
+        "o": [
+          "Bless them",
+          "Heal them",
+          "Enslave them",
+          "Give them wealth"
+        ],
+        "ref": "2 Corinthians 11:20"
+      },
+      {
+        "q": "Name another action mentioned.",
+        "a": "Devour them",
+        "o": [
+          "Lift them up",
+          "Devour them",
+          "Teach them truth",
+          "Serve them"
+        ],
+        "ref": "2 Corinthians 11:20"
+      },
+      {
+        "q": "Name another action mentioned.",
+        "a": "Take advantage of them",
+        "o": [
+          "Pray for them",
+          "Take advantage of them",
+          "Fast with them",
+          "Protect them"
+        ],
+        "ref": "2 Corinthians 11:20"
+      },
+      {
+        "q": "Name another action mentioned.",
+        "a": "Put on airs",
+        "o": [
+          "Weep for them",
+          "Sing with them",
+          "Put on airs",
+          "Beg from them"
+        ],
+        "ref": "2 Corinthians 11:20"
+      },
+      {
+        "q": "Name another action mentioned.",
+        "a": "Strike them in the face",
+        "o": [
+          "Wash their feet",
+          "Crown them with glory",
+          "Offer them a seat of honor",
+          "Strike them in the face"
+        ],
+        "ref": "2 Corinthians 11:20"
+      },
+      {
+        "q": "What did Paul sarcastically admit?",
+        "a": "That they were too weak",
+        "o": [
+          "That they were too strong",
+          "That they were too wealthy",
+          "That they were too weak",
+          "That they were too wise"
+        ],
+        "ref": "2 Corinthians 11:21"
+      },
+      {
+        "q": "Are they Hebrews?",
+        "a": "So am I",
+        "o": [
+          "No, I am a Greek",
+          "I am a Roman",
+          "So am I",
+          "Neither am I"
+        ],
+        "ref": "2 Corinthians 11:22"
+      },
+      {
+        "q": "Are they Israelites?",
+        "a": "So am I",
+        "o": [
+          "So am I",
+          "I am a Gentile",
+          "They are mistaken",
+          "Only in spirit"
+        ],
+        "ref": "2 Corinthians 11:22"
+      },
+      {
+        "q": "Are they descendants of Abraham?",
+        "a": "So am I",
+        "o": [
+          "I am of Moses",
+          "So am I",
+          "I am of David",
+          "No one is"
+        ],
+        "ref": "2 Corinthians 11:22"
+      },
+      {
+        "q": "Is Paul a servant of Christ?",
+        "a": "Yes",
+        "o": [
+          "No",
+          "Only occasionally",
+          "Yes",
+          "He serves the Romans"
+        ],
+        "ref": "2 Corinthians 11:23"
+      },
+      {
+        "q": "In what had Paul worked more?",
+        "a": "Labors",
+        "o": [
+          "Leisure",
+          "Labors",
+          "Wealth building",
+          "Theological debates"
+        ],
+        "ref": "2 Corinthians 11:23"
+      },
+      {
+        "q": "In what had Paul suffered more?",
+        "a": "Imprisonments",
+        "o": [
+          "Illnesses",
+          "Financial losses",
+          "Imprisonments",
+          "Bad reviews"
+        ],
+        "ref": "2 Corinthians 11:23"
+      },
+      {
+        "q": "What punishment had Paul received more frequently?",
+        "a": "Beatings",
+        "o": [
+          "Fines",
+          "Excommunications",
+          "Beatings",
+          "Demotions"
+        ],
+        "ref": "2 Corinthians 11:23"
+      },
+      {
+        "q": "What danger had Paul often faced?",
+        "a": "Death",
+        "o": [
+          "Starvation",
+          "Shipwreck",
+          "Death",
+          "Banishment"
+        ],
+        "ref": "2 Corinthians 11:23"
+      },
+      {
+        "q": "How many lashes did Paul receive from the Jews?",
+        "a": "Forty minus one",
+        "o": [
+          "Fifty",
+          "Thirty-nine minus one",
+          "Forty minus one",
+          "A hundred"
+        ],
+        "ref": "2 Corinthians 11:24"
+      },
+      {
+        "q": "How many times did Paul receive them?",
+        "a": "Five",
+        "o": [
+          "Three",
+          "Seven",
+          "Five",
+          "Ten"
+        ],
+        "ref": "2 Corinthians 11:24"
+      },
+      {
+        "q": "How many times was Paul beaten with rods?",
+        "a": "Three",
+        "o": [
+          "Once",
+          "Three",
+          "Five",
+          "Seven"
+        ],
+        "ref": "2 Corinthians 11:25"
+      },
+      {
+        "q": "How many times was Paul stoned?",
+        "a": "Once",
+        "o": [
+          "Twice",
+          "Three times",
+          "Once",
+          "Never"
+        ],
+        "ref": "2 Corinthians 11:25"
+      },
+      {
+        "q": "How many shipwrecks did Paul suffer?",
+        "a": "Three",
+        "o": [
+          "Once",
+          "Twice",
+          "Three",
+          "Four times"
+        ],
+        "ref": "2 Corinthians 11:25"
+      },
+      {
+        "q": "How long was Paul adrift at sea?",
+        "a": "A night and a day",
+        "o": [
+          "Three days",
+          "A night and a day",
+          "A full week",
+          "Forty days"
+        ],
+        "ref": "2 Corinthians 11:25"
+      },
+      {
+        "q": "In what places did Paul face danger?",
+        "a": "Rivers",
+        "o": [
+          "Mountains",
+          "Rivers",
+          "Valleys",
+          "Caves"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "Robbers",
+        "o": [
+          "Wild beasts",
+          "Roman soldiers",
+          "Earthquakes",
+          "Robbers"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "His own people",
+        "o": [
+          "The Greeks",
+          "The Egyptians",
+          "His own people",
+          "The Samaritans"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "Gentiles",
+        "o": [
+          "Angels",
+          "Gentiles",
+          "Demons",
+          "Emperors"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "The city",
+        "o": [
+          "The temple",
+          "The marketplace",
+          "The city",
+          "The synagogue"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "The wilderness",
+        "o": [
+          "The desert of Sinai",
+          "The wilderness",
+          "The high mountains",
+          "The swamps"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "The sea",
+        "o": [
+          "The sea",
+          "The river Jordan",
+          "The lakes",
+          "The great flood"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "Name another danger.",
+        "a": "False brothers and sisters",
+        "o": [
+          "Corrupt officials",
+          "False brothers and sisters",
+          "Unbelieving kings",
+          "Pagan priests"
+        ],
+        "ref": "2 Corinthians 11:26"
+      },
+      {
+        "q": "In what had Paul labored?",
+        "a": "Toil",
+        "o": [
+          "Vain",
+          "Comfort",
+          "Toil",
+          "Wealth"
+        ],
+        "ref": "2 Corinthians 11:27"
+      },
+      {
+        "q": "What often interrupted Paul's sleep?",
+        "a": "Sleepless nights",
+        "o": [
+          "Nightmares",
+          "Sleepless nights",
+          "Loud riots",
+          "Angelic visitations"
+        ],
+        "ref": "2 Corinthians 11:27"
+      },
+      {
+        "q": "What physical needs did Paul endure?",
+        "a": "Hunger and thirst",
+        "o": [
+          "Cold and heat",
+          "Pain and sickness",
+          "Weakness and fatigue",
+          "Hunger and thirst"
+        ],
+        "ref": "2 Corinthians 11:27"
+      },
+      {
+        "q": "What lack of clothing did Paul endure?",
+        "a": "Nakedness",
+        "o": [
+          "Rags",
+          "Chains",
+          "Nakedness",
+          "Borrowed robes"
+        ],
+        "ref": "2 Corinthians 11:27"
+      },
+      {
+        "q": "What daily pressure was upon Paul?",
+        "a": "Anxiety",
+        "o": [
+          "Physical pain",
+          "Financial debt",
+          "Anxiety",
+          "Roman surveillance"
+        ],
+        "ref": "2 Corinthians 11:28"
+      },
+      {
+        "q": "Anxiety for what?",
+        "a": "All the churches",
+        "o": [
+          "His own life",
+          "The Roman government",
+          "All the churches",
+          "His family"
+        ],
+        "ref": "2 Corinthians 11:28"
+      },
+      {
+        "q": "Who is weak without Paul being weak?",
+        "a": "No one",
+        "o": [
+          "The false apostles",
+          "The Macedonians",
+          "No one",
+          "The Romans"
+        ],
+        "ref": "2 Corinthians 11:29"
+      },
+      {
+        "q": "Who falls into sin without Paul's concern?",
+        "a": "No one",
+        "o": [
+          "The Gentiles",
+          "No one",
+          "The Jews",
+          "The super-apostles"
+        ],
+        "ref": "2 Corinthians 11:29"
+      },
+      {
+        "q": "If Paul must boast, of what will he boast?",
+        "a": "His weaknesses",
+        "o": [
+          "His strengths",
+          "His visions",
+          "His weaknesses",
+          "His miracles"
+        ],
+        "ref": "2 Corinthians 11:30"
+      },
+      {
+        "q": "Who knows Paul is not lying?",
+        "a": "God",
+        "o": [
+          "Peter",
+          "The Corinthians",
+          "God",
+          "The angels"
+        ],
+        "ref": "2 Corinthians 11:31"
+      },
+      {
+        "q": "Who was governor under King Aretas?",
+        "a": "The governor of Damascus",
+        "o": [
+          "The governor of Syria",
+          "Pontius Pilate",
+          "Herod",
+          "The governor of Damascus"
+        ],
+        "ref": "2 Corinthians 11:32"
+      },
+      {
+        "q": "What city was guarded?",
+        "a": "Damascus",
+        "o": [
+          "Jerusalem",
+          "Damascus",
+          "Antioch",
+          "Rome"
+        ],
+        "ref": "2 Corinthians 11:32"
+      },
+      {
+        "q": "Through what was Paul lowered?",
+        "a": "A window",
+        "o": [
+          "A trapdoor",
+          "A gate",
+          "A window",
+          "A chimney"
+        ],
+        "ref": "2 Corinthians 11:33"
+      },
+      {
+        "q": "In what was Paul lowered?",
+        "a": "A basket",
+        "o": [
+          "A wooden crate",
+          "A barrel",
+          "A net",
+          "A basket"
+        ],
+        "ref": "2 Corinthians 11:33"
+      },
+      {
+        "q": "From what was Paul lowered?",
+        "a": "The wall",
+        "o": [
+          "The temple roof",
+          "The wall",
+          "The prison tower",
+          "The balcony"
+        ],
+        "ref": "2 Corinthians 11:33"
+      },
+      {
+        "q": "From whom did Paul escape?",
+        "a": "The governor",
+        "o": [
+          "The false brothers",
+          "The governor",
+          "The Jews",
+          "The Roman soldiers"
+        ],
+        "ref": "2 Corinthians 11:33"
+      }
+    ]
+  }
+}
