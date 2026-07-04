@@ -1,0 +1,336 @@
+{
+  "questionsDatabase": {
+    "ch8": [
+      {
+        "q": "About what subject did Paul begin to write?",
+        "a": "Food sacrificed to idols",
+        "o": [
+          "Circumcision",
+          "Food sacrificed to idols",
+          "The resurrection of the dead",
+          "Spiritual gifts"
+        ],
+        "ref": "1 Corinthians 8:1"
+      },
+      {
+        "q": "What puffs up?",
+        "a": "Knowledge",
+        "o": [
+          "Wealth",
+          "Knowledge",
+          "Pride",
+          "Eloquence"
+        ],
+        "ref": "1 Corinthians 8:1"
+      },
+      {
+        "q": "What builds up?",
+        "a": "Love",
+        "o": [
+          "Faith",
+          "Hope",
+          "Love",
+          "Patience"
+        ],
+        "ref": "1 Corinthians 8:1"
+      },
+      {
+        "q": "If anyone thinks he knows something, what has he not yet done?",
+        "a": "Known as he ought",
+        "o": [
+          "Loved as he ought",
+          "Known as he ought",
+          "Understood the mysteries of God",
+          "Received the Spirit"
+        ],
+        "ref": "1 Corinthians 8:2"
+      },
+      {
+        "q": "Who is known by God?",
+        "a": "The one who loves God",
+        "o": [
+          "The one who keeps the law",
+          "The one who seeks knowledge",
+          "The one who prophesies",
+          "The one who loves God"
+        ],
+        "ref": "1 Corinthians 8:3"
+      },
+      {
+        "q": "What is nothing in the world?",
+        "a": "An idol",
+        "o": [
+          "A false prophet",
+          "An idol",
+          "Worldly wealth",
+          "Human wisdom"
+        ],
+        "ref": "1 Corinthians 8:4"
+      },
+      {
+        "q": "How many Gods are there?",
+        "a": "One",
+        "o": [
+          "Two",
+          "Three",
+          "One",
+          "Many"
+        ],
+        "ref": "1 Corinthians 8:4"
+      },
+      {
+        "q": "What are some so-called beings called?",
+        "a": "Gods",
+        "o": [
+          "Angels",
+          "Gods",
+          "Demons",
+          "Spirits"
+        ],
+        "ref": "1 Corinthians 8:5"
+      },
+      {
+        "q": "What else are they called?",
+        "a": "Lords",
+        "o": [
+          "Masters",
+          "Kings",
+          "Lords",
+          "Rulers"
+        ],
+        "ref": "1 Corinthians 8:5"
+      },
+      {
+        "q": "Who is the one God?",
+        "a": "The Father",
+        "o": [
+          "The Holy Spirit",
+          "The Father",
+          "The Almighty",
+          "The Creator"
+        ],
+        "ref": "1 Corinthians 8:6"
+      },
+      {
+        "q": "From whom are all things?",
+        "a": "The Father",
+        "o": [
+          "The Father",
+          "The Spirit",
+          "The Angels",
+          "The Apostles"
+        ],
+        "ref": "1 Corinthians 8:6"
+      },
+      {
+        "q": "For whom do believers exist?",
+        "a": "God",
+        "o": [
+          "The church",
+          "The world",
+          "God",
+          "Themselves"
+        ],
+        "ref": "1 Corinthians 8:6"
+      },
+      {
+        "q": "Who is the one Lord?",
+        "a": "Jesus Christ",
+        "o": [
+          "Moses",
+          "Paul",
+          "Jesus Christ",
+          "Peter"
+        ],
+        "ref": "1 Corinthians 8:6"
+      },
+      {
+        "q": "Through whom are all things?",
+        "a": "Jesus Christ",
+        "o": [
+          "The Prophets",
+          "Jesus Christ",
+          "The Apostles",
+          "The Holy Spirit"
+        ],
+        "ref": "1 Corinthians 8:6"
+      },
+      {
+        "q": "Through whom do believers exist?",
+        "a": "Jesus Christ",
+        "o": [
+          "The Father",
+          "The Holy Spirit",
+          "The Church",
+          "Jesus Christ"
+        ],
+        "ref": "1 Corinthians 8:6"
+      },
+      {
+        "q": "Do all possess this knowledge?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only the Jews",
+          "Only the leaders",
+          "No"
+        ],
+        "ref": "1 Corinthians 8:7"
+      },
+      {
+        "q": "What had some formerly been accustomed to?",
+        "a": "Idols",
+        "o": [
+          "Dietary laws",
+          "Idols",
+          "Roman temples",
+          "Pagan festivals"
+        ],
+        "ref": "1 Corinthians 8:7"
+      },
+      {
+        "q": "What happens to their conscience?",
+        "a": "It is defiled",
+        "o": [
+          "It is strengthened",
+          "It is ignored",
+          "It is purified",
+          "It is defiled"
+        ],
+        "ref": "1 Corinthians 8:7"
+      },
+      {
+        "q": "Will food bring us near to God?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only clean food",
+          "No",
+          "Only meat"
+        ],
+        "ref": "1 Corinthians 8:8"
+      },
+      {
+        "q": "Are we worse off if we do not eat?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only if we are weak",
+          "Maybe",
+          "No"
+        ],
+        "ref": "1 Corinthians 8:8"
+      },
+      {
+        "q": "Are we better off if we do eat?",
+        "a": "No",
+        "o": [
+          "No",
+          "Yes",
+          "Always",
+          "Only if we give thanks"
+        ],
+        "ref": "1 Corinthians 8:8"
+      },
+      {
+        "q": "What should believers be careful not to become?",
+        "a": "A stumbling block",
+        "o": [
+          "A hypocrite",
+          "A false teacher",
+          "A stumbling block",
+          "A boasting fool"
+        ],
+        "ref": "1 Corinthians 8:9"
+      },
+      {
+        "q": "To whom should they not become a stumbling block?",
+        "a": "The weak",
+        "o": [
+          "The strong",
+          "The unbelievers",
+          "The Pharisees",
+          "The weak"
+        ],
+        "ref": "1 Corinthians 8:9"
+      },
+      {
+        "q": "Where might a weak believer see someone eating?",
+        "a": "In an idol’s temple",
+        "o": [
+          "In the marketplace",
+          "In a Roman court",
+          "In an idol’s temple",
+          "In the synagogue"
+        ],
+        "ref": "1 Corinthians 8:10"
+      },
+      {
+        "q": "What might the weak believer be encouraged to do?",
+        "a": "Eat food sacrificed to idols",
+        "o": [
+          "Rebel against the church",
+          "Worship the idol",
+          "Condemn the strong believer",
+          "Eat food sacrificed to idols"
+        ],
+        "ref": "1 Corinthians 8:10"
+      },
+      {
+        "q": "Who may be destroyed by your knowledge?",
+        "a": "The weak believer",
+        "o": [
+          "The weak believer",
+          "The church",
+          "The unbeliever",
+          "The idolater"
+        ],
+        "ref": "1 Corinthians 8:11"
+      },
+      {
+        "q": "For whom did Christ die?",
+        "a": "The weak believer",
+        "o": [
+          "Only the strong",
+          "The righteous",
+          "The weak believer",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 8:11"
+      },
+      {
+        "q": "Against whom do believers sin by wounding a weak conscience?",
+        "a": "Christ",
+        "o": [
+          "The Holy Spirit",
+          "Christ",
+          "The church",
+          "Themselves"
+        ],
+        "ref": "1 Corinthians 8:12"
+      },
+      {
+        "q": "If food causes another believer to stumble, what would Paul never do?",
+        "a": "Eat meat",
+        "o": [
+          "Drink wine",
+          "Visit the marketplace",
+          "Eat meat",
+          "Speak in tongues"
+        ],
+        "ref": "1 Corinthians 8:13"
+      },
+      {
+        "q": "Why would Paul never eat meat?",
+        "a": "So he would not cause another believer to stumble",
+        "o": [
+          "Because it was unclean",
+          "Because it was expensive",
+          "To observe the Jewish law",
+          "So he would not cause another believer to stumble"
+        ],
+        "ref": "1 Corinthians 8:13"
+      }
+    ]
+  }
+}

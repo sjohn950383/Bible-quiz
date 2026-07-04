@@ -1,0 +1,424 @@
+{
+  "questionsDatabase": {
+    "ch13": [
+      {
+        "q": "Without love, what does a speaker in the tongues of mortals and angels become?",
+        "a": "A noisy gong",
+        "o": [
+          "A weak trumpet",
+          "A silent shadow",
+          "A noisy gong",
+          "A broken harp"
+        ],
+        "ref": "1 Corinthians 13:1"
+      },
+      {
+        "q": "What else does such a speaker become?",
+        "a": "A clanging cymbal",
+        "o": [
+          "A clanging cymbal",
+          "A broken flute",
+          "A quiet whisper",
+          "A sounding horn"
+        ],
+        "ref": "1 Corinthians 13:1"
+      },
+      {
+        "q": "What gift is mentioned first?",
+        "a": "Prophecy",
+        "o": [
+          "Tongues",
+          "Prophecy",
+          "Faith",
+          "Healing"
+        ],
+        "ref": "1 Corinthians 13:2"
+      },
+      {
+        "q": "What could Paul understand?",
+        "a": "All mysteries",
+        "o": [
+          "All languages",
+          "All philosophies",
+          "All laws",
+          "All mysteries"
+        ],
+        "ref": "1 Corinthians 13:2"
+      },
+      {
+        "q": "What else could Paul possess?",
+        "a": "All knowledge",
+        "o": [
+          "All knowledge",
+          "All power",
+          "All wealth",
+          "All authority"
+        ],
+        "ref": "1 Corinthians 13:2"
+      },
+      {
+        "q": "What kind of faith is mentioned?",
+        "a": "Faith to remove mountains",
+        "o": [
+          "Faith to walk on water",
+          "Faith to heal the sick",
+          "Faith to remove mountains",
+          "Faith to raise the dead"
+        ],
+        "ref": "1 Corinthians 13:2"
+      },
+      {
+        "q": "Without love, what is Paul?",
+        "a": "Nothing",
+        "o": [
+          "Nothing",
+          "A wise teacher",
+          "A powerful apostle",
+          "A righteous servant"
+        ],
+        "ref": "1 Corinthians 13:2"
+      },
+      {
+        "q": "Without love, what does giving away all possessions gain?",
+        "a": "Nothing",
+        "o": [
+          "A small reward",
+          "Great respect",
+          "Nothing",
+          "Temporary praise"
+        ],
+        "ref": "1 Corinthians 13:3"
+      },
+      {
+        "q": "Without love, what does surrendering the body gain?",
+        "a": "Nothing",
+        "o": [
+          "Nothing",
+          "A crown of martyrdom",
+          "The respect of the church",
+          "Forgiveness of sins"
+        ],
+        "ref": "1 Corinthians 13:3"
+      },
+      {
+        "q": "What is love?",
+        "a": "Patient",
+        "o": [
+          "Jealous",
+          "Patient",
+          "Demanding",
+          "Proud"
+        ],
+        "ref": "1 Corinthians 13:4"
+      },
+      {
+        "q": "What else is love?",
+        "a": "Kind",
+        "o": [
+          "Loud",
+          "Powerful",
+          "Kind",
+          "Boastful"
+        ],
+        "ref": "1 Corinthians 13:4"
+      },
+      {
+        "q": "What does love not do?",
+        "a": "Envy",
+        "o": [
+          "Hope",
+          "Envy",
+          "Care",
+          "Suffer"
+        ],
+        "ref": "1 Corinthians 13:4"
+      },
+      {
+        "q": "What else does love not do?",
+        "a": "Boast",
+        "o": [
+          "Believe",
+          "Endure",
+          "Boast",
+          "Rejoice"
+        ],
+        "ref": "1 Corinthians 13:4"
+      },
+      {
+        "q": "What else is love not?",
+        "a": "Arrogant",
+        "o": [
+          "Arrogant",
+          "Gentle",
+          "Humble",
+          "Peaceful"
+        ],
+        "ref": "1 Corinthians 13:4"
+      },
+      {
+        "q": "What is love not?",
+        "a": "Rude",
+        "o": [
+          "Caring",
+          "Honest",
+          "Rude",
+          "Polite"
+        ],
+        "ref": "1 Corinthians 13:5"
+      },
+      {
+        "q": "What does love not insist on?",
+        "a": "Its own way",
+        "o": [
+          "The truth",
+          "Its own way",
+          "High standards",
+          "Respect"
+        ],
+        "ref": "1 Corinthians 13:5"
+      },
+      {
+        "q": "What is love not?",
+        "a": "Irritable",
+        "o": [
+          "Patient",
+          "Active",
+          "Strong",
+          "Irritable"
+        ],
+        "ref": "1 Corinthians 13:5"
+      },
+      {
+        "q": "What does love not keep?",
+        "a": "A record of wrongs",
+        "o": [
+          "A record of wrongs",
+          "Secrets",
+          "Promises",
+          "Gifts"
+        ],
+        "ref": "1 Corinthians 13:5"
+      },
+      {
+        "q": "In what does love not rejoice?",
+        "a": "Wrongdoing",
+        "o": [
+          "Wrongdoing",
+          "The truth",
+          "Simplicity",
+          "Silence"
+        ],
+        "ref": "1 Corinthians 13:6"
+      },
+      {
+        "q": "In what does love rejoice?",
+        "a": "The truth",
+        "o": [
+          "Victory",
+          "The truth",
+          "Wealth",
+          "Knowledge"
+        ],
+        "ref": "1 Corinthians 13:6"
+      },
+      {
+        "q": "What does love bear?",
+        "a": "All things",
+        "o": [
+          "Only light burdens",
+          "No burdens",
+          "Some things",
+          "All things"
+        ],
+        "ref": "1 Corinthians 13:7"
+      },
+      {
+        "q": "What does love believe?",
+        "a": "All things",
+        "o": [
+          "All things",
+          "Only what is seen",
+          "Only simple things",
+          "Nothing"
+        ],
+        "ref": "1 Corinthians 13:7"
+      },
+      {
+        "q": "What does love hope?",
+        "a": "All things",
+        "o": [
+          "Only for the best",
+          "All things",
+          "Very little",
+          "Sparsely"
+        ],
+        "ref": "1 Corinthians 13:7"
+      },
+      {
+        "q": "What does love endure?",
+        "a": "All things",
+        "o": [
+          "Only physical pain",
+          "Some things",
+          "All things",
+          "Nothing hard"
+        ],
+        "ref": "1 Corinthians 13:7"
+      },
+      {
+        "q": "Love never does what?",
+        "a": "Ends",
+        "o": [
+          "Fails to speak",
+          "Ends",
+          "Changes",
+          "Hurts"
+        ],
+        "ref": "1 Corinthians 13:8"
+      },
+      {
+        "q": "What will come to an end?",
+        "a": "Prophecies",
+        "o": [
+          "Good deeds",
+          "Prophecies",
+          "The truth",
+          "Virtues"
+        ],
+        "ref": "1 Corinthians 13:8"
+      },
+      {
+        "q": "What will cease?",
+        "a": "Tongues",
+        "o": [
+          "Faith",
+          "Hope",
+          "Love",
+          "Tongues"
+        ],
+        "ref": "1 Corinthians 13:8"
+      },
+      {
+        "q": "What will come to an end?",
+        "a": "Knowledge",
+        "o": [
+          "Righteousness",
+          "Sincerity",
+          "Knowledge",
+          "God's grace"
+        ],
+        "ref": "1 Corinthians 13:8"
+      },
+      {
+        "q": "How do we know now?",
+        "a": "In part",
+        "o": [
+          "Fully",
+          "In part",
+          "By guessing",
+          "Not at all"
+        ],
+        "ref": "1 Corinthians 13:9-10"
+      },
+      {
+        "q": "What happens when the complete comes?",
+        "a": "The partial comes to an end",
+        "o": [
+          "The partial is multiplied",
+          "We gain worldly power",
+          "The partial comes to an end",
+          "The law is restored"
+        ],
+        "ref": "1 Corinthians 13:9-10"
+      },
+      {
+        "q": "As a child, how did Paul speak?",
+        "a": "Like a child",
+        "o": [
+          "With great wisdom",
+          "Like a child",
+          "In tongues",
+          "Not at all"
+        ],
+        "ref": "1 Corinthians 13:11"
+      },
+      {
+        "q": "What did Paul put away when he became an adult?",
+        "a": "Childish ways",
+        "o": [
+          "Childish ways",
+          "His family",
+          "His inheritance",
+          "The scriptures"
+        ],
+        "ref": "1 Corinthians 13:11"
+      },
+      {
+        "q": "How do we now see?",
+        "a": "In a mirror dimly",
+        "o": [
+          "In a mirror dimly",
+          "With perfect clarity",
+          "Through a veil of gold",
+          "With natural eyes only"
+        ],
+        "ref": "1 Corinthians 13:12"
+      },
+      {
+        "q": "How shall we see then?",
+        "a": "Face to face",
+        "o": [
+          "From a distance",
+          "Through a telescope",
+          "In a bright light",
+          "Face to face"
+        ],
+        "ref": "1 Corinthians 13:12"
+      },
+      {
+        "q": "How do we know now?",
+        "a": "In part",
+        "o": [
+          "By instinct",
+          "Fully",
+          "In part",
+          "Through prophets only"
+        ],
+        "ref": "1 Corinthians 13:12"
+      },
+      {
+        "q": "How shall we know then?",
+        "a": "Fully",
+        "o": [
+          "Not at all",
+          "Fully",
+          "In part",
+          "As angels do"
+        ],
+        "ref": "1 Corinthians 13:12"
+      },
+      {
+        "q": "What three virtues remain?",
+        "a": "Faith, hope, and love",
+        "o": [
+          "Faith, hope, and love",
+          "Wisdom, knowledge, and power",
+          "Patience, kindness, and truth",
+          "Prophecy, tongues, and miracles"
+        ],
+        "ref": "1 Corinthians 13:13"
+      },
+      {
+        "q": "Which is the greatest?",
+        "a": "Love",
+        "o": [
+          "Faith",
+          "Hope",
+          "Love",
+          "Wisdom"
+        ],
+        "ref": "1 Corinthians 13:13"
+      }
+    ]
+  }
+}

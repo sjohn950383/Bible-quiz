@@ -1,0 +1,556 @@
+{
+  "questionsDatabase": {
+    "ch7": [
+      {
+        "q": "About what did Paul begin to write?",
+        "a": "Matters mentioned in their letter",
+        "o": [
+          "Matters of the law",
+          "What he heard from Chloe's people",
+          "Matters mentioned in their letter",
+          "The impending famine"
+        ],
+        "ref": "1 Corinthians 7:1"
+      },
+      {
+        "q": "What did some say is well for a man?",
+        "a": "Not to touch a woman",
+        "o": [
+          "To have many wives",
+          "Not to touch a woman",
+          "To remain uncircumcised",
+          "To travel and preach"
+        ],
+        "ref": "1 Corinthians 7:1"
+      },
+      {
+        "q": "Because of what should each man have his own wife?",
+        "a": "Sexual immorality",
+        "o": [
+          "The law of Moses",
+          "Sexual immorality",
+          "The need for children",
+          "Loneliness"
+        ],
+        "ref": "1 Corinthians 7:2"
+      },
+      {
+        "q": "Because of what should each woman have her own husband?",
+        "a": "Sexual immorality",
+        "o": [
+          "Financial security",
+          "Societal expectations",
+          "Sexual immorality",
+          "The command of angels"
+        ],
+        "ref": "1 Corinthians 7:2"
+      },
+      {
+        "q": "What should a husband give his wife?",
+        "a": "Her conjugal rights",
+        "o": [
+          "Her conjugal rights",
+          "A dowry",
+          "Spiritual authority",
+          "Material wealth"
+        ],
+        "ref": "1 Corinthians 7:3"
+      },
+      {
+        "q": "What should a wife give her husband?",
+        "a": "His conjugal rights",
+        "o": [
+          "Complete obedience",
+          "Her personal wealth",
+          "His conjugal rights",
+          "The right to divorce"
+        ],
+        "ref": "1 Corinthians 7:3"
+      },
+      {
+        "q": "Who has authority over a wife’s body?",
+        "a": "Her husband",
+        "o": [
+          "Her father",
+          "Her husband",
+          "The church elders",
+          "God alone"
+        ],
+        "ref": "1 Corinthians 7:4"
+      },
+      {
+        "q": "Who has authority over a husband’s body?",
+        "a": "His wife",
+        "o": [
+          "His wife",
+          "The Roman emperor",
+          "Himself",
+          "The Apostle Paul"
+        ],
+        "ref": "1 Corinthians 7:4"
+      },
+      {
+        "q": "What should married couples not do to one another?",
+        "a": "Deprive one another",
+        "o": [
+          "Keep secrets from one another",
+          "Deprive one another",
+          "Speak harshly to one another",
+          "Sue one another"
+        ],
+        "ref": "1 Corinthians 7:5"
+      },
+      {
+        "q": "For what purpose may they abstain temporarily?",
+        "a": "Prayer",
+        "o": [
+          "Fasting",
+          "Prayer",
+          "Traveling",
+          "Mourning"
+        ],
+        "ref": "1 Corinthians 7:5"
+      },
+      {
+        "q": "Why should they come together again?",
+        "a": "So Satan may not tempt them",
+        "o": [
+          "So they can have children",
+          "To maintain their reputation",
+          "So Satan may not tempt them",
+          "To fulfill the Jewish law"
+        ],
+        "ref": "1 Corinthians 7:5"
+      },
+      {
+        "q": "How did Paul describe this statement?",
+        "a": "A concession",
+        "o": [
+          "A direct command from the Lord",
+          "A concession",
+          "A prophecy",
+          "A strict law"
+        ],
+        "ref": "1 Corinthians 7:6"
+      },
+      {
+        "q": "What did Paul wish all people were?",
+        "a": "As he himself was",
+        "o": [
+          "Married",
+          "Wealthy",
+          "Free from slavery",
+          "As he himself was"
+        ],
+        "ref": "1 Corinthians 7:7"
+      },
+      {
+        "q": "From whom does each receive a gift?",
+        "a": "God",
+        "o": [
+          "The Holy Spirit",
+          "The apostles",
+          "God",
+          "Their parents"
+        ],
+        "ref": "1 Corinthians 7:7"
+      },
+      {
+        "q": "To whom did Paul say it is good to remain single?",
+        "a": "The unmarried and widows",
+        "o": [
+          "Only to the apostles",
+          "The young men and women",
+          "The unmarried and widows",
+          "The elders and deacons"
+        ],
+        "ref": "1 Corinthians 7:8"
+      },
+      {
+        "q": "If they cannot exercise self-control, what should they do?",
+        "a": "Marry",
+        "o": [
+          "Fast and pray",
+          "Marry",
+          "Seek counsel",
+          "Take a vow of silence"
+        ],
+        "ref": "1 Corinthians 7:9"
+      },
+      {
+        "q": "What is better than burning with passion?",
+        "a": "To marry",
+        "o": [
+          "To isolate oneself",
+          "To become a monk",
+          "To marry",
+          "To be cast out"
+        ],
+        "ref": "1 Corinthians 7:9"
+      },
+      {
+        "q": "What command did the Lord give to a wife?",
+        "a": "She should not separate from her husband",
+        "o": [
+          "She should submit in all things",
+          "She should not separate from her husband",
+          "She must wear a head covering",
+          "She must remain silent"
+        ],
+        "ref": "1 Corinthians 7:10-11"
+      },
+      {
+        "q": "If she separates, what should she do?",
+        "a": "Remain unmarried or be reconciled",
+        "o": [
+          "Return to her father's house",
+          "Remain unmarried or be reconciled",
+          "Pay a fine to the church",
+          "Move to a different city"
+        ],
+        "ref": "1 Corinthians 7:10-11"
+      },
+      {
+        "q": "What command did the Lord give to a husband?",
+        "a": "He should not divorce his wife",
+        "o": [
+          "He should love his wife as Christ loved the church",
+          "He must provide for her",
+          "He should not divorce his wife",
+          "He is the head of the house"
+        ],
+        "ref": "1 Corinthians 7:10-11"
+      },
+      {
+        "q": "If an unbelieving spouse consents to live together, what should the believer do?",
+        "a": "Not divorce",
+        "o": [
+          "Force them to convert",
+          "Not divorce",
+          "Separate temporarily",
+          "Ask the church for advice"
+        ],
+        "ref": "1 Corinthians 7:12-13"
+      },
+      {
+        "q": "How is the unbelieving spouse made holy?",
+        "a": "Through the believing spouse",
+        "o": [
+          "Through baptism",
+          "Through the believing spouse",
+          "By attending synagogue",
+          "By giving to the poor"
+        ],
+        "ref": "1 Corinthians 7:14"
+      },
+      {
+        "q": "Otherwise the children would be what?",
+        "a": "Unclean",
+        "o": [
+          "Unholy",
+          "Lost",
+          "Unclean",
+          "Fatherless"
+        ],
+        "ref": "1 Corinthians 7:14"
+      },
+      {
+        "q": "Instead, they are what?",
+        "a": "Holy",
+        "o": [
+          "Holy",
+          "Saved",
+          "Blessed",
+          "Righteous"
+        ],
+        "ref": "1 Corinthians 7:14"
+      },
+      {
+        "q": "If the unbelieving partner separates, what should happen?",
+        "a": "Let it be so",
+        "o": [
+          "Force them to stay",
+          "Pursue legal action",
+          "Excommunicate the believer",
+          "Let it be so"
+        ],
+        "ref": "1 Corinthians 7:15"
+      },
+      {
+        "q": "To what has God called believers?",
+        "a": "Peace",
+        "o": [
+          "Peace",
+          "Warfare",
+          "Holiness",
+          "Joy"
+        ],
+        "ref": "1 Corinthians 7:15"
+      },
+      {
+        "q": "How should each person live?",
+        "a": "As the Lord assigned",
+        "o": [
+          "As a free citizen",
+          "As the Lord assigned",
+          "In complete poverty",
+          "Above reproach"
+        ],
+        "ref": "1 Corinthians 7:17"
+      },
+      {
+        "q": "What counts is what?",
+        "a": "Keeping the commandments of God",
+        "o": [
+          "Being circumcised",
+          "Remaining uncircumcised",
+          "Keeping the commandments of God",
+          "Eating clean food"
+        ],
+        "ref": "1 Corinthians 7:18-19"
+      },
+      {
+        "q": "In what should each remain?",
+        "a": "The condition in which they were called",
+        "o": [
+          "The condition in which they were called",
+          "The church they first attended",
+          "Their father's house",
+          "The city of Corinth"
+        ],
+        "ref": "1 Corinthians 7:20"
+      },
+      {
+        "q": "If you can gain freedom, what should you do?",
+        "a": "Make use of the opportunity",
+        "o": [
+          "Refuse it out of humility",
+          "Buy another slave's freedom first",
+          "Make use of the opportunity",
+          "Give it to the church"
+        ],
+        "ref": "1 Corinthians 7:21"
+      },
+      {
+        "q": "A slave in the Lord is whose freed person?",
+        "a": "The Lord’s",
+        "o": [
+          "Paul's",
+          "The Lord’s",
+          "The church's",
+          "Caesar's"
+        ],
+        "ref": "1 Corinthians 7:22"
+      },
+      {
+        "q": "A free person called in the Lord is whose slave?",
+        "a": "Christ’s",
+        "o": [
+          "The church's",
+          "God the Father's",
+          "Christ’s",
+          "The apostles'"
+        ],
+        "ref": "1 Corinthians 7:22"
+      },
+      {
+        "q": "What were believers?",
+        "a": "Bought with a price",
+        "o": [
+          "Saved by grace alone",
+          "Bought with a price",
+          "Chosen before time",
+          "Justified by faith"
+        ],
+        "ref": "1 Corinthians 7:23"
+      },
+      {
+        "q": "Whose slaves should believers not become?",
+        "a": "Human beings",
+        "o": [
+          "Sin's",
+          "The devil's",
+          "Human beings",
+          "The Roman Empire's"
+        ],
+        "ref": "1 Corinthians 7:23"
+      },
+      {
+        "q": "With whom should each remain?",
+        "a": "God",
+        "o": [
+          "Their spouse",
+          "The congregation",
+          "God",
+          "The apostles"
+        ],
+        "ref": "1 Corinthians 7:24"
+      },
+      {
+        "q": "About whom did Paul give his judgment?",
+        "a": "Virgins",
+        "o": [
+          "Widows",
+          "Virgins",
+          "Slaves",
+          "The wealthy"
+        ],
+        "ref": "1 Corinthians 7:25"
+      },
+      {
+        "q": "Because of the present distress, what is good?",
+        "a": "To remain as you are",
+        "o": [
+          "To leave the city",
+          "To sell all your possessions",
+          "To remain as you are",
+          "To fast for forty days"
+        ],
+        "ref": "1 Corinthians 7:26"
+      },
+      {
+        "q": "Does marriage itself constitute sin?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only for leaders",
+          "Only for widows"
+        ],
+        "ref": "1 Corinthians 7:28"
+      },
+      {
+        "q": "What did Paul say about the appointed time?",
+        "a": "It has grown short",
+        "o": [
+          "It is near",
+          "It has grown short",
+          "It has passed",
+          "It is unknown"
+        ],
+        "ref": "1 Corinthians 7:29-31"
+      },
+      {
+        "q": "What did Paul want believers to be free from?",
+        "a": "Anxieties",
+        "o": [
+          "Anxieties",
+          "Sin",
+          "The law",
+          "Debt"
+        ],
+        "ref": "1 Corinthians 7:32"
+      },
+      {
+        "q": "What is a married man concerned about?",
+        "a": "Worldly affairs",
+        "o": [
+          "Heavenly things",
+          "His children's salvation",
+          "Worldly affairs",
+          "Providing wealth"
+        ],
+        "ref": "1 Corinthians 7:33-34"
+      },
+      {
+        "q": "What is an unmarried person concerned about?",
+        "a": "The Lord’s affairs",
+        "o": [
+          "Finding a spouse",
+          "The Lord’s affairs",
+          "Gaining wealth",
+          "Worldly affairs"
+        ],
+        "ref": "1 Corinthians 7:33-34"
+      },
+      {
+        "q": "Why did Paul give this instruction?",
+        "a": "For their benefit",
+        "o": [
+          "To establish a new law",
+          "For their benefit",
+          "To assert his authority",
+          "To please the Lord"
+        ],
+        "ref": "1 Corinthians 7:35"
+      },
+      {
+        "q": "If someone feels he should marry, what should he do?",
+        "a": "Marry",
+        "o": [
+          "Pray for a sign",
+          "Seek permission from the church",
+          "Marry",
+          "Fast first"
+        ],
+        "ref": "1 Corinthians 7:36-38"
+      },
+      {
+        "q": "Who does better?",
+        "a": "The one who refrains from marriage",
+        "o": [
+          "The one who marries young",
+          "The one who has many children",
+          "The one who marries a believer",
+          "The one who refrains from marriage"
+        ],
+        "ref": "1 Corinthians 7:36-38"
+      },
+      {
+        "q": "How long is a wife bound to her husband?",
+        "a": "As long as he lives",
+        "o": [
+          "Forever",
+          "As long as he lives",
+          "Until her children are grown",
+          "Seven years"
+        ],
+        "ref": "1 Corinthians 7:39"
+      },
+      {
+        "q": "If her husband dies, what is she free to do?",
+        "a": "Marry whom she wishes",
+        "o": [
+          "Return to her father",
+          "Marry whom she wishes",
+          "Become a servant of the church",
+          "Inherit all his property"
+        ],
+        "ref": "1 Corinthians 7:39"
+      },
+      {
+        "q": "Only in whom?",
+        "a": "The Lord",
+        "o": [
+          "The same tribe",
+          "The synagogue",
+          "The Lord",
+          "The Roman law"
+        ],
+        "ref": "1 Corinthians 7:39"
+      },
+      {
+        "q": "In Paul’s judgment, what is the widow if she remains as she is?",
+        "a": "Happier",
+        "o": [
+          "Holier",
+          "Safer",
+          "Happier",
+          "Wiser"
+        ],
+        "ref": "1 Corinthians 7:40"
+      },
+      {
+        "q": "Whom did Paul believe he had?",
+        "a": "The Spirit of God",
+        "o": [
+          "The mind of Christ",
+          "The authority of Peter",
+          "The Spirit of God",
+          "The wisdom of Solomon"
+        ],
+        "ref": "1 Corinthians 7:40"
+      }
+    ]
+  }
+}

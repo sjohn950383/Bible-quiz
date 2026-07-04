@@ -1,0 +1,875 @@
+{
+  "questionsDatabase": {
+    "ch3": [
+      {
+        "q": "How did Paul address the Corinthians?",
+        "a": "Brothers and sisters",
+        "o": [
+          "Friends and neighbors",
+          "Brothers and sisters",
+          "Saints and sinners",
+          "Men and women"
+        ],
+        "ref": "1 Corinthians 3:1"
+      },
+      {
+        "q": "As what could Paul not speak to the Corinthians?",
+        "a": "Spiritual people",
+        "o": [
+          "Mature adults",
+          "Wise leaders",
+          "Spiritual people",
+          "Perfect saints"
+        ],
+        "ref": "1 Corinthians 3:1"
+      },
+      {
+        "q": "As what did Paul speak to the Corinthians?",
+        "a": "People of the flesh",
+        "o": [
+          "People of the flesh",
+          "People of the Spirit",
+          "Children of God",
+          "Enemies of the cross"
+        ],
+        "ref": "1 Corinthians 3:1"
+      },
+      {
+        "q": "As what did Paul describe the Corinthians in Christ?",
+        "a": "Infants",
+        "o": [
+          "Teenagers",
+          "Toddlers",
+          "Elders",
+          "Infants"
+        ],
+        "ref": "1 Corinthians 3:1"
+      },
+      {
+        "q": "What did Paul feed the Corinthians?",
+        "a": "Milk",
+        "o": [
+          "Bread",
+          "Milk",
+          "Meat",
+          "Honey"
+        ],
+        "ref": "1 Corinthians 3:2"
+      },
+      {
+        "q": "What did Paul not feed them?",
+        "a": "Solid food",
+        "o": [
+          "Water",
+          "Solid food",
+          "Bitter herbs",
+          "Sweet fruits"
+        ],
+        "ref": "1 Corinthians 3:2"
+      },
+      {
+        "q": "Why were they not given solid food?",
+        "a": "They were not ready",
+        "o": [
+          "It was too expensive",
+          "They refused to eat it",
+          "They were not ready",
+          "Paul didn't have any"
+        ],
+        "ref": "1 Corinthians 3:2"
+      },
+      {
+        "q": "Were they ready now?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only the leaders",
+          "Sometimes"
+        ],
+        "ref": "1 Corinthians 3:2"
+      },
+      {
+        "q": "What were the Corinthians still?",
+        "a": "Of the flesh",
+        "o": [
+          "Lost in sin",
+          "Perfect in spirit",
+          "Of the flesh",
+          "Disconnected"
+        ],
+        "ref": "1 Corinthians 3:3"
+      },
+      {
+        "q": "What was among the Corinthians?",
+        "a": "Jealousy",
+        "o": [
+          "Peace",
+          "Jealousy",
+          "Wisdom",
+          "Generosity"
+        ],
+        "ref": "1 Corinthians 3:3"
+      },
+      {
+        "q": "What else was among them?",
+        "a": "Quarreling",
+        "o": [
+          "Unity",
+          "Fellowship",
+          "Understanding",
+          "Quarreling"
+        ],
+        "ref": "1 Corinthians 3:3"
+      },
+      {
+        "q": "According to what were they behaving?",
+        "a": "Human inclinations",
+        "o": [
+          "The Spirit's leading",
+          "The law of Moses",
+          "Human inclinations",
+          "The commands of Christ"
+        ],
+        "ref": "1 Corinthians 3:3"
+      },
+      {
+        "q": "What did some say?",
+        "a": "I belong to Paul",
+        "o": [
+          "I belong to Peter",
+          "I belong to James",
+          "I belong to Paul",
+          "I belong to no one"
+        ],
+        "ref": "1 Corinthians 3:4"
+      },
+      {
+        "q": "What did others say?",
+        "a": "I belong to Apollos",
+        "o": [
+          "I belong to Apollos",
+          "I belong to Barnabas",
+          "I belong to Timothy",
+          "I belong to Silas"
+        ],
+        "ref": "1 Corinthians 3:4"
+      },
+      {
+        "q": "By saying this, what were they proving themselves to be?",
+        "a": "Merely human",
+        "o": [
+          "Highly spiritual",
+          "Merely human",
+          "Deeply committed",
+          "Loyal followers"
+        ],
+        "ref": "1 Corinthians 3:4"
+      },
+      {
+        "q": "Who is Apollos?",
+        "a": "A servant",
+        "o": [
+          "A master",
+          "An apostle",
+          "A servant",
+          "A king"
+        ],
+        "ref": "1 Corinthians 3:5"
+      },
+      {
+        "q": "Who is Paul?",
+        "a": "A servant",
+        "o": [
+          "A servant",
+          "A ruler",
+          "A prophet",
+          "A priest"
+        ],
+        "ref": "1 Corinthians 3:5"
+      },
+      {
+        "q": "Through whom did the Corinthians come to believe?",
+        "a": "Paul and Apollos",
+        "o": [
+          "Peter and John",
+          "Paul and Apollos",
+          "James and Jude",
+          "Timothy and Titus"
+        ],
+        "ref": "1 Corinthians 3:5"
+      },
+      {
+        "q": "Who assigned each servant’s work?",
+        "a": "The Lord",
+        "o": [
+          "Paul",
+          "The church elders",
+          "The Roman government",
+          "The Lord"
+        ],
+        "ref": "1 Corinthians 3:5"
+      },
+      {
+        "q": "Who planted?",
+        "a": "Paul",
+        "o": [
+          "Apollos",
+          "Cephas",
+          "Paul",
+          "Christ"
+        ],
+        "ref": "1 Corinthians 3:6"
+      },
+      {
+        "q": "Who watered?",
+        "a": "Apollos",
+        "o": [
+          "Paul",
+          "Apollos",
+          "Timothy",
+          "The Holy Spirit"
+        ],
+        "ref": "1 Corinthians 3:6"
+      },
+      {
+        "q": "Who gave the growth?",
+        "a": "God",
+        "o": [
+          "Paul",
+          "Apollos",
+          "God",
+          "Mother Nature"
+        ],
+        "ref": "1 Corinthians 3:6"
+      },
+      {
+        "q": "Who is anything?",
+        "a": "Neither the one who plants nor the one who waters",
+        "o": [
+          "Only the one who plants",
+          "Neither the one who plants nor the one who waters",
+          "Only the one who waters",
+          "Both of them equally"
+        ],
+        "ref": "1 Corinthians 3:7"
+      },
+      {
+        "q": "Who gives the growth?",
+        "a": "God",
+        "o": [
+          "The sun and rain",
+          "God",
+          "The gardener",
+          "The seed itself"
+        ],
+        "ref": "1 Corinthians 3:7"
+      },
+      {
+        "q": "What do the planter and the waterer have?",
+        "a": "A common purpose",
+        "o": [
+          "Different goals",
+          "A bitter rivalry",
+          "A common purpose",
+          "Unequal status"
+        ],
+        "ref": "1 Corinthians 3:8"
+      },
+      {
+        "q": "According to what will each receive wages?",
+        "a": "Their labor",
+        "o": [
+          "Their title",
+          "Their labor",
+          "Their faith",
+          "Their popularity"
+        ],
+        "ref": "1 Corinthians 3:8"
+      },
+      {
+        "q": "What are Paul and Apollos?",
+        "a": "God’s servants",
+        "o": [
+          "Independent contractors",
+          "God’s servants",
+          "Competitors",
+          "Rulers of the church"
+        ],
+        "ref": "1 Corinthians 3:9"
+      },
+      {
+        "q": "How were they working?",
+        "a": "Together",
+        "o": [
+          "Separately",
+          "In secret",
+          "Against each other",
+          "Together"
+        ],
+        "ref": "1 Corinthians 3:9"
+      },
+      {
+        "q": "What are the Corinthians?",
+        "a": "God’s field",
+        "o": [
+          "God’s field",
+          "God's army",
+          "God's sheep",
+          "God's vineyard"
+        ],
+        "ref": "1 Corinthians 3:9"
+      },
+      {
+        "q": "What else are the Corinthians?",
+        "a": "God’s building",
+        "o": [
+          "God's weapon",
+          "God's ship",
+          "God’s building",
+          "God's kingdom"
+        ],
+        "ref": "1 Corinthians 3:9"
+      },
+      {
+        "q": "According to what did Paul lay the foundation?",
+        "a": "The grace of God",
+        "o": [
+          "His own wisdom",
+          "The grace of God",
+          "Roman architecture",
+          "Jewish tradition"
+        ],
+        "ref": "1 Corinthians 3:10"
+      },
+      {
+        "q": "How did Paul describe himself?",
+        "a": "A skilled master builder",
+        "o": [
+          "A humble bricklayer",
+          "A simple carpenter",
+          "A novice architect",
+          "A skilled master builder"
+        ],
+        "ref": "1 Corinthians 3:10"
+      },
+      {
+        "q": "What did Paul lay?",
+        "a": "A foundation",
+        "o": [
+          "The roof",
+          "The cornerstone",
+          "A foundation",
+          "The walls"
+        ],
+        "ref": "1 Corinthians 3:10"
+      },
+      {
+        "q": "Who was building on the foundation?",
+        "a": "Someone else",
+        "o": [
+          "Paul himself",
+          "No one",
+          "Someone else",
+          "Only angels"
+        ],
+        "ref": "1 Corinthians 3:10"
+      },
+      {
+        "q": "What must each builder choose carefully?",
+        "a": "How to build",
+        "o": [
+          "Where to build",
+          "When to build",
+          "How to build",
+          "Who to hire"
+        ],
+        "ref": "1 Corinthians 3:10"
+      },
+      {
+        "q": "What foundation can no one lay?",
+        "a": "Any foundation other than Jesus Christ",
+        "o": [
+          "A foundation of sand",
+          "Any foundation other than Jesus Christ",
+          "A foundation of law",
+          "A foundation of good works"
+        ],
+        "ref": "1 Corinthians 3:11"
+      },
+      {
+        "q": "Who is the foundation?",
+        "a": "Jesus Christ",
+        "o": [
+          "The apostles",
+          "Jesus Christ",
+          "Peter",
+          "The church"
+        ],
+        "ref": "1 Corinthians 3:11"
+      },
+      {
+        "q": "Name one building material mentioned.",
+        "a": "Gold",
+        "o": [
+          "Bronze",
+          "Iron",
+          "Clay",
+          "Gold"
+        ],
+        "ref": "1 Corinthians 3:12"
+      },
+      {
+        "q": "Name another building material.",
+        "a": "Silver",
+        "o": [
+          "Silver",
+          "Copper",
+          "Platinum",
+          "Lead"
+        ],
+        "ref": "1 Corinthians 3:12"
+      },
+      {
+        "q": "Name another building material.",
+        "a": "Precious stones",
+        "o": [
+          "Granite",
+          "Precious stones",
+          "Marble",
+          "Limestone"
+        ],
+        "ref": "1 Corinthians 3:12"
+      },
+      {
+        "q": "Name another building material.",
+        "a": "Wood",
+        "o": [
+          "Steel",
+          "Brick",
+          "Wood",
+          "Plastic"
+        ],
+        "ref": "1 Corinthians 3:12"
+      },
+      {
+        "q": "Name another building material.",
+        "a": "Hay",
+        "o": [
+          "Grass",
+          "Leaves",
+          "Hay",
+          "Thorns"
+        ],
+        "ref": "1 Corinthians 3:12"
+      },
+      {
+        "q": "Name another building material.",
+        "a": "Straw",
+        "o": [
+          "Straw",
+          "Mud",
+          "Vines",
+          "Reeds"
+        ],
+        "ref": "1 Corinthians 3:12"
+      },
+      {
+        "q": "What will become visible?",
+        "a": "Each builder’s work",
+        "o": [
+          "The sins of the past",
+          "The thoughts of the heart",
+          "Each builder’s work",
+          "The angels in heaven"
+        ],
+        "ref": "1 Corinthians 3:13"
+      },
+      {
+        "q": "What will disclose each person’s work?",
+        "a": "The Day",
+        "o": [
+          "The Night",
+          "The Day",
+          "The Law",
+          "The Prophet"
+        ],
+        "ref": "1 Corinthians 3:13"
+      },
+      {
+        "q": "By what will each person’s work be revealed?",
+        "a": "Fire",
+        "o": [
+          "Water",
+          "Wind",
+          "Fire",
+          "Earthquake"
+        ],
+        "ref": "1 Corinthians 3:13"
+      },
+      {
+        "q": "What will fire test?",
+        "a": "The work",
+        "o": [
+          "The builder's faith",
+          "The work",
+          "The builder's wealth",
+          "The builder's age"
+        ],
+        "ref": "1 Corinthians 3:13"
+      },
+      {
+        "q": "What kind of work will be tested?",
+        "a": "Each builder’s work",
+        "o": [
+          "Each builder’s work",
+          "Only the leaders' work",
+          "Only the bad work",
+          "Only the physical work"
+        ],
+        "ref": "1 Corinthians 3:13"
+      },
+      {
+        "q": "What must survive for the builder to receive a reward?",
+        "a": "The work",
+        "o": [
+          "The fire",
+          "The foundation",
+          "The tools",
+          "The work"
+        ],
+        "ref": "1 Corinthians 3:14"
+      },
+      {
+        "q": "What will the builder receive?",
+        "a": "A reward",
+        "o": [
+          "A crown of thorns",
+          "A reward",
+          "A harsh punishment",
+          "A new job"
+        ],
+        "ref": "1 Corinthians 3:14"
+      },
+      {
+        "q": "What happens to the work?",
+        "a": "It is burned up",
+        "o": [
+          "It turns to gold",
+          "It is preserved forever",
+          "It is burned up",
+          "It is multiplied"
+        ],
+        "ref": "1 Corinthians 3:15"
+      },
+      {
+        "q": "What will the builder suffer?",
+        "a": "Loss",
+        "o": [
+          "Pain",
+          "Loss",
+          "Condemnation",
+          "Exile"
+        ],
+        "ref": "1 Corinthians 3:15"
+      },
+      {
+        "q": "Will the builder be saved?",
+        "a": "Yes",
+        "o": [
+          "No",
+          "Only if they repent again",
+          "Maybe",
+          "Yes"
+        ],
+        "ref": "1 Corinthians 3:15"
+      },
+      {
+        "q": "How will the builder be saved?",
+        "a": "Through fire",
+        "o": [
+          "Through fire",
+          "Through water",
+          "Through the air",
+          "Through the earth"
+        ],
+        "ref": "1 Corinthians 3:15"
+      },
+      {
+        "q": "What are believers?",
+        "a": "God’s temple",
+        "o": [
+          "God's synagogue",
+          "God's palace",
+          "God’s temple",
+          "God's marketplace"
+        ],
+        "ref": "1 Corinthians 3:16"
+      },
+      {
+        "q": "Who dwells in believers?",
+        "a": "God’s Spirit",
+        "o": [
+          "Angels",
+          "God’s Spirit",
+          "The spirits of the prophets",
+          "Demons"
+        ],
+        "ref": "1 Corinthians 3:16"
+      },
+      {
+        "q": "What will God do to anyone who destroys His temple?",
+        "a": "Destroy that person",
+        "o": [
+          "Destroy that person",
+          "Forgive that person",
+          "Exile that person",
+          "Ignore that person"
+        ],
+        "ref": "1 Corinthians 3:17"
+      },
+      {
+        "q": "What is God’s temple?",
+        "a": "Holy",
+        "o": [
+          "Magnificent",
+          "Ancient",
+          "Holy",
+          "Indestructible"
+        ],
+        "ref": "1 Corinthians 3:17"
+      },
+      {
+        "q": "Who is God’s temple?",
+        "a": "You",
+        "o": [
+          "The angels",
+          "The physical building in Jerusalem",
+          "The apostles only",
+          "You"
+        ],
+        "ref": "1 Corinthians 3:17"
+      },
+      {
+        "q": "What should believers not do?",
+        "a": "Deceive themselves",
+        "o": [
+          "Deceive themselves",
+          "Boast in the Lord",
+          "Ask questions",
+          "Pray for wisdom"
+        ],
+        "ref": "1 Corinthians 3:18"
+      },
+      {
+        "q": "What should one become to become wise?",
+        "a": "A fool",
+        "o": [
+          "A scholar",
+          "A priest",
+          "A king",
+          "A fool"
+        ],
+        "ref": "1 Corinthians 3:18"
+      },
+      {
+        "q": "In what age did Paul mention being wise?",
+        "a": "This age",
+        "o": [
+          "The age to come",
+          "This age",
+          "The golden age",
+          "The dark age"
+        ],
+        "ref": "1 Corinthians 3:18"
+      },
+      {
+        "q": "What is the wisdom of this world to God?",
+        "a": "Foolishness",
+        "o": [
+          "Great insight",
+          "Acceptable",
+          "Foolishness",
+          "A mystery"
+        ],
+        "ref": "1 Corinthians 3:19"
+      },
+      {
+        "q": "Whom does God catch?",
+        "a": "The wise",
+        "o": [
+          "The foolish",
+          "The wise",
+          "The innocent",
+          "The poor"
+        ],
+        "ref": "1 Corinthians 3:19"
+      },
+      {
+        "q": "In what does God catch the wise?",
+        "a": "Their craftiness",
+        "o": [
+          "Their ignorance",
+          "Their pride",
+          "Their wealth",
+          "Their craftiness"
+        ],
+        "ref": "1 Corinthians 3:19"
+      },
+      {
+        "q": "Who knows the thoughts of the wise?",
+        "a": "The Lord",
+        "o": [
+          "Satan",
+          "The Lord",
+          "The angels",
+          "The prophets"
+        ],
+        "ref": "1 Corinthians 3:20"
+      },
+      {
+        "q": "What are the thoughts of the wise?",
+        "a": "Futile",
+        "o": [
+          "Profound",
+          "Eternal",
+          "Futile",
+          "Holy"
+        ],
+        "ref": "1 Corinthians 3:20"
+      },
+      {
+        "q": "About whom should no one boast?",
+        "a": "Human leaders",
+        "o": [
+          "The Lord",
+          "The angels",
+          "Human leaders",
+          "The Spirit"
+        ],
+        "ref": "1 Corinthians 3:21"
+      },
+      {
+        "q": "Why should no one boast in human leaders?",
+        "a": "All things are yours",
+        "o": [
+          "Leaders are corrupt",
+          "Boasting is a sin",
+          "They are all weak",
+          "All things are yours"
+        ],
+        "ref": "1 Corinthians 3:21"
+      },
+      {
+        "q": "Name one person who belongs to believers.",
+        "a": "Paul",
+        "o": [
+          "Caesar",
+          "Paul",
+          "Pilate",
+          "Herod"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "Name another person.",
+        "a": "Apollos",
+        "o": [
+          "Judas",
+          "Caiaphas",
+          "Apollos",
+          "Festus"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "Name another person.",
+        "a": "Cephas",
+        "o": [
+          "John the Baptist",
+          "Thomas",
+          "Stephen",
+          "Cephas"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "What else belongs to believers?",
+        "a": "The world",
+        "o": [
+          "The underworld",
+          "The Roman Empire",
+          "The world",
+          "The temple treasury"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "What else belongs to believers?",
+        "a": "Life",
+        "o": [
+          "Sickness",
+          "Life",
+          "Poverty",
+          "Sorrow"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "What else belongs to believers?",
+        "a": "Death",
+        "o": [
+          "Condemnation",
+          "Hell",
+          "Death",
+          "Fear"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "What else belongs to believers?",
+        "a": "The present",
+        "o": [
+          "The present",
+          "The past",
+          "Ancient history",
+          "The forgotten times"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "What else belongs to believers?",
+        "a": "The future",
+        "o": [
+          "The unknown",
+          "Only tomorrow",
+          "The future",
+          "The next decade"
+        ],
+        "ref": "1 Corinthians 3:22"
+      },
+      {
+        "q": "To whom do believers belong?",
+        "a": "Christ",
+        "o": [
+          "The church",
+          "Christ",
+          "The state",
+          "Themselves"
+        ],
+        "ref": "1 Corinthians 3:23"
+      },
+      {
+        "q": "To whom does Christ belong?",
+        "a": "God",
+        "o": [
+          "The church",
+          "The angels",
+          "God",
+          "Humanity"
+        ],
+        "ref": "1 Corinthians 3:23"
+      }
+    ]
+  }
+}

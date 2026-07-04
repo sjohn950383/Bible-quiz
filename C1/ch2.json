@@ -1,0 +1,402 @@
+{
+  "questionsDatabase": {
+    "ch2": [
+      {
+        "q": "When Paul came to Corinth, what did he not proclaim with lofty words or wisdom?",
+        "a": "The mystery of God",
+        "o": [
+          "The history of Israel",
+          "The laws of Moses",
+          "The mystery of God",
+          "The traditions of the elders"
+        ],
+        "ref": "1 Corinthians 2:1"
+      },
+      {
+        "q": "What did Paul decide to know among the Corinthians?",
+        "a": "Jesus Christ",
+        "o": [
+          "Worldly philosophy",
+          "Jesus Christ",
+          "Jewish genealogy",
+          "The wisdom of the Greeks"
+        ],
+        "ref": "1 Corinthians 2:2"
+      },
+      {
+        "q": "How did Paul describe Jesus Christ?",
+        "a": "Crucified",
+        "o": [
+          "Glorified",
+          "Crucified",
+          "Reigning",
+          "Teaching in the temple"
+        ],
+        "ref": "1 Corinthians 2:2"
+      },
+      {
+        "q": "How did Paul come to the Corinthians?",
+        "a": "In weakness",
+        "o": [
+          "In great wealth",
+          "With many soldiers",
+          "In power",
+          "In weakness"
+        ],
+        "ref": "1 Corinthians 2:3"
+      },
+      {
+        "q": "What else did Paul experience?",
+        "a": "Fear",
+        "o": [
+          "Arrogance",
+          "Fear",
+          "Anger",
+          "Confusion"
+        ],
+        "ref": "1 Corinthians 2:3"
+      },
+      {
+        "q": "What else did Paul experience?",
+        "a": "Much trembling",
+        "o": [
+          "Much trembling",
+          "Great rejoicing",
+          "Deep sorrow",
+          "A sudden illness"
+        ],
+        "ref": "1 Corinthians 2:3"
+      },
+      {
+        "q": "Paul’s speech and proclamation were not with what?",
+        "a": "Plausible words of wisdom",
+        "o": [
+          "Quotations from prophets",
+          "Greek philosophy",
+          "Plausible words of wisdom",
+          "Parables and stories"
+        ],
+        "ref": "1 Corinthians 2:4"
+      },
+      {
+        "q": "Paul’s message demonstrated what?",
+        "a": "The Spirit and power",
+        "o": [
+          "Human intelligence",
+          "The Spirit and power",
+          "Worldly authority",
+          "Rhetorical skill"
+        ],
+        "ref": "1 Corinthians 2:4"
+      },
+      {
+        "q": "Believers’ faith should rest not on what?",
+        "a": "Human wisdom",
+        "o": [
+          "Angelic visions",
+          "Ancient traditions",
+          "Emotional experiences",
+          "Human wisdom"
+        ],
+        "ref": "1 Corinthians 2:5"
+      },
+      {
+        "q": "Believers’ faith should rest on what?",
+        "a": "The power of God",
+        "o": [
+          "The power of God",
+          "The wealth of the church",
+          "The wisdom of leaders",
+          "The eloquence of speakers"
+        ],
+        "ref": "1 Corinthians 2:5"
+      },
+      {
+        "q": "Among whom does Paul speak wisdom?",
+        "a": "The mature",
+        "o": [
+          "The wealthy",
+          "The young",
+          "The mature",
+          "The political leaders"
+        ],
+        "ref": "1 Corinthians 2:6"
+      },
+      {
+        "q": "Is it the wisdom of this age?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only in part",
+          "No",
+          "It is the wisdom of the Greeks"
+        ],
+        "ref": "1 Corinthians 2:6"
+      },
+      {
+        "q": "What does Paul speak?",
+        "a": "God’s wisdom",
+        "o": [
+          "His own opinions",
+          "God’s wisdom",
+          "Roman laws",
+          "The wisdom of Solomon"
+        ],
+        "ref": "1 Corinthians 2:7"
+      },
+      {
+        "q": "How is God’s wisdom described?",
+        "a": "Secret and hidden",
+        "o": [
+          "Secret and hidden",
+          "Plain and obvious",
+          "Loud and clear",
+          "Written in the stars"
+        ],
+        "ref": "1 Corinthians 2:7"
+      },
+      {
+        "q": "When did God decree this wisdom?",
+        "a": "Before the ages",
+        "o": [
+          "At the dawn of time",
+          "During the flood",
+          "At Mount Sinai",
+          "Before the ages"
+        ],
+        "ref": "1 Corinthians 2:7"
+      },
+      {
+        "q": "For what purpose was it decreed?",
+        "a": "Our glory",
+        "o": [
+          "Our punishment",
+          "Our wealth on earth",
+          "Our glory",
+          "Our confusion"
+        ],
+        "ref": "1 Corinthians 2:7"
+      },
+      {
+        "q": "Who did not understand this wisdom?",
+        "a": "The rulers of this age",
+        "o": [
+          "The rulers of this age",
+          "The apostles",
+          "The prophets",
+          "The angels in heaven"
+        ],
+        "ref": "1 Corinthians 2:8"
+      },
+      {
+        "q": "Whom did they crucify?",
+        "a": "The Lord of glory",
+        "o": [
+          "The king of Rome",
+          "The Lord of glory",
+          "A false prophet",
+          "A political zealot"
+        ],
+        "ref": "1 Corinthians 2:8"
+      },
+      {
+        "q": "What has no eye seen?",
+        "a": "What God has prepared for those who love Him",
+        "o": [
+          "The end of the world",
+          "The face of angels",
+          "The true cross",
+          "What God has prepared for those who love Him"
+        ],
+        "ref": "1 Corinthians 2:9"
+      },
+      {
+        "q": "What has no ear heard?",
+        "a": "What God has prepared for those who love Him",
+        "o": [
+          "The songs of angels",
+          "What God has prepared for those who love Him",
+          "The trumpet of judgment",
+          "The secret name of God"
+        ],
+        "ref": "1 Corinthians 2:9"
+      },
+      {
+        "q": "Into whose heart has it not entered?",
+        "a": "The human heart",
+        "o": [
+          "The angelic heart",
+          "The human heart",
+          "The heart of kings",
+          "The animal heart"
+        ],
+        "ref": "1 Corinthians 2:9"
+      },
+      {
+        "q": "Through whom has God revealed these things?",
+        "a": "The Spirit",
+        "o": [
+          "The prophets",
+          "The law",
+          "The angels",
+          "The Spirit"
+        ],
+        "ref": "1 Corinthians 2:10"
+      },
+      {
+        "q": "What does the Spirit search?",
+        "a": "Everything",
+        "o": [
+          "Only the future",
+          "Everything",
+          "The minds of angels",
+          "Human history"
+        ],
+        "ref": "1 Corinthians 2:10"
+      },
+      {
+        "q": "What depths does the Spirit search?",
+        "a": "The depths of God",
+        "o": [
+          "The depths of the sea",
+          "The depths of space",
+          "The depths of God",
+          "The depths of the earth"
+        ],
+        "ref": "1 Corinthians 2:10"
+      },
+      {
+        "q": "Who knows a person’s thoughts?",
+        "a": "The person’s own spirit",
+        "o": [
+          "Their closest friend",
+          "The angels",
+          "The person’s own spirit",
+          "The rulers of this age"
+        ],
+        "ref": "1 Corinthians 2:11"
+      },
+      {
+        "q": "Who knows God’s thoughts?",
+        "a": "The Spirit of God",
+        "o": [
+          "The archangels",
+          "The Spirit of God",
+          "The prophets",
+          "Humanity"
+        ],
+        "ref": "1 Corinthians 2:11"
+      },
+      {
+        "q": "What spirit have believers received?",
+        "a": "The Spirit from God",
+        "o": [
+          "The spirit of the world",
+          "The spirit of fear",
+          "The Spirit from God",
+          "A spirit of confusion"
+        ],
+        "ref": "1 Corinthians 2:12"
+      },
+      {
+        "q": "Why have believers received the Spirit?",
+        "a": "To understand God’s gifts",
+        "o": [
+          "To speak in tongues",
+          "To conquer enemies",
+          "To understand God’s gifts",
+          "To gain wealth"
+        ],
+        "ref": "1 Corinthians 2:12"
+      },
+      {
+        "q": "Paul speaks with words taught by whom?",
+        "a": "The Spirit",
+        "o": [
+          "The Spirit",
+          "Human teachers",
+          "Greek philosophers",
+          "Gamaliel"
+        ],
+        "ref": "1 Corinthians 2:13"
+      },
+      {
+        "q": "Paul interprets spiritual things to whom?",
+        "a": "Those who are spiritual",
+        "o": [
+          "Everyone",
+          "Unbelievers",
+          "Those who are spiritual",
+          "Kings and rulers"
+        ],
+        "ref": "1 Corinthians 2:13"
+      },
+      {
+        "q": "Who does not receive the gifts of God’s Spirit?",
+        "a": "The unspiritual person",
+        "o": [
+          "The Gentiles",
+          "The unspiritual person",
+          "The poor",
+          "The uneducated"
+        ],
+        "ref": "1 Corinthians 2:14"
+      },
+      {
+        "q": "Why are they foolishness to the unspiritual person?",
+        "a": "They are spiritually discerned",
+        "o": [
+          "They are written in Greek",
+          "They are too complex",
+          "They contradict science",
+          "They are spiritually discerned"
+        ],
+        "ref": "1 Corinthians 2:14"
+      },
+      {
+        "q": "Who discerns all things?",
+        "a": "The spiritual person",
+        "o": [
+          "The spiritual person",
+          "The wise person",
+          "The king",
+          "The prophet"
+        ],
+        "ref": "1 Corinthians 2:15"
+      },
+      {
+        "q": "Who is subject to no one else’s scrutiny?",
+        "a": "The spiritual person",
+        "o": [
+          "The emperor",
+          "The high priest",
+          "The wealthy",
+          "The spiritual person"
+        ],
+        "ref": "1 Corinthians 2:15"
+      },
+      {
+        "q": "Who has known the mind of the Lord?",
+        "a": "No one",
+        "o": [
+          "Paul",
+          "Moses",
+          "No one",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 2:16"
+      },
+      {
+        "q": "What do believers have?",
+        "a": "The mind of Christ",
+        "o": [
+          "The wealth of Solomon",
+          "The strength of Samson",
+          "The mind of Christ",
+          "The wisdom of the Greeks"
+        ],
+        "ref": "1 Corinthians 2:16"
+      }
+    ]
+  }
+}

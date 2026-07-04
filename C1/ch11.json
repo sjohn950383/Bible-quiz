@@ -1,0 +1,413 @@
+{
+  "questionsDatabase": {
+    "ch11": [
+      {
+        "q": "Whom did Paul tell the Corinthians to imitate?",
+        "a": "Paul",
+        "o": [
+          "Peter",
+          "Apollos",
+          "Paul",
+          "Christ's disciples"
+        ],
+        "ref": "1 Corinthians 11:1"
+      },
+      {
+        "q": "As Paul imitates whom?",
+        "a": "Christ",
+        "o": [
+          "God the Father",
+          "Christ",
+          "Moses",
+          "Abraham"
+        ],
+        "ref": "1 Corinthians 11:1"
+      },
+      {
+        "q": "For what did Paul praise the Corinthians?",
+        "a": "Remembering him in everything",
+        "o": [
+          "Remembering him in everything",
+          "Their great wealth",
+          "Their spiritual gifts",
+          "Their perfect unity"
+        ],
+        "ref": "1 Corinthians 11:2"
+      },
+      {
+        "q": "What had they maintained?",
+        "a": "The traditions",
+        "o": [
+          "The law of Moses",
+          "The traditions",
+          "The temple sacrifices",
+          "The Roman peace"
+        ],
+        "ref": "1 Corinthians 11:2"
+      },
+      {
+        "q": "Who is the head of every man?",
+        "a": "Christ",
+        "o": [
+          "God",
+          "The church",
+          "Christ",
+          "The apostles"
+        ],
+        "ref": "1 Corinthians 11:3"
+      },
+      {
+        "q": "Who is the head of a woman?",
+        "a": "Her husband",
+        "o": [
+          "Her husband",
+          "Her father",
+          "The church elders",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 11:3"
+      },
+      {
+        "q": "Who is the head of Christ?",
+        "a": "God",
+        "o": [
+          "The Holy Spirit",
+          "God",
+          "The angels",
+          "The church"
+        ],
+        "ref": "1 Corinthians 11:3"
+      },
+      {
+        "q": "What does a man dishonor by praying with his head covered?",
+        "a": "His head",
+        "o": [
+          "The church",
+          "God's temple",
+          "His head",
+          "His family"
+        ],
+        "ref": "1 Corinthians 11:4-6"
+      },
+      {
+        "q": "What does a woman dishonor by praying with her head unveiled?",
+        "a": "Her head",
+        "o": [
+          "The angels",
+          "Her husband",
+          "Her head",
+          "Her children"
+        ],
+        "ref": "1 Corinthians 11:4-6"
+      },
+      {
+        "q": "If a woman will not veil herself, what should she do?",
+        "a": "Cut off her hair",
+        "o": [
+          "Cut off her hair",
+          "Leave the gathering",
+          "Pray in silence",
+          "Cover her face"
+        ],
+        "ref": "1 Corinthians 11:4-6"
+      },
+      {
+        "q": "Man is the image and reflection of whom?",
+        "a": "God",
+        "o": [
+          "The angels",
+          "God",
+          "Christ",
+          "The earth"
+        ],
+        "ref": "1 Corinthians 11:7-12"
+      },
+      {
+        "q": "Woman is whose reflection?",
+        "a": "Man",
+        "o": [
+          "The church",
+          "God",
+          "Nature",
+          "Man"
+        ],
+        "ref": "1 Corinthians 11:7-12"
+      },
+      {
+        "q": "From whom was woman made?",
+        "a": "Man",
+        "o": [
+          "Dust",
+          "Man",
+          "Spirit",
+          "The earth"
+        ],
+        "ref": "1 Corinthians 11:7-12"
+      },
+      {
+        "q": "From whom do all things come?",
+        "a": "God",
+        "o": [
+          "The Spirit",
+          "The earth",
+          "God",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 11:7-12"
+      },
+      {
+        "q": "What is long hair to a woman?",
+        "a": "Her glory",
+        "o": [
+          "Her burden",
+          "A sign of submission",
+          "Her glory",
+          "A worldly vanity"
+        ],
+        "ref": "1 Corinthians 11:13-16"
+      },
+      {
+        "q": "What has been given to her as a covering?",
+        "a": "Her hair",
+        "o": [
+          "Her faith",
+          "Her hair",
+          "Her veil",
+          "Her silence"
+        ],
+        "ref": "1 Corinthians 11:13-16"
+      },
+      {
+        "q": "Why did Paul not commend the Corinthians?",
+        "a": "Their meetings did more harm than good",
+        "o": [
+          "They forgot the poor",
+          "They stopped praying entirely",
+          "Their meetings did more harm than good",
+          "They allowed false prophets to speak"
+        ],
+        "ref": "1 Corinthians 11:17-22"
+      },
+      {
+        "q": "What existed among them when they met?",
+        "a": "Divisions",
+        "o": [
+          "Divisions",
+          "Complete unity",
+          "Idol worship",
+          "Roman spies"
+        ],
+        "ref": "1 Corinthians 11:17-22"
+      },
+      {
+        "q": "What was each person doing at the meal?",
+        "a": "Going ahead with his own supper",
+        "o": [
+          "Fasting completely",
+          "Sharing everything equally",
+          "Going ahead with his own supper",
+          "Praying silently"
+        ],
+        "ref": "1 Corinthians 11:17-22"
+      },
+      {
+        "q": "What happened to one person?",
+        "a": "Went hungry",
+        "o": [
+          "Was healed",
+          "Went hungry",
+          "Spoke in tongues",
+          "Was cast out"
+        ],
+        "ref": "1 Corinthians 11:17-22"
+      },
+      {
+        "q": "What happened to another?",
+        "a": "Became drunk",
+        "o": [
+          "Became drunk",
+          "Fell asleep",
+          "Began to prophesy",
+          "Left the gathering"
+        ],
+        "ref": "1 Corinthians 11:17-22"
+      },
+      {
+        "q": "From whom did Paul receive the Lord’s Supper?",
+        "a": "The Lord",
+        "o": [
+          "Peter",
+          "The apostles",
+          "The Lord",
+          "The church in Jerusalem"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "What did Jesus take?",
+        "a": "Bread",
+        "o": [
+          "A lamb",
+          "Bread",
+          "Fish",
+          "Water"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "What did Jesus do after giving thanks?",
+        "a": "Broke it",
+        "o": [
+          "Blessed it and passed it whole",
+          "Broke it",
+          "Ate it entirely",
+          "Wrapped it in cloth"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "What did Jesus say the bread is?",
+        "a": "My body",
+        "o": [
+          "My spirit",
+          "The bread of life",
+          "My body",
+          "The new covenant"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "What did Jesus take after supper?",
+        "a": "The cup",
+        "o": [
+          "The basin",
+          "The cup",
+          "The scroll",
+          "The bread again"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "What is the cup?",
+        "a": "The new covenant in my blood",
+        "o": [
+          "The blood of the lamb",
+          "The cup of wrath",
+          "The new covenant in my blood",
+          "The cup of blessing"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "What do believers proclaim by eating the bread and drinking the cup?",
+        "a": "The Lord’s death",
+        "o": [
+          "His resurrection",
+          "The Lord’s death",
+          "His miracles",
+          "His return in glory"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "Until when?",
+        "a": "Until he comes",
+        "o": [
+          "Until the end of the age",
+          "Until the temple is rebuilt",
+          "Until the apostles die",
+          "Until he comes"
+        ],
+        "ref": "1 Corinthians 11:23-26"
+      },
+      {
+        "q": "How should believers not eat the bread or drink the cup?",
+        "a": "In an unworthy manner",
+        "o": [
+          "In an unworthy manner",
+          "Without washing their hands",
+          "While standing up",
+          "With uncircumcised lips"
+        ],
+        "ref": "1 Corinthians 11:27-32"
+      },
+      {
+        "q": "What should each person do first?",
+        "a": "Examine themselves",
+        "o": [
+          "Wash their hands",
+          "Examine themselves",
+          "Confess to the elders",
+          "Fast for a day"
+        ],
+        "ref": "1 Corinthians 11:27-32"
+      },
+      {
+        "q": "What does an unworthy person eat and drink?",
+        "a": "Judgment",
+        "o": [
+          "Wrath",
+          "Only ordinary bread and wine",
+          "Condemnation of the world",
+          "Judgment"
+        ],
+        "ref": "1 Corinthians 11:27-32"
+      },
+      {
+        "q": "Why were many weak and ill?",
+        "a": "They did not discern the body",
+        "o": [
+          "They did not discern the body",
+          "They ate meat sacrificed to idols",
+          "They failed to fast",
+          "They associated with unbelievers"
+        ],
+        "ref": "1 Corinthians 11:27-32"
+      },
+      {
+        "q": "Why does the Lord discipline believers?",
+        "a": "So they may not be condemned with the world",
+        "o": [
+          "To punish them permanently",
+          "To show His great power",
+          "So they may not be condemned with the world",
+          "To test their faith"
+        ],
+        "ref": "1 Corinthians 11:27-32"
+      },
+      {
+        "q": "What should believers do when they come together to eat?",
+        "a": "Wait for one another",
+        "o": [
+          "Pray for an hour",
+          "Wash each other's feet",
+          "Sing a hymn",
+          "Wait for one another"
+        ],
+        "ref": "1 Corinthians 11:33-34"
+      },
+      {
+        "q": "If anyone is hungry, where should they eat?",
+        "a": "At home",
+        "o": [
+          "In the marketplace",
+          "Outside the city",
+          "At home",
+          "In the synagogue"
+        ],
+        "ref": "1 Corinthians 11:33-34"
+      },
+      {
+        "q": "Why should they eat at home?",
+        "a": "So they may not come together for judgment",
+        "o": [
+          "To save the church's resources",
+          "So they may not come together for judgment",
+          "Because the gathering place is holy",
+          "To avoid offending the poor"
+        ],
+        "ref": "1 Corinthians 11:33-34"
+      }
+    ]
+  }
+}

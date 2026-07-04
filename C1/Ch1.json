@@ -1,0 +1,864 @@
+{
+  "questionsDatabase": {
+    "ch1": [
+      {
+        "q": "Who was called to be an apostle of Christ Jesus?",
+        "a": "Paul",
+        "o": [
+          "Peter",
+          "John",
+          "Paul",
+          "James"
+        ],
+        "ref": "1 Corinthians 1:1"
+      },
+      {
+        "q": "By whose will was Paul called to be an apostle?",
+        "a": "God",
+        "o": [
+          "His own",
+          "God",
+          "The other apostles",
+          "The Roman Emperor"
+        ],
+        "ref": "1 Corinthians 1:1"
+      },
+      {
+        "q": "Who was Paul's brother mentioned in the greeting?",
+        "a": "Sosthenes",
+        "o": [
+          "Timothy",
+          "Titus",
+          "Sosthenes",
+          "Silas"
+        ],
+        "ref": "1 Corinthians 1:1"
+      },
+      {
+        "q": "To whom was the letter addressed?",
+        "a": "The church of God in Corinth",
+        "o": [
+          "The church of God in Rome",
+          "The church of God in Ephesus",
+          "The church of God in Galatia",
+          "The church of God in Corinth"
+        ],
+        "ref": "1 Corinthians 1:2"
+      },
+      {
+        "q": "In whom were the Corinthians sanctified?",
+        "a": "Christ Jesus",
+        "o": [
+          "The Holy Spirit",
+          "God the Father",
+          "Christ Jesus",
+          "The apostles"
+        ],
+        "ref": "1 Corinthians 1:2"
+      },
+      {
+        "q": "What were the Corinthians called to be?",
+        "a": "Saints",
+        "o": [
+          "Prophets",
+          "Saints",
+          "Teachers",
+          "Martyrs"
+        ],
+        "ref": "1 Corinthians 1:2"
+      },
+      {
+        "q": "Along with whom were the Corinthians called?",
+        "a": "All who call on the name of our Lord Jesus Christ",
+        "o": [
+          "Only the apostles",
+          "The Jewish leaders",
+          "All who call on the name of our Lord Jesus Christ",
+          "The Gentiles in Rome"
+        ],
+        "ref": "1 Corinthians 1:2"
+      },
+      {
+        "q": "What did Paul wish for the Corinthians?",
+        "a": "Grace and peace",
+        "o": [
+          "Wealth and prosperity",
+          "Grace and peace",
+          "Health and long life",
+          "Wisdom and knowledge"
+        ],
+        "ref": "1 Corinthians 1:3"
+      },
+      {
+        "q": "Grace and peace come from whom?",
+        "a": "God our Father and the Lord Jesus Christ",
+        "o": [
+          "The Holy Spirit",
+          "The apostles and elders",
+          "God our Father and the Lord Jesus Christ",
+          "The angels in heaven"
+        ],
+        "ref": "1 Corinthians 1:3"
+      },
+      {
+        "q": "For what did Paul always give thanks to God?",
+        "a": "The grace of God",
+        "o": [
+          "The grace of God",
+          "The wealth of the church",
+          "The size of the congregation",
+          "The wisdom of the leaders"
+        ],
+        "ref": "1 Corinthians 1:4"
+      },
+      {
+        "q": "In whom was God's grace given to the Corinthians?",
+        "a": "Christ Jesus",
+        "o": [
+          "Paul",
+          "Peter",
+          "Moses",
+          "Christ Jesus"
+        ],
+        "ref": "1 Corinthians 1:4"
+      },
+      {
+        "q": "In what were the Corinthians enriched in Christ?",
+        "a": "Speech",
+        "o": [
+          "Wealth",
+          "Speech",
+          "Health",
+          "Power"
+        ],
+        "ref": "1 Corinthians 1:5"
+      },
+      {
+        "q": "In what else were the Corinthians enriched?",
+        "a": "Knowledge",
+        "o": [
+          "Knowledge",
+          "Patience",
+          "Courage",
+          "Humility"
+        ],
+        "ref": "1 Corinthians 1:5"
+      },
+      {
+        "q": "What had been strengthened among the Corinthians?",
+        "a": "The testimony about Christ",
+        "o": [
+          "Their physical bodies",
+          "Their political influence",
+          "The testimony about Christ",
+          "Their financial status"
+        ],
+        "ref": "1 Corinthians 1:6"
+      },
+      {
+        "q": "What gift did the Corinthians not lack?",
+        "a": "Any spiritual gift",
+        "o": [
+          "The gift of prophecy",
+          "Any spiritual gift",
+          "The gift of healing",
+          "The gift of speaking in tongues"
+        ],
+        "ref": "1 Corinthians 1:7"
+      },
+      {
+        "q": "Whose revealing were they waiting for?",
+        "a": "Our Lord Jesus Christ",
+        "o": [
+          "Our Lord Jesus Christ",
+          "The Antichrist",
+          "The Archangel Michael",
+          "The Prophet Elijah"
+        ],
+        "ref": "1 Corinthians 1:7"
+      },
+      {
+        "q": "Until when would Christ strengthen them?",
+        "a": "The end",
+        "o": [
+          "The next year",
+          "Their baptism",
+          "The beginning of the tribulation",
+          "The end"
+        ],
+        "ref": "1 Corinthians 1:8"
+      },
+      {
+        "q": "On what day would they be blameless?",
+        "a": "The day of our Lord Jesus Christ",
+        "o": [
+          "The day of Pentecost",
+          "The day of our Lord Jesus Christ",
+          "The day of Atonement",
+          "The day of their death"
+        ],
+        "ref": "1 Corinthians 1:8"
+      },
+      {
+        "q": "Who is faithful?",
+        "a": "God",
+        "o": [
+          "God",
+          "Paul",
+          "Apollos",
+          "Cephas"
+        ],
+        "ref": "1 Corinthians 1:9"
+      },
+      {
+        "q": "Into what were believers called?",
+        "a": "The fellowship of His Son",
+        "o": [
+          "A secret society",
+          "The fellowship of His Son",
+          "The inner circle of apostles",
+          "The synagogue"
+        ],
+        "ref": "1 Corinthians 1:9"
+      },
+      {
+        "q": "Who is God's Son?",
+        "a": "Jesus Christ our Lord",
+        "o": [
+          "John the Baptist",
+          "King David",
+          "Moses",
+          "Jesus Christ our Lord"
+        ],
+        "ref": "1 Corinthians 1:9"
+      },
+      {
+        "q": "In whose name did Paul appeal to the Corinthians?",
+        "a": "The Lord Jesus Christ",
+        "o": [
+          "God the Father",
+          "The Holy Spirit",
+          "The Lord Jesus Christ",
+          "The original apostles"
+        ],
+        "ref": "1 Corinthians 1:10"
+      },
+      {
+        "q": "What did Paul urge all the Corinthians to be in?",
+        "a": "Agreement",
+        "o": [
+          "Constant prayer",
+          "Silence",
+          "Agreement",
+          "A state of fasting"
+        ],
+        "ref": "1 Corinthians 1:10"
+      },
+      {
+        "q": "What should there not be among the Corinthians?",
+        "a": "Divisions",
+        "o": [
+          "Joy",
+          "Questions",
+          "Divisions",
+          "Debates"
+        ],
+        "ref": "1 Corinthians 1:10"
+      },
+      {
+        "q": "In what should the Corinthians be united?",
+        "a": "The same mind",
+        "o": [
+          "The same clothing",
+          "The same geographic location",
+          "The same mind",
+          "The same political views"
+        ],
+        "ref": "1 Corinthians 1:10"
+      },
+      {
+        "q": "In what else should the Corinthians be united?",
+        "a": "The same purpose",
+        "o": [
+          "The same financial goals",
+          "The same dietary laws",
+          "The same spiritual gifts",
+          "The same purpose"
+        ],
+        "ref": "1 Corinthians 1:10"
+      },
+      {
+        "q": "Who informed Paul about the Corinthians?",
+        "a": "Chloe's people",
+        "o": [
+          "Stephanas",
+          "Chloe's people",
+          "Apollos",
+          "Crispus"
+        ],
+        "ref": "1 Corinthians 1:11"
+      },
+      {
+        "q": "What was reported among the Corinthians?",
+        "a": "Quarrels",
+        "o": [
+          "Miracles",
+          "Quarrels",
+          "Revivals",
+          "Persecutions"
+        ],
+        "ref": "1 Corinthians 1:11"
+      },
+      {
+        "q": "What did some Corinthians say?",
+        "a": "\"I belong to Paul.\"",
+        "o": [
+          "\"I belong to John.\"",
+          "\"I belong to Moses.\"",
+          "\"I belong to Paul.\"",
+          "\"I belong to Elijah.\""
+        ],
+        "ref": "1 Corinthians 1:12"
+      },
+      {
+        "q": "What did others say?",
+        "a": "\"I belong to Apollos.\"",
+        "o": [
+          "\"I belong to James.\"",
+          "\"I belong to Apollos.\"",
+          "\"I belong to Barnabas.\"",
+          "\"I belong to Timothy.\""
+        ],
+        "ref": "1 Corinthians 1:12"
+      },
+      {
+        "q": "What did others say?",
+        "a": "\"I belong to Cephas.\"",
+        "o": [
+          "\"I belong to Cephas.\"",
+          "\"I belong to Stephen.\"",
+          "\"I belong to Silas.\"",
+          "\"I belong to Luke.\""
+        ],
+        "ref": "1 Corinthians 1:12"
+      },
+      {
+        "q": "What did others say?",
+        "a": "\"I belong to Christ.\"",
+        "o": [
+          "\"I belong to the Holy Spirit.\"",
+          "\"I belong to God.\"",
+          "\"I belong to the Law.\"",
+          "\"I belong to Christ.\""
+        ],
+        "ref": "1 Corinthians 1:12"
+      },
+      {
+        "q": "Is Christ divided?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only in the flesh",
+          "No",
+          "Only in spirit"
+        ],
+        "ref": "1 Corinthians 1:13"
+      },
+      {
+        "q": "Was Paul crucified for the Corinthians?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only symbolically",
+          "He was stoned, not crucified"
+        ],
+        "ref": "1 Corinthians 1:13"
+      },
+      {
+        "q": "Into whose name were the Corinthians baptized?",
+        "a": "Christ",
+        "o": [
+          "Paul",
+          "Apollos",
+          "Cephas",
+          "Christ"
+        ],
+        "ref": "1 Corinthians 1:13"
+      },
+      {
+        "q": "Whom did Paul thank God he had baptized?",
+        "a": "Crispus",
+        "o": [
+          "Timothy",
+          "Crispus",
+          "Titus",
+          "Silas"
+        ],
+        "ref": "1 Corinthians 1:14"
+      },
+      {
+        "q": "Whom else did Paul baptize?",
+        "a": "Gaius",
+        "o": [
+          "Luke",
+          "Mark",
+          "Gaius",
+          "Barnabas"
+        ],
+        "ref": "1 Corinthians 1:14"
+      },
+      {
+        "q": "Why was Paul thankful that he baptized so few?",
+        "a": "So that no one could say they were baptized in his name",
+        "o": [
+          "Because he was tired",
+          "Because water was scarce",
+          "So that no one could say they were baptized in his name",
+          "Because baptism wasn't important"
+        ],
+        "ref": "1 Corinthians 1:15"
+      },
+      {
+        "q": "Whose household did Paul also baptize?",
+        "a": "Stephanas",
+        "o": [
+          "Cornelius",
+          "Stephanas",
+          "Lydia",
+          "Aquila"
+        ],
+        "ref": "1 Corinthians 1:16"
+      },
+      {
+        "q": "Besides these, did Paul know of anyone else he baptized?",
+        "a": "No",
+        "o": [
+          "Yes, a few others",
+          "Yes, many more",
+          "He wasn't sure",
+          "No"
+        ],
+        "ref": "1 Corinthians 1:16"
+      },
+      {
+        "q": "What did Christ send Paul to do?",
+        "a": "Preach the gospel",
+        "o": [
+          "Build churches",
+          "Perform miracles",
+          "Preach the gospel",
+          "Baptize everyone"
+        ],
+        "ref": "1 Corinthians 1:17"
+      },
+      {
+        "q": "What did Christ not send Paul to do?",
+        "a": "Baptize",
+        "o": [
+          "Preach",
+          "Baptize",
+          "Travel",
+          "Write letters"
+        ],
+        "ref": "1 Corinthians 1:17"
+      },
+      {
+        "q": "With what kind of words did Paul preach?",
+        "a": "Not with eloquent wisdom",
+        "o": [
+          "With eloquent wisdom",
+          "With philosophical arguments",
+          "Not with eloquent wisdom",
+          "With Greek poetry"
+        ],
+        "ref": "1 Corinthians 1:17"
+      },
+      {
+        "q": "Why did Paul avoid eloquent wisdom?",
+        "a": "So that the cross of Christ might not be emptied of its power",
+        "o": [
+          "Because he didn't know how to speak well",
+          "To save time",
+          "To appeal to the uneducated",
+          "So that the cross of Christ might not be emptied of its power"
+        ],
+        "ref": "1 Corinthians 1:17"
+      },
+      {
+        "q": "What is foolishness to those who are perishing?",
+        "a": "The message of the cross",
+        "o": [
+          "The Law of Moses",
+          "The message of the cross",
+          "The resurrection",
+          "The prophecies"
+        ],
+        "ref": "1 Corinthians 1:18"
+      },
+      {
+        "q": "What is the message of the cross to those who are being saved?",
+        "a": "The power of God",
+        "o": [
+          "The wisdom of men",
+          "A stumbling block",
+          "The power of God",
+          "A great mystery"
+        ],
+        "ref": "1 Corinthians 1:18"
+      },
+      {
+        "q": "What will God destroy?",
+        "a": "The wisdom of the wise",
+        "o": [
+          "The earth",
+          "The Roman Empire",
+          "The temple",
+          "The wisdom of the wise"
+        ],
+        "ref": "1 Corinthians 1:19"
+      },
+      {
+        "q": "What will God thwart?",
+        "a": "The discernment of the discerning",
+        "o": [
+          "The discernment of the discerning",
+          "The plans of the wicked",
+          "The power of kings",
+          "The wealth of the rich"
+        ],
+        "ref": "1 Corinthians 1:19"
+      },
+      {
+        "q": "Whom did Paul ask, \"Where is the wise person?\"",
+        "a": "The wise person",
+        "o": [
+          "The Pharisee",
+          "The wise person",
+          "The Sadducee",
+          "The Roman governor"
+        ],
+        "ref": "1 Corinthians 1:20"
+      },
+      {
+        "q": "Whom else did Paul ask about?",
+        "a": "The scribe",
+        "o": [
+          "The scribe",
+          "The priest",
+          "The king",
+          "The prophet"
+        ],
+        "ref": "1 Corinthians 1:20"
+      },
+      {
+        "q": "Whom else did Paul ask about?",
+        "a": "The debater of this age",
+        "o": [
+          "The philosopher",
+          "The merchant",
+          "The debater of this age",
+          "The soldier"
+        ],
+        "ref": "1 Corinthians 1:20"
+      },
+      {
+        "q": "What has God made foolish?",
+        "a": "The wisdom of the world",
+        "o": [
+          "The wealth of kings",
+          "The strength of armies",
+          "The wisdom of the world",
+          "The traditions of elders"
+        ],
+        "ref": "1 Corinthians 1:20"
+      },
+      {
+        "q": "Through what did the world fail to know God?",
+        "a": "Wisdom",
+        "o": [
+          "Sin",
+          "Rebellion",
+          "Wisdom",
+          "Ignorance"
+        ],
+        "ref": "1 Corinthians 1:21"
+      },
+      {
+        "q": "Through what did God choose to save those who believe?",
+        "a": "The foolishness of proclamation",
+        "o": [
+          "The wisdom of philosophers",
+          "The foolishness of proclamation",
+          "The strength of warriors",
+          "The wealth of the church"
+        ],
+        "ref": "1 Corinthians 1:21"
+      },
+      {
+        "q": "What do Jews demand?",
+        "a": "Signs",
+        "o": [
+          "Wisdom",
+          "Signs",
+          "Wealth",
+          "Power"
+        ],
+        "ref": "1 Corinthians 1:22"
+      },
+      {
+        "q": "What do Greeks desire?",
+        "a": "Wisdom",
+        "o": [
+          "Signs",
+          "Miracles",
+          "Wisdom",
+          "Conquests"
+        ],
+        "ref": "1 Corinthians 1:22"
+      },
+      {
+        "q": "Whom did Paul proclaim?",
+        "a": "Christ crucified",
+        "o": [
+          "Christ glorified",
+          "God the Father",
+          "Christ crucified",
+          "The Holy Spirit"
+        ],
+        "ref": "1 Corinthians 1:23"
+      },
+      {
+        "q": "Christ crucified is a stumbling block to whom?",
+        "a": "Jews",
+        "o": [
+          "Greeks",
+          "Jews",
+          "Romans",
+          "Barbarians"
+        ],
+        "ref": "1 Corinthians 1:23"
+      },
+      {
+        "q": "Christ crucified is foolishness to whom?",
+        "a": "Gentiles",
+        "o": [
+          "Jews",
+          "Apostles",
+          "Prophets",
+          "Gentiles"
+        ],
+        "ref": "1 Corinthians 1:23"
+      },
+      {
+        "q": "To those who are called, Christ is the power of whom?",
+        "a": "God",
+        "o": [
+          "Men",
+          "Angels",
+          "God",
+          "The Holy Spirit"
+        ],
+        "ref": "1 Corinthians 1:24"
+      },
+      {
+        "q": "Christ is also the wisdom of whom?",
+        "a": "God",
+        "o": [
+          "Solomon",
+          "God",
+          "The world",
+          "The prophets"
+        ],
+        "ref": "1 Corinthians 1:24"
+      },
+      {
+        "q": "The foolishness of God is wiser than what?",
+        "a": "Human wisdom",
+        "o": [
+          "Angelic wisdom",
+          "Human wisdom",
+          "The wisdom of Solomon",
+          "The laws of nature"
+        ],
+        "ref": "1 Corinthians 1:25"
+      },
+      {
+        "q": "The weakness of God is stronger than what?",
+        "a": "Human strength",
+        "o": [
+          "Demonic power",
+          "The Roman army",
+          "The forces of nature",
+          "Human strength"
+        ],
+        "ref": "1 Corinthians 1:25"
+      },
+      {
+        "q": "According to human standards, how many of the Corinthians were wise?",
+        "a": "Not many",
+        "o": [
+          "All of them",
+          "Most of them",
+          "None of them",
+          "Not many"
+        ],
+        "ref": "1 Corinthians 1:26"
+      },
+      {
+        "q": "How many were powerful?",
+        "a": "Not many",
+        "o": [
+          "All of them",
+          "Only the leaders",
+          "Not many",
+          "Half of them"
+        ],
+        "ref": "1 Corinthians 1:26"
+      },
+      {
+        "q": "How many were of noble birth?",
+        "a": "Not many",
+        "o": [
+          "A great number",
+          "Not many",
+          "Only the wealthy",
+          "Everyone in the church"
+        ],
+        "ref": "1 Corinthians 1:26"
+      },
+      {
+        "q": "What did God choose to shame the wise?",
+        "a": "The foolish",
+        "o": [
+          "The foolish",
+          "The powerful",
+          "The wealthy",
+          "The educated"
+        ],
+        "ref": "1 Corinthians 1:27"
+      },
+      {
+        "q": "What did God choose to shame the strong?",
+        "a": "The weak",
+        "o": [
+          "The mighty",
+          "The rich",
+          "The weak",
+          "The famous"
+        ],
+        "ref": "1 Corinthians 1:27"
+      },
+      {
+        "q": "What did God choose that is low and despised in the world?",
+        "a": "The low and despised things of the world",
+        "o": [
+          "The kings of the earth",
+          "The wise philosophers",
+          "The low and despised things of the world",
+          "The wealthy merchants"
+        ],
+        "ref": "1 Corinthians 1:28"
+      },
+      {
+        "q": "What else did God choose?",
+        "a": "Things that are not",
+        "o": [
+          "Things that are seen",
+          "Things of great value",
+          "Things that are not",
+          "Things that are powerful"
+        ],
+        "ref": "1 Corinthians 1:28"
+      },
+      {
+        "q": "Why did God choose them?",
+        "a": "To reduce to nothing things that are",
+        "o": [
+          "To make them rich",
+          "To conquer the Roman Empire",
+          "To reduce to nothing things that are",
+          "To establish a new nation"
+        ],
+        "ref": "1 Corinthians 1:28"
+      },
+      {
+        "q": "Why did God choose the lowly things of the world?",
+        "a": "So that no one might boast in the presence of God",
+        "o": [
+          "To punish the rich",
+          "So that no one might boast in the presence of God",
+          "To start a rebellion",
+          "To create a new philosophy"
+        ],
+        "ref": "1 Corinthians 1:29"
+      },
+      {
+        "q": "Who is the source of your life in Christ Jesus?",
+        "a": "God",
+        "o": [
+          "The apostles",
+          "God",
+          "Your own faith",
+          "The church"
+        ],
+        "ref": "1 Corinthians 1:30"
+      },
+      {
+        "q": "Who became wisdom from God for us?",
+        "a": "Christ Jesus",
+        "o": [
+          "Paul",
+          "Solomon",
+          "Moses",
+          "Christ Jesus"
+        ],
+        "ref": "1 Corinthians 1:30"
+      },
+      {
+        "q": "What did Christ become for us besides wisdom?",
+        "a": "Righteousness",
+        "o": [
+          "Righteousness",
+          "Wealth",
+          "Earthly power",
+          "Physical health"
+        ],
+        "ref": "1 Corinthians 1:30"
+      },
+      {
+        "q": "What else did Christ become for us?",
+        "a": "Sanctification",
+        "o": [
+          "Condemnation",
+          "Sanctification",
+          "Confusion",
+          "A political leader"
+        ],
+        "ref": "1 Corinthians 1:30"
+      },
+      {
+        "q": "What else did Christ become for us?",
+        "a": "Redemption",
+        "o": [
+          "A worldly king",
+          "A philosopher",
+          "Redemption",
+          "A harsh judge"
+        ],
+        "ref": "1 Corinthians 1:30"
+      },
+      {
+        "q": "According to Scripture, in whom should the one who boasts boast?",
+        "a": "The Lord",
+        "o": [
+          "Themselves",
+          "Their teachers",
+          "Their wealth",
+          "The Lord"
+        ],
+        "ref": "1 Corinthians 1:31"
+      }
+    ]
+  }
+}

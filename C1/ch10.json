@@ -1,0 +1,424 @@
+{
+  "questionsDatabase": {
+    "ch10": [
+      {
+        "q": "Under what were all the ancestors?",
+        "a": "The cloud",
+        "o": [
+          "The shadow of God",
+          "The stars",
+          "The cloud",
+          "The law"
+        ],
+        "ref": "1 Corinthians 10:1"
+      },
+      {
+        "q": "Through what did they all pass?",
+        "a": "The sea",
+        "o": [
+          "The wilderness",
+          "The sea",
+          "The river",
+          "The desert"
+        ],
+        "ref": "1 Corinthians 10:1"
+      },
+      {
+        "q": "Into whom were they baptized?",
+        "a": "Moses",
+        "o": [
+          "Abraham",
+          "Aaron",
+          "Joshua",
+          "Moses"
+        ],
+        "ref": "1 Corinthians 10:2"
+      },
+      {
+        "q": "Where were they baptized?",
+        "a": "In the cloud and in the sea",
+        "o": [
+          "In the cloud and in the sea",
+          "In the Jordan River",
+          "In the Red Sea alone",
+          "At Mount Sinai"
+        ],
+        "ref": "1 Corinthians 10:2"
+      },
+      {
+        "q": "What did they all eat?",
+        "a": "Spiritual food",
+        "o": [
+          "Manna from angels",
+          "Spiritual food",
+          "Unleavened bread",
+          "The meat of sacrifices"
+        ],
+        "ref": "1 Corinthians 10:3"
+      },
+      {
+        "q": "What did they all drink?",
+        "a": "Spiritual drink",
+        "o": [
+          "Water from the Nile",
+          "Spiritual drink",
+          "Sweetened water",
+          "Wine of the covenant"
+        ],
+        "ref": "1 Corinthians 10:4"
+      },
+      {
+        "q": "From what did they drink?",
+        "a": "The spiritual rock",
+        "o": [
+          "The well of Jacob",
+          "The spiritual rock",
+          "The holy stream",
+          "The oasis"
+        ],
+        "ref": "1 Corinthians 10:4"
+      },
+      {
+        "q": "Who was the rock?",
+        "a": "Christ",
+        "o": [
+          "Moses",
+          "God the Father",
+          "The Holy Spirit",
+          "Christ"
+        ],
+        "ref": "1 Corinthians 10:4"
+      },
+      {
+        "q": "With whom was God not pleased?",
+        "a": "Most of them",
+        "o": [
+          "Most of them",
+          "Only the leaders",
+          "The women and children",
+          "None of them"
+        ],
+        "ref": "1 Corinthians 10:5"
+      },
+      {
+        "q": "Where were they struck down?",
+        "a": "The wilderness",
+        "o": [
+          "Egypt",
+          "The Promised Land",
+          "Babylon",
+          "The wilderness"
+        ],
+        "ref": "1 Corinthians 10:5"
+      },
+      {
+        "q": "These things became what for us?",
+        "a": "Examples",
+        "o": [
+          "Warnings",
+          "Examples",
+          "Laws",
+          "Myths"
+        ],
+        "ref": "1 Corinthians 10:6-10"
+      },
+      {
+        "q": "What should believers not crave?",
+        "a": "Evil",
+        "o": [
+          "Wealth",
+          "Power",
+          "Evil",
+          "Vengeance"
+        ],
+        "ref": "1 Corinthians 10:6-10"
+      },
+      {
+        "q": "What should believers flee?",
+        "a": "Idolatry",
+        "o": [
+          "Idolatry",
+          "The world",
+          "Persecution",
+          "Poverty"
+        ],
+        "ref": "1 Corinthians 10:6-10"
+      },
+      {
+        "q": "What should believers not do?",
+        "a": "Complain",
+        "o": [
+          "Fast",
+          "Sleep",
+          "Travel",
+          "Complain"
+        ],
+        "ref": "1 Corinthians 10:6-10"
+      },
+      {
+        "q": "Upon whom have the ends of the ages come?",
+        "a": "Us",
+        "o": [
+          "The prophets",
+          "The apostles",
+          "Us",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 10:11"
+      },
+      {
+        "q": "What should anyone who thinks he stands do?",
+        "a": "Take heed lest he fall",
+        "o": [
+          "Take heed lest he fall",
+          "Rejoice in his strength",
+          "Teach others to stand",
+          "Boast in the Lord"
+        ],
+        "ref": "1 Corinthians 10:12"
+      },
+      {
+        "q": "Who is faithful?",
+        "a": "God",
+        "o": [
+          "God",
+          "The church",
+          "Moses",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 10:13"
+      },
+      {
+        "q": "What will God not allow?",
+        "a": "Testing beyond your strength",
+        "o": [
+          "The devil to tempt you",
+          "Testing beyond your strength",
+          "Any suffering",
+          "Sickness in your body"
+        ],
+        "ref": "1 Corinthians 10:13"
+      },
+      {
+        "q": "What will God provide with the testing?",
+        "a": "A way out",
+        "o": [
+          "A sword",
+          "An angel of comfort",
+          "A way out",
+          "Financial provision"
+        ],
+        "ref": "1 Corinthians 10:13"
+      },
+      {
+        "q": "From what should believers flee?",
+        "a": "Idolatry",
+        "o": [
+          "Idolatry",
+          "Ignorance",
+          "Temptation",
+          "The wrath to come"
+        ],
+        "ref": "1 Corinthians 10:14"
+      },
+      {
+        "q": "The cup of blessing is a sharing in what?",
+        "a": "The blood of Christ",
+        "o": [
+          "The joy of the Lord",
+          "The covenant of Moses",
+          "The blood of Christ",
+          "The fellowship of the Spirit"
+        ],
+        "ref": "1 Corinthians 10:16"
+      },
+      {
+        "q": "The bread is a sharing in what?",
+        "a": "The body of Christ",
+        "o": [
+          "The manna from heaven",
+          "The temple sacrifices",
+          "The community of saints",
+          "The body of Christ"
+        ],
+        "ref": "1 Corinthians 10:16"
+      },
+      {
+        "q": "Because there is one bread, believers are what?",
+        "a": "One body",
+        "o": [
+          "One spirit",
+          "One family",
+          "One body",
+          "One church"
+        ],
+        "ref": "1 Corinthians 10:17"
+      },
+      {
+        "q": "Those who eat the sacrifices are partners in what?",
+        "a": "The altar",
+        "o": [
+          "The priesthood",
+          "The altar",
+          "The temple",
+          "The covenant"
+        ],
+        "ref": "1 Corinthians 10:18"
+      },
+      {
+        "q": "To whom do the Gentiles sacrifice?",
+        "a": "Demons",
+        "o": [
+          "Idols of gold",
+          "Demons",
+          "Dead ancestors",
+          "Nature spirits"
+        ],
+        "ref": "1 Corinthians 10:20"
+      },
+      {
+        "q": "To whom do they not sacrifice?",
+        "a": "God",
+        "o": [
+          "The angels",
+          "God",
+          "Themselves",
+          "The saints"
+        ],
+        "ref": "1 Corinthians 10:20"
+      },
+      {
+        "q": "What two cups cannot both be shared?",
+        "a": "The cup of the Lord and the cup of demons",
+        "o": [
+          "The cup of joy and the cup of sorrow",
+          "The cup of blessing and the cup of cursing",
+          "The cup of the Lord and the cup of demons",
+          "The cup of Christ and the cup of Moses"
+        ],
+        "ref": "1 Corinthians 10:21"
+      },
+      {
+        "q": "What two tables cannot both be shared?",
+        "a": "The table of the Lord and the table of demons",
+        "o": [
+          "The table of peace and the table of war",
+          "The table of the Lord and the table of demons",
+          "The table of saints and the table of sinners",
+          "The table of Jews and the table of Gentiles"
+        ],
+        "ref": "1 Corinthians 10:21"
+      },
+      {
+        "q": "Whom should believers not provoke?",
+        "a": "The Lord",
+        "o": [
+          "The angels",
+          "The authorities",
+          "Their neighbors",
+          "The Lord"
+        ],
+        "ref": "1 Corinthians 10:22"
+      },
+      {
+        "q": "What are not all things?",
+        "a": "Beneficial",
+        "o": [
+          "Beneficial",
+          "Lawful",
+          "Spiritual",
+          "Permanent"
+        ],
+        "ref": "1 Corinthians 10:23"
+      },
+      {
+        "q": "What do not all things do?",
+        "a": "Build up",
+        "o": [
+          "Bring joy",
+          "Create peace",
+          "Build up",
+          "Show love"
+        ],
+        "ref": "1 Corinthians 10:23"
+      },
+      {
+        "q": "Whose good should believers seek?",
+        "a": "Their neighbor’s",
+        "o": [
+          "Their own",
+          "Their neighbor’s",
+          "The church's",
+          "The poor's"
+        ],
+        "ref": "1 Corinthians 10:24"
+      },
+      {
+        "q": "What may believers eat without raising questions of conscience?",
+        "a": "Whatever is sold in the meat market",
+        "o": [
+          "Only vegetables",
+          "Whatever is sold in the meat market",
+          "Meat from kosher butchers",
+          "Bread and fish"
+        ],
+        "ref": "1 Corinthians 10:25-30"
+      },
+      {
+        "q": "If told the food was sacrificed to idols, what should believers do?",
+        "a": "Do not eat",
+        "o": [
+          "Pray over it then eat",
+          "Do not eat",
+          "Eat it in secret",
+          "Rebuke the host"
+        ],
+        "ref": "1 Corinthians 10:25-30"
+      },
+      {
+        "q": "Whether eating or drinking, what should believers do?",
+        "a": "Do everything for the glory of God",
+        "o": [
+          "Give thanks to the host",
+          "Remember the poor",
+          "Do everything for the glory of God",
+          "Do everything with joy"
+        ],
+        "ref": "1 Corinthians 10:31"
+      },
+      {
+        "q": "To whom should believers give no offense?",
+        "a": "Jews, Greeks, and the church of God",
+        "o": [
+          "Romans, Barbarians, and slaves",
+          "Jews, Greeks, and the church of God",
+          "Men, women, and children",
+          "Leaders, elders, and deacons"
+        ],
+        "ref": "1 Corinthians 10:32"
+      },
+      {
+        "q": "Whose advantage did Paul seek?",
+        "a": "The advantage of many",
+        "o": [
+          "His own advantage",
+          "The advantage of many",
+          "The church's advantage",
+          "God's advantage"
+        ],
+        "ref": "1 Corinthians 10:33"
+      },
+      {
+        "q": "Why did Paul seek their advantage?",
+        "a": "So that they may be saved",
+        "o": [
+          "So that they would love him",
+          "To prevent arguments",
+          "To build a larger church",
+          "So that they may be saved"
+        ],
+        "ref": "1 Corinthians 10:33"
+      }
+    ]
+  }
+}

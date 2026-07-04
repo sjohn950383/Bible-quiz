@@ -1,0 +1,501 @@
+{
+  "questionsDatabase": {
+    "ch16": [
+      {
+        "q": "About what collection did Paul give instructions?",
+        "a": "The collection for the saints",
+        "o": [
+          "The temple tax",
+          "The Roman tribute",
+          "The collection for the saints",
+          "The missionary fund"
+        ],
+        "ref": "1 Corinthians 16:1"
+      },
+      {
+        "q": "Which churches had Paul instructed?",
+        "a": "The churches of Galatia",
+        "o": [
+          "The churches of Rome",
+          "The churches of Galatia",
+          "The churches of Ephesus",
+          "The churches of Antioch"
+        ],
+        "ref": "1 Corinthians 16:1"
+      },
+      {
+        "q": "On what day of the week should each believer set aside something?",
+        "a": "The first day",
+        "o": [
+          "The Sabbath day",
+          "The first day",
+          "The third day",
+          "The seventh day"
+        ],
+        "ref": "1 Corinthians 16:2"
+      },
+      {
+        "q": "What should each person do?",
+        "a": "Set aside and save",
+        "o": [
+          "Spend it immediately",
+          "Give it to the elders",
+          "Set aside and save",
+          "Buy sacrifices"
+        ],
+        "ref": "1 Corinthians 16:2"
+      },
+      {
+        "q": "According to what should each give?",
+        "a": "Their prosperity",
+        "o": [
+          "Their prosperity",
+          "The law of tithing",
+          "What the elders demand",
+          "Their extra grain"
+        ],
+        "ref": "1 Corinthians 16:2"
+      },
+      {
+        "q": "Whom would Paul send with letters?",
+        "a": "Those approved by the Corinthians",
+        "o": [
+          "Roman officers",
+          "Those approved by the Corinthians",
+          "The eldest deacons",
+          "Jewish scribes"
+        ],
+        "ref": "1 Corinthians 16:3-4"
+      },
+      {
+        "q": "Where would they carry the gift?",
+        "a": "Jerusalem",
+        "o": [
+          "Rome",
+          "Ephesus",
+          "Antioch",
+          "Jerusalem"
+        ],
+        "ref": "1 Corinthians 16:3-4"
+      },
+      {
+        "q": "If necessary, who would go with them?",
+        "a": "Paul",
+        "o": [
+          "Paul",
+          "Timothy",
+          "Apollos",
+          "Barnabas"
+        ],
+        "ref": "1 Corinthians 16:3-4"
+      },
+      {
+        "q": "Through what region would Paul travel?",
+        "a": "Macedonia",
+        "o": [
+          "Galatia",
+          "Macedonia",
+          "Judea",
+          "Samaria"
+        ],
+        "ref": "1 Corinthians 16:5-7"
+      },
+      {
+        "q": "Where did Paul hope to stay?",
+        "a": "Corinth",
+        "o": [
+          "Ephesus",
+          "Rome",
+          "Athens",
+          "Corinth"
+        ],
+        "ref": "1 Corinthians 16:5-7"
+      },
+      {
+        "q": "During what season might Paul remain?",
+        "a": "Winter",
+        "o": [
+          "Summer",
+          "Winter",
+          "Spring",
+          "Harvest"
+        ],
+        "ref": "1 Corinthians 16:5-7"
+      },
+      {
+        "q": "If whom permitted?",
+        "a": "The Lord",
+        "o": [
+          "The Roman governor",
+          "The high priest",
+          "The Lord",
+          "The church elders"
+        ],
+        "ref": "1 Corinthians 16:5-7"
+      },
+      {
+        "q": "Until what feast would Paul remain in Ephesus?",
+        "a": "Pentecost",
+        "o": [
+          "Passover",
+          "Tabernacles",
+          "Pentecost",
+          "Hanukkah"
+        ],
+        "ref": "1 Corinthians 16:8-9"
+      },
+      {
+        "q": "What had opened for Paul?",
+        "a": "A wide door for effective work",
+        "o": [
+          "A wide door for effective work",
+          "A path to the Roman Senate",
+          "A position in the synagogue",
+          "A way to escape prison"
+        ],
+        "ref": "1 Corinthians 16:8-9"
+      },
+      {
+        "q": "Who opposed him?",
+        "a": "Many adversaries",
+        "o": [
+          "No one",
+          "Only the Roman guards",
+          "Many adversaries",
+          "The local magistrates"
+        ],
+        "ref": "1 Corinthians 16:8-9"
+      },
+      {
+        "q": "Whom did Paul mention?",
+        "a": "Timothy",
+        "o": [
+          "Silas",
+          "Timothy",
+          "Titus",
+          "Luke"
+        ],
+        "ref": "1 Corinthians 16:10-11"
+      },
+      {
+        "q": "How should the Corinthians receive Timothy?",
+        "a": "Without fear",
+        "o": [
+          "With suspicion",
+          "Without fear",
+          "With financial gifts",
+          "With a feast of meat"
+        ],
+        "ref": "1 Corinthians 16:10-11"
+      },
+      {
+        "q": "What work was Timothy doing?",
+        "a": "The work of the Lord",
+        "o": [
+          "Tentmaking",
+          "The work of the Lord",
+          "Collecting taxes",
+          "Writing laws"
+        ],
+        "ref": "1 Corinthians 16:10-11"
+      },
+      {
+        "q": "What should no one do to Timothy?",
+        "a": "Despise him",
+        "o": [
+          "Flatter him",
+          "Despise him",
+          "Arrest him",
+          "Ignore him"
+        ],
+        "ref": "1 Corinthians 16:10-11"
+      },
+      {
+        "q": "Whom did Paul urge to visit Corinth?",
+        "a": "Apollos",
+        "o": [
+          "Barnabas",
+          "Peter",
+          "Apollos",
+          "Silas"
+        ],
+        "ref": "1 Corinthians 16:12"
+      },
+      {
+        "q": "Was Apollos willing to go then?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only with Timothy",
+          "He was unsure"
+        ],
+        "ref": "1 Corinthians 16:12"
+      },
+      {
+        "q": "When would he go?",
+        "a": "When he had an opportunity",
+        "o": [
+          "At Passover",
+          "When he had an opportunity",
+          "Next winter",
+          "When Paul ordered him"
+        ],
+        "ref": "1 Corinthians 16:12"
+      },
+      {
+        "q": "What should believers do?",
+        "a": "Keep alert",
+        "o": [
+          "Sleep in peace",
+          "Keep alert",
+          "Flee the city",
+          "Argue less"
+        ],
+        "ref": "1 Corinthians 16:13-14"
+      },
+      {
+        "q": "In what should believers stand firm?",
+        "a": "The faith",
+        "o": [
+          "The law",
+          "The faith",
+          "The temple",
+          "Their traditions"
+        ],
+        "ref": "1 Corinthians 16:13-14"
+      },
+      {
+        "q": "What should believers be?",
+        "a": "Courageous",
+        "o": [
+          "Fearful",
+          "Courageous",
+          "Rich",
+          "Famous"
+        ],
+        "ref": "1 Corinthians 16:13-14"
+      },
+      {
+        "q": "What else should believers be?",
+        "a": "Strong",
+        "o": [
+          "Weak",
+          "Strong",
+          "Quiet",
+          "Independent"
+        ],
+        "ref": "1 Corinthians 16:13-14"
+      },
+      {
+        "q": "How should everything be done?",
+        "a": "In love",
+        "o": [
+          "In haste",
+          "In love",
+          "In secret",
+          "With power"
+        ],
+        "ref": "1 Corinthians 16:13-14"
+      },
+      {
+        "q": "Whose household was the first converts in Achaia?",
+        "a": "Stephanas",
+        "o": [
+          "Chloe",
+          "Gaius",
+          "Stephanas",
+          "Crispus"
+        ],
+        "ref": "1 Corinthians 16:15-16"
+      },
+      {
+        "q": "To what had they devoted themselves?",
+        "a": "Serving the saints",
+        "o": [
+          "Acquiring property",
+          "Serving the saints",
+          "Preaching in synagogues",
+          "Studying Greek philosophy"
+        ],
+        "ref": "1 Corinthians 16:15-16"
+      },
+      {
+        "q": "To whom should believers be subject?",
+        "a": "Fellow workers and laborers",
+        "o": [
+          "Roman judges",
+          "The high priest",
+          "Fellow workers and laborers",
+          "The wealthy merchants"
+        ],
+        "ref": "1 Corinthians 16:15-16"
+      },
+      {
+        "q": "Who visited Paul?",
+        "a": "Stephanas",
+        "o": [
+          "Apollos",
+          "Stephanas",
+          "Timothy",
+          "Silas"
+        ],
+        "ref": "1 Corinthians 16:17-18"
+      },
+      {
+        "q": "Name another visitor.",
+        "a": "Fortunatus",
+        "o": [
+          "Fortunatus",
+          "Crispus",
+          "Gaius",
+          "Titus"
+        ],
+        "ref": "1 Corinthians 16:17-18"
+      },
+      {
+        "q": "Name another visitor.",
+        "a": "Achaicus",
+        "o": [
+          "Achaicus",
+          "Luke",
+          "Mark",
+          "Demas"
+        ],
+        "ref": "1 Corinthians 16:17-18"
+      },
+      {
+        "q": "What did they refresh?",
+        "a": "Paul’s spirit",
+        "o": [
+          "Paul’s bank account",
+          "Paul’s spirit",
+          "The Roman guards",
+          "The prison cell"
+        ],
+        "ref": "1 Corinthians 16:17-18"
+      },
+      {
+        "q": "What else did they refresh?",
+        "a": "The Corinthians’ spirit",
+        "o": [
+          "The Corinthians’ spirit",
+          "The Jewish leaders",
+          "The temple servants",
+          "The city assembly"
+        ],
+        "ref": "1 Corinthians 16:17-18"
+      },
+      {
+        "q": "Which churches sent greetings?",
+        "a": "The churches of Asia",
+        "o": [
+          "The churches of Rome",
+          "The churches of Judea",
+          "The churches of Asia",
+          "The churches of Galatia"
+        ],
+        "ref": "1 Corinthians 16:19-20"
+      },
+      {
+        "q": "Who sent hearty greetings?",
+        "a": "Aquila and Prisca",
+        "o": [
+          "Aquila and Prisca",
+          "Ananias and Sapphira",
+          "Felix and Drusilla",
+          "Philemon and Apphia"
+        ],
+        "ref": "1 Corinthians 16:19-20"
+      },
+      {
+        "q": "Who met in their house?",
+        "a": "The church",
+        "o": [
+          "The Sanhedrin",
+          "The church",
+          "The Roman council",
+          "The school of Tyrannus"
+        ],
+        "ref": "1 Corinthians 16:19-20"
+      },
+      {
+        "q": "How should believers greet one another?",
+        "a": "With a holy kiss",
+        "o": [
+          "With a holy kiss",
+          "With a wave",
+          "With a handshake",
+          "In absolute silence"
+        ],
+        "ref": "1 Corinthians 16:19-20"
+      },
+      {
+        "q": "Who wrote the greeting with his own hand?",
+        "a": "Paul",
+        "o": [
+          "Timothy",
+          "Luke",
+          "Paul",
+          "Titus"
+        ],
+        "ref": "1 Corinthians 16:21-22"
+      },
+      {
+        "q": "What happens to anyone who has no love for the Lord?",
+        "a": "Let that person be accursed",
+        "o": [
+          "Let that person be fined",
+          "Let that person be accursed",
+          "Let that person be ignored",
+          "Let that person be forgiven"
+        ],
+        "ref": "1 Corinthians 16:21-22"
+      },
+      {
+        "q": "What expression did Paul use?",
+        "a": "Marana tha",
+        "o": [
+          "Marana tha",
+          "Talitha koum",
+          "Ephphatha",
+          "Hosanna"
+        ],
+        "ref": "1 Corinthians 16:21-22"
+      },
+      {
+        "q": "Whose grace did Paul pray would be with them?",
+        "a": "The Lord Jesus",
+        "o": [
+          "The Lord Jesus",
+          "The Emperor Caesar",
+          "The Apostle Paul",
+          "The angels of heaven"
+        ],
+        "ref": "1 Corinthians 16:23-24"
+      },
+      {
+        "q": "Whose love was with them?",
+        "a": "Paul’s",
+        "o": [
+          "Paul’s",
+          "The world's",
+          "The government's",
+          "The Sanhedrin's"
+        ],
+        "ref": "1 Corinthians 16:23-24"
+      },
+      {
+        "q": "In whom was Paul’s love?",
+        "a": "Christ Jesus",
+        "o": [
+          "The church building",
+          "The law of Moses",
+          "Christ Jesus",
+          "The city of Ephesus"
+        ],
+        "ref": "1 Corinthians 16:23-24"
+      }
+    ]
+  }
+}

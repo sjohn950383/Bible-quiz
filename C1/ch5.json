@@ -1,0 +1,457 @@
+{
+  "questionsDatabase": {
+    "ch5": [
+      {
+        "q": "What was reported among the Corinthians?",
+        "a": "Sexual immorality",
+        "o": [
+          "Theft",
+          "Drunkenness",
+          "Sexual immorality",
+          "Idolatry"
+        ],
+        "ref": "1 Corinthians 5:1"
+      },
+      {
+        "q": "What kind of sexual immorality was reported?",
+        "a": "A man living with his father’s wife",
+        "o": [
+          "A man living with a temple prostitute",
+          "A man marrying his sister",
+          "A man living with his father’s wife",
+          "A man committing adultery with his neighbor's wife"
+        ],
+        "ref": "1 Corinthians 5:1"
+      },
+      {
+        "q": "Is this kind of immorality found even among the Gentiles?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only in Rome",
+          "Sometimes",
+          "No"
+        ],
+        "ref": "1 Corinthians 5:1"
+      },
+      {
+        "q": "How had the Corinthians become?",
+        "a": "Arrogant",
+        "o": [
+          "Ashamed",
+          "Arrogant",
+          "Fearful",
+          "Repentant"
+        ],
+        "ref": "1 Corinthians 5:2"
+      },
+      {
+        "q": "What should they have done instead?",
+        "a": "Mourned",
+        "o": [
+          "Rejoiced",
+          "Ignored it",
+          "Mourned",
+          "Celebrated"
+        ],
+        "ref": "1 Corinthians 5:2"
+      },
+      {
+        "q": "What should have happened to the man who committed this deed?",
+        "a": "He should have been removed from among them",
+        "o": [
+          "He should have been removed from among them",
+          "He should have been fined",
+          "He should have been forced to marry her",
+          "He should have been promoted"
+        ],
+        "ref": "1 Corinthians 5:2"
+      },
+      {
+        "q": "Though absent in body, where was Paul present?",
+        "a": "In spirit",
+        "o": [
+          "In mind",
+          "In dreams",
+          "In prayer",
+          "In spirit"
+        ],
+        "ref": "1 Corinthians 5:3"
+      },
+      {
+        "q": "What had Paul already done?",
+        "a": "Pronounced judgment",
+        "o": [
+          "Forgiven the man",
+          "Pronounced judgment",
+          "Written to the Romans",
+          "Visited Corinth"
+        ],
+        "ref": "1 Corinthians 5:3"
+      },
+      {
+        "q": "In whose name were they to assemble?",
+        "a": "The Lord Jesus",
+        "o": [
+          "Paul and Apollos",
+          "God the Father",
+          "The Lord Jesus",
+          "The Holy Spirit"
+        ],
+        "ref": "1 Corinthians 5:4"
+      },
+      {
+        "q": "Whose power would be present?",
+        "a": "The power of the Lord Jesus",
+        "o": [
+          "The power of the Holy Spirit",
+          "The power of the Lord Jesus",
+          "The power of Rome",
+          "The power of Paul"
+        ],
+        "ref": "1 Corinthians 5:4"
+      },
+      {
+        "q": "To whom should the offender be handed over?",
+        "a": "Satan",
+        "o": [
+          "The Roman authorities",
+          "The Jewish council",
+          "Satan",
+          "The local magistrate"
+        ],
+        "ref": "1 Corinthians 5:5"
+      },
+      {
+        "q": "What would be destroyed?",
+        "a": "The flesh",
+        "o": [
+          "His wealth",
+          "His reputation",
+          "The flesh",
+          "His home"
+        ],
+        "ref": "1 Corinthians 5:5"
+      },
+      {
+        "q": "What might be saved?",
+        "a": "The spirit",
+        "o": [
+          "The mind",
+          "The body",
+          "The church",
+          "The spirit"
+        ],
+        "ref": "1 Corinthians 5:5"
+      },
+      {
+        "q": "On what day?",
+        "a": "The day of the Lord",
+        "o": [
+          "The day of the Lord",
+          "The Sabbath",
+          "The day of Pentecost",
+          "The Day of Atonement"
+        ],
+        "ref": "1 Corinthians 5:5"
+      },
+      {
+        "q": "What did Paul say was not good?",
+        "a": "Their boasting",
+        "o": [
+          "Their worship",
+          "Their boasting",
+          "Their food",
+          "Their generosity"
+        ],
+        "ref": "1 Corinthians 5:6"
+      },
+      {
+        "q": "What does a little yeast leaven?",
+        "a": "The whole batch of dough",
+        "o": [
+          "Only a small piece",
+          "The flour",
+          "The whole batch of dough",
+          "The bread basket"
+        ],
+        "ref": "1 Corinthians 5:6"
+      },
+      {
+        "q": "What should they clean out?",
+        "a": "The old yeast",
+        "o": [
+          "The dust",
+          "The false teachers",
+          "The old yeast",
+          "The idols"
+        ],
+        "ref": "1 Corinthians 5:7"
+      },
+      {
+        "q": "What would they become?",
+        "a": "A new batch",
+        "o": [
+          "A pure temple",
+          "A new batch",
+          "A holy nation",
+          "A royal priesthood"
+        ],
+        "ref": "1 Corinthians 5:7"
+      },
+      {
+        "q": "Who has been sacrificed?",
+        "a": "Christ",
+        "o": [
+          "A goat",
+          "A bull",
+          "The apostles",
+          "Christ"
+        ],
+        "ref": "1 Corinthians 5:7"
+      },
+      {
+        "q": "Christ is our what?",
+        "a": "Passover lamb",
+        "o": [
+          "High Priest",
+          "Passover lamb",
+          "King",
+          "Temple"
+        ],
+        "ref": "1 Corinthians 5:7"
+      },
+      {
+        "q": "What feast should believers celebrate?",
+        "a": "The festival",
+        "o": [
+          "The Sabbath",
+          "The jubilee",
+          "The festival",
+          "The New Moon"
+        ],
+        "ref": "1 Corinthians 5:8"
+      },
+      {
+        "q": "Not with what yeast?",
+        "a": "The old yeast",
+        "o": [
+          "The yeast of the Pharisees",
+          "The old yeast",
+          "The sour yeast",
+          "The Gentile yeast"
+        ],
+        "ref": "1 Corinthians 5:8"
+      },
+      {
+        "q": "The old yeast represents what?",
+        "a": "Malice and evil",
+        "o": [
+          "Sin and death",
+          "Pride and greed",
+          "Anger and jealousy",
+          "Malice and evil"
+        ],
+        "ref": "1 Corinthians 5:8"
+      },
+      {
+        "q": "What kind of bread should believers use?",
+        "a": "Unleavened bread",
+        "o": [
+          "Leavened bread",
+          "Wheat bread",
+          "Unleavened bread",
+          "Manna"
+        ],
+        "ref": "1 Corinthians 5:8"
+      },
+      {
+        "q": "The unleavened bread represents what?",
+        "a": "Sincerity and truth",
+        "o": [
+          "Sincerity and truth",
+          "Faith and hope",
+          "Love and joy",
+          "Peace and patience"
+        ],
+        "ref": "1 Corinthians 5:8"
+      },
+      {
+        "q": "About whom had Paul written not to associate?",
+        "a": "Sexually immoral persons",
+        "o": [
+          "Tax collectors",
+          "Roman soldiers",
+          "Sexually immoral persons",
+          "Jewish leaders"
+        ],
+        "ref": "1 Corinthians 5:9"
+      },
+      {
+        "q": "Was Paul referring to immoral people of this world?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only in Corinth",
+          "No",
+          "Sometimes"
+        ],
+        "ref": "1 Corinthians 5:10"
+      },
+      {
+        "q": "Name another group mentioned.",
+        "a": "The greedy",
+        "o": [
+          "The proud",
+          "The lazy",
+          "The greedy",
+          "The liars"
+        ],
+        "ref": "1 Corinthians 5:10"
+      },
+      {
+        "q": "Name another group mentioned.",
+        "a": "Robbers",
+        "o": [
+          "Robbers",
+          "Murderers",
+          "Gossipers",
+          "Hypocrites"
+        ],
+        "ref": "1 Corinthians 5:10"
+      },
+      {
+        "q": "Name another group mentioned.",
+        "a": "Idolaters",
+        "o": [
+          "Blasphemers",
+          "Idolaters",
+          "Traitors",
+          "Sorcerers"
+        ],
+        "ref": "1 Corinthians 5:10"
+      },
+      {
+        "q": "What would believers have to do to avoid all worldly sinners?",
+        "a": "Leave the world",
+        "o": [
+          "Hide in caves",
+          "Build a wall",
+          "Move to Jerusalem",
+          "Leave the world"
+        ],
+        "ref": "1 Corinthians 5:10"
+      },
+      {
+        "q": "With whom should believers not associate?",
+        "a": "Anyone called a brother or sister who is sexually immoral",
+        "o": [
+          "Unbelievers who are sexually immoral",
+          "Anyone called a brother or sister who is sexually immoral",
+          "Only the church leaders",
+          "Roman citizens"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "Name another sin listed.",
+        "a": "Greedy",
+        "o": [
+          "Murderous",
+          "Slothful",
+          "Gluttonous",
+          "Greedy"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "Name another sin listed.",
+        "a": "Idolater",
+        "o": [
+          "Tax collector",
+          "Idolater",
+          "Pharisee",
+          "Sorcerer"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "Name another sin listed.",
+        "a": "Reviler",
+        "o": [
+          "Blasphemer",
+          "Gossip",
+          "Reviler",
+          "Liar"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "Name another sin listed.",
+        "a": "Drunkard",
+        "o": [
+          "Thief",
+          "Adulterer",
+          "Drunkard",
+          "Betrayer"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "Name another sin listed.",
+        "a": "Robber",
+        "o": [
+          "Murderer",
+          "Robber",
+          "Traitor",
+          "Kidnapper"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "What should believers not do with such a person?",
+        "a": "Eat",
+        "o": [
+          "Pray",
+          "Eat",
+          "Speak",
+          "Work"
+        ],
+        "ref": "1 Corinthians 5:11"
+      },
+      {
+        "q": "Whom are believers responsible to judge?",
+        "a": "Those inside the church",
+        "o": [
+          "Those outside the church",
+          "The Roman government",
+          "Those inside the church",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 5:12"
+      },
+      {
+        "q": "Whom does God judge?",
+        "a": "Those outside",
+        "o": [
+          "Those inside",
+          "Those outside",
+          "Only the Jews",
+          "Only the Gentiles"
+        ],
+        "ref": "1 Corinthians 5:12"
+      },
+      {
+        "q": "What should the church do with the wicked person?",
+        "a": "Drive out the wicked person",
+        "o": [
+          "Forgive the wicked person",
+          "Imprison the wicked person",
+          "Drive out the wicked person",
+          "Fine the wicked person"
+        ],
+        "ref": "1 Corinthians 5:13"
+      }
+    ]
+  }
+}

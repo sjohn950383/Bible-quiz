@@ -1,0 +1,501 @@
+{
+  "questionsDatabase": {
+    "ch15": [
+      {
+        "q": "What did Paul declare to the Corinthians?",
+        "a": "The gospel",
+        "o": [
+          "The law of Moses",
+          "The traditions of elders",
+          "The gospel",
+          "The teachings of Roman philosophers"
+        ],
+        "ref": "1 Corinthians 15:1-2"
+      },
+      {
+        "q": "Through what are believers being saved?",
+        "a": "The gospel",
+        "o": [
+          "The law",
+          "Sacrifices",
+          "Good deeds",
+          "The gospel"
+        ],
+        "ref": "1 Corinthians 15:1-2"
+      },
+      {
+        "q": "What must believers do regarding the gospel?",
+        "a": "Hold firmly to it",
+        "o": [
+          "Rewrite it",
+          "Hold firmly to it",
+          "Forget it",
+          "Argue about it"
+        ],
+        "ref": "1 Corinthians 15:1-2"
+      },
+      {
+        "q": "What did Christ die for?",
+        "a": "Our sins",
+        "o": [
+          "Our sins",
+          "His own cause",
+          "The Roman Empire",
+          "The temple"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "According to what did Christ die?",
+        "a": "The Scriptures",
+        "o": [
+          "The Roman law",
+          "His own choices",
+          "The Pharisees' desires",
+          "The Scriptures"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "What happened to Christ after He died?",
+        "a": "He was buried",
+        "o": [
+          "He was forgotten",
+          "He was buried",
+          "He was cast out",
+          "He immediately ascended"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "On what day was Christ raised?",
+        "a": "The third day",
+        "o": [
+          "The first day",
+          "The Sabbath day",
+          "The third day",
+          "The seventh day"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "To whom did Christ first appear?",
+        "a": "Cephas",
+        "o": [
+          "Paul",
+          "James",
+          "John",
+          "Cephas"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "To whom did Christ next appear?",
+        "a": "The Twelve",
+        "o": [
+          "The Twelve",
+          "The seventy",
+          "The high priests",
+          "The Roman guards"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "To how many believers did Christ appear at one time?",
+        "a": "More than five hundred",
+        "o": [
+          "About one hundred",
+          "More than five hundred",
+          "Exactly twelve",
+          "Over ten thousand"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "To whom did Christ appear after that?",
+        "a": "James",
+        "o": [
+          "Barnabas",
+          "Timothy",
+          "James",
+          "Silas"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "To whom did Christ appear last of all?",
+        "a": "Paul",
+        "o": [
+          "Paul",
+          "Stephen",
+          "Apollos",
+          "Luke"
+        ],
+        "ref": "1 Corinthians 15:3-8"
+      },
+      {
+        "q": "How did Paul describe himself among the apostles?",
+        "a": "The least",
+        "o": [
+          "The greatest",
+          "The least",
+          "The wisest",
+          "The leader"
+        ],
+        "ref": "1 Corinthians 15:9-11"
+      },
+      {
+        "q": "Why did Paul consider himself unworthy?",
+        "a": "He persecuted the church of God",
+        "o": [
+          "He was not a good speaker",
+          "He was born a Gentile",
+          "He was too young",
+          "He persecuted the church of God"
+        ],
+        "ref": "1 Corinthians 15:9-11"
+      },
+      {
+        "q": "By what had Paul become what he was?",
+        "a": "The grace of God",
+        "o": [
+          "His own intellect",
+          "The grace of God",
+          "The apostles' permission",
+          "His Roman status"
+        ],
+        "ref": "1 Corinthians 15:9-11"
+      },
+      {
+        "q": "What were some saying did not exist?",
+        "a": "The resurrection of the dead",
+        "o": [
+          "The resurrection of the dead",
+          "The Holy Spirit",
+          "The moral law",
+          "The Roman tax"
+        ],
+        "ref": "1 Corinthians 15:12-19"
+      },
+      {
+        "q": "If Christ has not been raised, what is futile?",
+        "a": "Your faith",
+        "o": [
+          "Your works",
+          "Your wealth",
+          "Your faith",
+          "Your temple worship"
+        ],
+        "ref": "1 Corinthians 15:12-19"
+      },
+      {
+        "q": "If Christ has not been raised, believers are still in what?",
+        "a": "Their sins",
+        "o": [
+          "Egypt",
+          "Their sins",
+          "The dark ages",
+          "Complete ignorance"
+        ],
+        "ref": "1 Corinthians 15:12-19"
+      },
+      {
+        "q": "Christ has been raised as the first fruits of whom?",
+        "a": "Those who have died",
+        "o": [
+          "Those who have died",
+          "The angels",
+          "The nation of Israel",
+          "The twelve apostles"
+        ],
+        "ref": "1 Corinthians 15:20-28"
+      },
+      {
+        "q": "In whom do all die?",
+        "a": "Adam",
+        "o": [
+          "Adam",
+          "Moses",
+          "David",
+          "Noah"
+        ],
+        "ref": "1 Corinthians 15:20-28"
+      },
+      {
+        "q": "In whom will all be made alive?",
+        "a": "Christ",
+        "o": [
+          "Moses",
+          "Christ",
+          "The high priest",
+          "Themselves"
+        ],
+        "ref": "1 Corinthians 15:20-28"
+      },
+      {
+        "q": "What is the last enemy to be destroyed?",
+        "a": "Death",
+        "o": [
+          "Satan",
+          "Sin",
+          "Rome",
+          "Death"
+        ],
+        "ref": "1 Corinthians 15:20-28"
+      },
+      {
+        "q": "What ruins good morals?",
+        "a": "Bad company",
+        "o": [
+          "Eating meat",
+          "Poor education",
+          "Bad company",
+          "Worldly music"
+        ],
+        "ref": "1 Corinthians 15:29-34"
+      },
+      {
+        "q": "What should believers stop doing?",
+        "a": "Sinning",
+        "o": [
+          "Fasting",
+          "Sinning",
+          "Preaching",
+          "Working"
+        ],
+        "ref": "1 Corinthians 15:29-34"
+      },
+      {
+        "q": "What must happen to a seed before it comes to life?",
+        "a": "It must die",
+        "o": [
+          "It must die",
+          "It must be watered with oil",
+          "It must be placed in a gold vessel",
+          "It must remain dry"
+        ],
+        "ref": "1 Corinthians 15:35-41"
+      },
+      {
+        "q": "Who gives each seed its body?",
+        "a": "God",
+        "o": [
+          "The farmer",
+          "God",
+          "Nature",
+          "The sun"
+        ],
+        "ref": "1 Corinthians 15:35-41"
+      },
+      {
+        "q": "Name one heavenly body mentioned.",
+        "a": "The sun",
+        "o": [
+          "The sun",
+          "The planet Venus",
+          "The Milky Way",
+          "The comet"
+        ],
+        "ref": "1 Corinthians 15:35-41"
+      },
+      {
+        "q": "Name another heavenly body.",
+        "a": "The moon",
+        "o": [
+          "The clouds",
+          "The moon",
+          "The lightning",
+          "The wind"
+        ],
+        "ref": "1 Corinthians 15:35-41"
+      },
+      {
+        "q": "Name another heavenly body.",
+        "a": "The stars",
+        "o": [
+          "The planets",
+          "The auroras",
+          "The stars",
+          "The meteors"
+        ],
+        "ref": "1 Corinthians 15:35-41"
+      },
+      {
+        "q": "How is the body sown?",
+        "a": "Perishable",
+        "o": [
+          "Imperishable",
+          "Spiritual",
+          "Perishable",
+          "Immortal"
+        ],
+        "ref": "1 Corinthians 15:42-49"
+      },
+      {
+        "q": "How is the body raised?",
+        "a": "Imperishable",
+        "o": [
+          "Weak",
+          "Perishable",
+          "Glorified in sin",
+          "Imperishable"
+        ],
+        "ref": "1 Corinthians 15:42-49"
+      },
+      {
+        "q": "In what is it sown?",
+        "a": "Weakness",
+        "o": [
+          "Power",
+          "Glory",
+          "Weakness",
+          "Spiritual form"
+        ],
+        "ref": "1 Corinthians 15:42-49"
+      },
+      {
+        "q": "In what is it raised?",
+        "a": "Power",
+        "o": [
+          "Power",
+          "Infancy",
+          "Weakness",
+          "The flesh"
+        ],
+        "ref": "1 Corinthians 15:42-49"
+      },
+      {
+        "q": "What kind of body is raised?",
+        "a": "A spiritual body",
+        "o": [
+          "A spiritual body",
+          "A phantom body",
+          "The same old physical body",
+          "An angelic body"
+        ],
+        "ref": "1 Corinthians 15:42-49"
+      },
+      {
+        "q": "Who became a life-giving spirit?",
+        "a": "The last Adam",
+        "o": [
+          "The first Adam",
+          "The last Adam",
+          "Moses",
+          "David"
+        ],
+        "ref": "1 Corinthians 15:42-49"
+      },
+      {
+        "q": "What cannot inherit the kingdom of God?",
+        "a": "Flesh and blood",
+        "o": [
+          "The poor",
+          "Gentiles",
+          "The angels",
+          "Flesh and blood"
+        ],
+        "ref": "1 Corinthians 15:50-57"
+      },
+      {
+        "q": "When will believers be changed?",
+        "a": "At the last trumpet",
+        "o": [
+          "At the next sunset",
+          "At the last trumpet",
+          "During the Passover meal",
+          "When they are baptized"
+        ],
+        "ref": "1 Corinthians 15:50-57"
+      },
+      {
+        "q": "What must the mortal put on?",
+        "a": "Immortality",
+        "o": [
+          "Immortality",
+          "Spiritual armor",
+          "Fine linen",
+          "Roman robes"
+        ],
+        "ref": "1 Corinthians 15:50-57"
+      },
+      {
+        "q": "What has been swallowed up in victory?",
+        "a": "Death",
+        "o": [
+          "The grave",
+          "Sin",
+          "Death",
+          "Satan"
+        ],
+        "ref": "1 Corinthians 15:50-57"
+      },
+      {
+        "q": "What is the sting of death?",
+        "a": "Sin",
+        "o": [
+          "Hades",
+          "The law",
+          "Pain",
+          "Sin"
+        ],
+        "ref": "1 Corinthians 15:50-57"
+      },
+      {
+        "q": "Through whom does God give believers the victory?",
+        "a": "Jesus Christ",
+        "o": [
+          "Moses",
+          "The Apostle Paul",
+          "Jesus Christ",
+          "The twelve apostles"
+        ],
+        "ref": "1 Corinthians 15:50-57"
+      },
+      {
+        "q": "How should believers be?",
+        "a": "Steadfast",
+        "o": [
+          "Anxious",
+          "Fearful",
+          "Steadfast",
+          "Arrogant"
+        ],
+        "ref": "1 Corinthians 15:58"
+      },
+      {
+        "q": "What else should believers be?",
+        "a": "Immovable",
+        "o": [
+          "Flexible to the world",
+          "Immovable",
+          "Silent",
+          "Separated completely"
+        ],
+        "ref": "1 Corinthians 15:58"
+      },
+      {
+        "q": "In what should believers always excel?",
+        "a": "The work of the Lord",
+        "o": [
+          "Amassing worldly wealth",
+          "Learning Roman philosophies",
+          "The work of the Lord",
+          "Political debates"
+        ],
+        "ref": "1 Corinthians 15:58"
+      },
+      {
+        "q": "Why is labor in the Lord not in vain?",
+        "a": "Because of the Lord",
+        "o": [
+          "Because of the Lord",
+          "Because the church rewards it",
+          "Because it guarantees wealth",
+          "Because the government permits it"
+        ],
+        "ref": "1 Corinthians 15:58"
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "questionsDatabase": {
+    "ch9": [
+      {
+        "q": "What did Paul ask if he was?",
+        "a": "Free",
+        "o": [
+          "A prophet",
+          "Free",
+          "A prisoner",
+          "A Roman citizen"
+        ],
+        "ref": "1 Corinthians 9:1"
+      },
+      {
+        "q": "What else did Paul ask if he was?",
+        "a": "An apostle",
+        "o": [
+          "An apostle",
+          "A teacher",
+          "A deacon",
+          "An elder"
+        ],
+        "ref": "1 Corinthians 9:1"
+      },
+      {
+        "q": "Whom had Paul seen?",
+        "a": "Jesus our Lord",
+        "o": [
+          "An angel from heaven",
+          "The Father",
+          "Moses and Elijah",
+          "Jesus our Lord"
+        ],
+        "ref": "1 Corinthians 9:1"
+      },
+      {
+        "q": "What were the Corinthians to Paul?",
+        "a": "The work of the Lord",
+        "o": [
+          "A burden to carry",
+          "The crown of righteousness",
+          "The work of the Lord",
+          "A stumbling block"
+        ],
+        "ref": "1 Corinthians 9:1"
+      },
+      {
+        "q": "If not to others, to whom was Paul an apostle?",
+        "a": "The Corinthians",
+        "o": [
+          "The Romans",
+          "The Corinthians",
+          "The Galatians",
+          "The Ephesians"
+        ],
+        "ref": "1 Corinthians 9:2"
+      },
+      {
+        "q": "What were the Corinthians in the Lord?",
+        "a": "The seal of Paul’s apostleship",
+        "o": [
+          "The seal of Paul’s apostleship",
+          "A thorn in the flesh",
+          "The light of the world",
+          "The firstfruits of Achaia"
+        ],
+        "ref": "1 Corinthians 9:2"
+      },
+      {
+        "q": "To whom did Paul give this defense?",
+        "a": "Those who examined him",
+        "o": [
+          "The Roman authorities",
+          "The Jewish council",
+          "Those who examined him",
+          "The super-apostles"
+        ],
+        "ref": "1 Corinthians 9:3"
+      },
+      {
+        "q": "What right did Paul say he had?",
+        "a": "To food and drink",
+        "o": [
+          "To collect a salary",
+          "To food and drink",
+          "To command angels",
+          "To judge the world"
+        ],
+        "ref": "1 Corinthians 9:4"
+      },
+      {
+        "q": "What right did Paul have concerning marriage?",
+        "a": "To be accompanied by a believing wife",
+        "o": [
+          "To remain celibate",
+          "To marry a Gentile",
+          "To require others to marry",
+          "To be accompanied by a believing wife"
+        ],
+        "ref": "1 Corinthians 9:5"
+      },
+      {
+        "q": "Which apostle was mentioned by name?",
+        "a": "Cephas",
+        "o": [
+          "Cephas",
+          "Apollos",
+          "John",
+          "James"
+        ],
+        "ref": "1 Corinthians 9:5"
+      },
+      {
+        "q": "Which two men were mentioned together?",
+        "a": "Barnabas and Paul",
+        "o": [
+          "Silas and Timothy",
+          "Peter and John",
+          "Barnabas and Paul",
+          "Aquila and Priscilla"
+        ],
+        "ref": "1 Corinthians 9:6"
+      },
+      {
+        "q": "What right did they have?",
+        "a": "To refrain from working for a living",
+        "o": [
+          "To preach in the synagogue",
+          "To refrain from working for a living",
+          "To collect tithes",
+          "To heal the sick"
+        ],
+        "ref": "1 Corinthians 9:6"
+      },
+      {
+        "q": "Who serves as a soldier at personal expense?",
+        "a": "No one",
+        "o": [
+          "A centurion",
+          "No one",
+          "The Romans",
+          "The zealots"
+        ],
+        "ref": "1 Corinthians 9:7"
+      },
+      {
+        "q": "Who plants a vineyard and does not eat its fruit?",
+        "a": "No one",
+        "o": [
+          "The vinedresser",
+          "The hired hand",
+          "No one",
+          "The sluggard"
+        ],
+        "ref": "1 Corinthians 9:7"
+      },
+      {
+        "q": "Who tends a flock and does not drink its milk?",
+        "a": "No one",
+        "o": [
+          "The shepherd",
+          "No one",
+          "The hireling",
+          "The stranger"
+        ],
+        "ref": "1 Corinthians 9:7"
+      },
+      {
+        "q": "What law did Paul quote?",
+        "a": "The Law of Moses",
+        "o": [
+          "The Law of Christ",
+          "The Roman Law",
+          "The Law of Moses",
+          "The tradition of the elders"
+        ],
+        "ref": "1 Corinthians 9:8-10"
+      },
+      {
+        "q": "What animal should not be muzzled?",
+        "a": "An ox",
+        "o": [
+          "A donkey",
+          "An ox",
+          "A sheep",
+          "A camel"
+        ],
+        "ref": "1 Corinthians 9:8-10"
+      },
+      {
+        "q": "What was the ox doing?",
+        "a": "Treading out the grain",
+        "o": [
+          "Pulling the plow",
+          "Carrying water",
+          "Treading out the grain",
+          "Carrying burdens"
+        ],
+        "ref": "1 Corinthians 9:8-10"
+      },
+      {
+        "q": "For whose sake was this written?",
+        "a": "Our sake",
+        "o": [
+          "The animals' sake",
+          "Our sake",
+          "Moses' sake",
+          "The angels' sake"
+        ],
+        "ref": "1 Corinthians 9:8-10"
+      },
+      {
+        "q": "If spiritual things are sown, what may be reaped?",
+        "a": "Material things",
+        "o": [
+          "Material things",
+          "Heavenly rewards",
+          "Eternal life",
+          "More spiritual things"
+        ],
+        "ref": "1 Corinthians 9:11-12"
+      },
+      {
+        "q": "Why did Paul not use this right?",
+        "a": "So as not to hinder the gospel",
+        "o": [
+          "Because he was rich",
+          "Because he was too proud",
+          "So as not to hinder the gospel",
+          "Because the church was poor"
+        ],
+        "ref": "1 Corinthians 9:11-12"
+      },
+      {
+        "q": "How should those who proclaim the gospel receive their living?",
+        "a": "By the gospel",
+        "o": [
+          "By working with their hands",
+          "By the gospel",
+          "From the Roman government",
+          "From the temple treasury"
+        ],
+        "ref": "1 Corinthians 9:13-14"
+      },
+      {
+        "q": "What gave Paul no ground for boasting?",
+        "a": "Preaching the gospel",
+        "o": [
+          "Suffering for Christ",
+          "Preaching the gospel",
+          "Writing letters",
+          "Healing the sick"
+        ],
+        "ref": "1 Corinthians 9:15-18"
+      },
+      {
+        "q": "What would happen if Paul did not preach the gospel?",
+        "a": "Woe to me",
+        "o": [
+          "I would be cursed",
+          "Woe to me",
+          "I would lose my salvation",
+          "The church would perish"
+        ],
+        "ref": "1 Corinthians 9:15-18"
+      },
+      {
+        "q": "What was Paul’s reward?",
+        "a": "To preach the gospel free of charge",
+        "o": [
+          "Eternal life",
+          "A crown of righteousness",
+          "To preach the gospel free of charge",
+          "The approval of men"
+        ],
+        "ref": "1 Corinthians 9:15-18"
+      },
+      {
+        "q": "Though free, what had Paul made himself?",
+        "a": "A servant to all",
+        "o": [
+          "A judge over the church",
+          "A servant to all",
+          "A master to the weak",
+          "An enemy of the world"
+        ],
+        "ref": "1 Corinthians 9:19-23"
+      },
+      {
+        "q": "Why did Paul become all things to all people?",
+        "a": "To save some",
+        "o": [
+          "To avoid persecution",
+          "To gain wealth",
+          "To save some",
+          "To please the leaders"
+        ],
+        "ref": "1 Corinthians 9:19-23"
+      },
+      {
+        "q": "For whose sake did Paul do everything?",
+        "a": "The gospel",
+        "o": [
+          "The Jews",
+          "The gospel",
+          "The Gentiles",
+          "His own conscience"
+        ],
+        "ref": "1 Corinthians 9:19-23"
+      },
+      {
+        "q": "How many receive the prize in a race?",
+        "a": "One",
+        "o": [
+          "Two",
+          "All who finish",
+          "One",
+          "The top three"
+        ],
+        "ref": "1 Corinthians 9:24"
+      },
+      {
+        "q": "How should believers run?",
+        "a": "To obtain the prize",
+        "o": [
+          "To obtain the prize",
+          "Carefully",
+          "Together as one",
+          "Without growing weary"
+        ],
+        "ref": "1 Corinthians 9:24"
+      },
+      {
+        "q": "What does every athlete exercise?",
+        "a": "Self-control",
+        "o": [
+          "Strength",
+          "Self-control",
+          "Patience",
+          "Speed"
+        ],
+        "ref": "1 Corinthians 9:25"
+      },
+      {
+        "q": "What kind of wreath do believers seek?",
+        "a": "An imperishable wreath",
+        "o": [
+          "A crown of gold",
+          "A laurel wreath",
+          "A woven garland",
+          "An imperishable wreath"
+        ],
+        "ref": "1 Corinthians 9:25"
+      },
+      {
+        "q": "How did Paul say he did not run?",
+        "a": "Aimlessly",
+        "o": [
+          "Slowly",
+          "Aimlessly",
+          "With fear",
+          "Backwards"
+        ],
+        "ref": "1 Corinthians 9:26"
+      },
+      {
+        "q": "How did Paul say he did not box?",
+        "a": "As beating the air",
+        "o": [
+          "As beating the air",
+          "As a weak man",
+          "With blindfolds",
+          "Without strength"
+        ],
+        "ref": "1 Corinthians 9:26"
+      },
+      {
+        "q": "What did Paul do to his body?",
+        "a": "Disciplined it",
+        "o": [
+          "Clothed it in splendor",
+          "Ignored it",
+          "Disciplined it",
+          "Nourished it"
+        ],
+        "ref": "1 Corinthians 9:27"
+      },
+      {
+        "q": "Why did Paul discipline his body?",
+        "a": "So that after preaching to others he would not be disqualified",
+        "o": [
+          "To impress the athletes",
+          "To live a long life",
+          "To suffer like Christ",
+          "So that after preaching to others he would not be disqualified"
+        ],
+        "ref": "1 Corinthians 9:27"
+      }
+    ]
+  }
+}

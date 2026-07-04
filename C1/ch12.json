@@ -1,0 +1,578 @@
+{
+  "questionsDatabase": {
+    "ch12": [
+      {
+        "q": "About what did Paul not want the Corinthians to be uninformed?",
+        "a": "Spiritual gifts",
+        "o": [
+          "The return of Christ",
+          "Spiritual gifts",
+          "The law of Moses",
+          "Offerings for the saints"
+        ],
+        "ref": "1 Corinthians 12:1"
+      },
+      {
+        "q": "What had the Corinthians once been?",
+        "a": "Gentiles",
+        "o": [
+          "Jews",
+          "Pharisees",
+          "Gentiles",
+          "Slaves to Rome"
+        ],
+        "ref": "1 Corinthians 12:2"
+      },
+      {
+        "q": "To what had they been led?",
+        "a": "Idols",
+        "o": [
+          "Idols",
+          "The synagogue",
+          "The wilderness",
+          "False prophets"
+        ],
+        "ref": "1 Corinthians 12:2"
+      },
+      {
+        "q": "How are the idols described?",
+        "a": "Mute",
+        "o": [
+          "Blind",
+          "Deaf",
+          "Lifeless",
+          "Mute"
+        ],
+        "ref": "1 Corinthians 12:2"
+      },
+      {
+        "q": "Speaking by the Spirit of God, what can no one say?",
+        "a": "Jesus be cursed",
+        "o": [
+          "Caesar is Lord",
+          "Jesus be cursed",
+          "The law is dead",
+          "I am an apostle"
+        ],
+        "ref": "1 Corinthians 12:3"
+      },
+      {
+        "q": "By whom can anyone say, “Jesus is Lord”?",
+        "a": "The Holy Spirit",
+        "o": [
+          "An angel of light",
+          "Their own intellect",
+          "The Holy Spirit",
+          "The Father"
+        ],
+        "ref": "1 Corinthians 12:3"
+      },
+      {
+        "q": "What are there varieties of?",
+        "a": "Gifts",
+        "o": [
+          "Gifts",
+          "Sins",
+          "Laws",
+          "Angels"
+        ],
+        "ref": "1 Corinthians 12:4-6"
+      },
+      {
+        "q": "Who is the source of the gifts?",
+        "a": "The same Spirit",
+        "o": [
+          "The apostles",
+          "The same Spirit",
+          "The church elders",
+          "The prophets"
+        ],
+        "ref": "1 Corinthians 12:4-6"
+      },
+      {
+        "q": "What are there also varieties of?",
+        "a": "Services",
+        "o": [
+          "Punishments",
+          "Services",
+          "Offerings",
+          "Tongues"
+        ],
+        "ref": "1 Corinthians 12:4-6"
+      },
+      {
+        "q": "What are there also varieties of?",
+        "a": "Activities",
+        "o": [
+          "Persecutions",
+          "Activities",
+          "Miracles",
+          "Revelations"
+        ],
+        "ref": "1 Corinthians 12:4-6"
+      },
+      {
+        "q": "Who activates all of them?",
+        "a": "God",
+        "o": [
+          "The Apostle Paul",
+          "The believer's faith",
+          "The angels",
+          "God"
+        ],
+        "ref": "1 Corinthians 12:4-6"
+      },
+      {
+        "q": "What is given to each believer?",
+        "a": "The manifestation of the Spirit",
+        "o": [
+          "The manifestation of the Spirit",
+          "The ability to heal",
+          "A golden crown",
+          "The gift of prophecy"
+        ],
+        "ref": "1 Corinthians 12:7"
+      },
+      {
+        "q": "For whose benefit is it given?",
+        "a": "The common good",
+        "o": [
+          "Their own salvation",
+          "The common good",
+          "The glory of the apostles",
+          "To impress unbelievers"
+        ],
+        "ref": "1 Corinthians 12:7"
+      },
+      {
+        "q": "Name one spiritual gift.",
+        "a": "Wisdom",
+        "o": [
+          "Wealth",
+          "Wisdom",
+          "Long life",
+          "Physical strength"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Knowledge",
+        "o": [
+          "Telepathy",
+          "Invisibility",
+          "Knowledge",
+          "Earthly riches"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Faith",
+        "o": [
+          "Flawless memory",
+          "Faith",
+          "Sinlessness",
+          "Perfect health"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Gifts of healing",
+        "o": [
+          "Raising the dead only",
+          "Walking on water",
+          "Gifts of healing",
+          "Turning stones to bread"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Miracles",
+        "o": [
+          "Never feeling pain",
+          "Miracles",
+          "Changing water to wine",
+          "Reading minds"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Prophecy",
+        "o": [
+          "Controlling the weather",
+          "Levitation",
+          "Prophecy",
+          "Wealth generation"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Discernment of spirits",
+        "o": [
+          "Discerning the future",
+          "Discernment of spirits",
+          "Seeing angels visually",
+          "Judging the law"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Various kinds of tongues",
+        "o": [
+          "Speaking to animals",
+          "Various kinds of tongues",
+          "Controlling minds",
+          "Perfect eloquence"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Name another spiritual gift.",
+        "a": "Interpretation of tongues",
+        "o": [
+          "Translating scriptures perfectly",
+          "Knowing all languages naturally",
+          "Interpretation of tongues",
+          "Deciphering dreams"
+        ],
+        "ref": "1 Corinthians 12:8-10"
+      },
+      {
+        "q": "Who distributes the gifts?",
+        "a": "The one and the same Spirit",
+        "o": [
+          "The apostles",
+          "The local church pastor",
+          "The one and the same Spirit",
+          "The believer's faith"
+        ],
+        "ref": "1 Corinthians 12:11"
+      },
+      {
+        "q": "According to whose choice are the gifts distributed?",
+        "a": "The Spirit’s",
+        "o": [
+          "The believer's",
+          "The Spirit’s",
+          "Paul's",
+          "The church's"
+        ],
+        "ref": "1 Corinthians 12:11"
+      },
+      {
+        "q": "The church is compared to what?",
+        "a": "A body",
+        "o": [
+          "A building",
+          "A body",
+          "A flock of sheep",
+          "A kingdom"
+        ],
+        "ref": "1 Corinthians 12:12-13"
+      },
+      {
+        "q": "Into what were believers baptized?",
+        "a": "One body",
+        "o": [
+          "One synagogue",
+          "One temple",
+          "One nation",
+          "One body"
+        ],
+        "ref": "1 Corinthians 12:12-13"
+      },
+      {
+        "q": "By whom?",
+        "a": "One Spirit",
+        "o": [
+          "One Spirit",
+          "John the Baptist",
+          "Paul",
+          "The angels"
+        ],
+        "ref": "1 Corinthians 12:12-13"
+      },
+      {
+        "q": "What were all made to drink?",
+        "a": "One Spirit",
+        "o": [
+          "Living water",
+          "One Spirit",
+          "The cup of blessing",
+          "New wine"
+        ],
+        "ref": "1 Corinthians 12:12-13"
+      },
+      {
+        "q": "How many members does the body have?",
+        "a": "Many",
+        "o": [
+          "Few",
+          "Many",
+          "Twelve",
+          "One"
+        ],
+        "ref": "1 Corinthians 12:14-20"
+      },
+      {
+        "q": "Who arranged the members?",
+        "a": "God",
+        "o": [
+          "The apostles",
+          "Nature",
+          "God",
+          "The church leaders"
+        ],
+        "ref": "1 Corinthians 12:14-20"
+      },
+      {
+        "q": "Which members are indispensable?",
+        "a": "The weaker members",
+        "o": [
+          "The strongest members",
+          "The most visible members",
+          "The weaker members",
+          "The apostles"
+        ],
+        "ref": "1 Corinthians 12:21-26"
+      },
+      {
+        "q": "If one member suffers, who suffers?",
+        "a": "All the members",
+        "o": [
+          "All the members",
+          "Only that member",
+          "Only the head",
+          "Only the weaker members"
+        ],
+        "ref": "1 Corinthians 12:21-26"
+      },
+      {
+        "q": "If one member is honored, who rejoices?",
+        "a": "All the members",
+        "o": [
+          "Only the apostles",
+          "All the members",
+          "Only that member",
+          "No one"
+        ],
+        "ref": "1 Corinthians 12:21-26"
+      },
+      {
+        "q": "What are believers?",
+        "a": "The body of Christ",
+        "o": [
+          "The bride of Christ",
+          "The flock of Christ",
+          "The army of Christ",
+          "The body of Christ"
+        ],
+        "ref": "1 Corinthians 12:27"
+      },
+      {
+        "q": "What is each believer individually?",
+        "a": "A member of it",
+        "o": [
+          "The head of it",
+          "A member of it",
+          "A slave to it",
+          "An independent body"
+        ],
+        "ref": "1 Corinthians 12:27"
+      },
+      {
+        "q": "Whom did God appoint first in the church?",
+        "a": "Apostles",
+        "o": [
+          "Prophets",
+          "Teachers",
+          "Apostles",
+          "Healers"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Whom did God appoint second?",
+        "a": "Prophets",
+        "o": [
+          "Apostles",
+          "Teachers",
+          "Workers of miracles",
+          "Prophets"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Whom did God appoint third?",
+        "a": "Teachers",
+        "o": [
+          "Prophets",
+          "Healers",
+          "Teachers",
+          "Speakers in tongues"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Name another appointment.",
+        "a": "Workers of miracles",
+        "o": [
+          "Interpreters of dreams",
+          "Kings",
+          "Judges",
+          "Workers of miracles"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Name another appointment.",
+        "a": "Gifts of healing",
+        "o": [
+          "Gifts of healing",
+          "Exorcists",
+          "Priests",
+          "Temple guards"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Name another appointment.",
+        "a": "Forms of assistance",
+        "o": [
+          "Wealth building",
+          "Forms of assistance",
+          "Political rulers",
+          "Generals"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Name another appointment.",
+        "a": "Forms of leadership",
+        "o": [
+          "Pharisees",
+          "Scribes",
+          "Forms of leadership",
+          "Governors"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Name another appointment.",
+        "a": "Various kinds of tongues",
+        "o": [
+          "Singing of psalms",
+          "Playing of harps",
+          "Writing of scrolls",
+          "Various kinds of tongues"
+        ],
+        "ref": "1 Corinthians 12:28"
+      },
+      {
+        "q": "Are all apostles?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only the leaders",
+          "Only the men",
+          "No"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "Are all prophets?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only the elders",
+          "Some are"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "Are all teachers?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only the educated",
+          "Only the wealthy"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "Do all work miracles?",
+        "a": "No",
+        "o": [
+          "No",
+          "Yes",
+          "If they have enough faith",
+          "Only the apostles"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "Do all possess gifts of healing?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "No",
+          "Only doctors",
+          "Only the pure in heart"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "Do all speak in tongues?",
+        "a": "No",
+        "o": [
+          "Yes, eventually",
+          "No",
+          "Yes",
+          "Only during worship"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "Do all interpret?",
+        "a": "No",
+        "o": [
+          "No",
+          "Yes",
+          "Only those who speak in tongues",
+          "Only the pastors"
+        ],
+        "ref": "1 Corinthians 12:29-30"
+      },
+      {
+        "q": "For what should believers strive?",
+        "a": "The greater gifts",
+        "o": [
+          "Worldly wealth",
+          "The approval of men",
+          "The greater gifts",
+          "Political power"
+        ],
+        "ref": "1 Corinthians 12:31"
+      },
+      {
+        "q": "What would Paul show them?",
+        "a": "A still more excellent way",
+        "o": [
+          "A secret mystery",
+          "A still more excellent way",
+          "The path to wealth",
+          "How to speak in tongues"
+        ],
+        "ref": "1 Corinthians 12:31"
+      }
+    ]
+  }
+}

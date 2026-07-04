@@ -1,0 +1,633 @@
+{
+  "questionsDatabase": {
+    "ch6": [
+      {
+        "q": "What should believers not do when they have a grievance against another believer?",
+        "a": "Go to court before the unrighteous",
+        "o": [
+          "Fight them in public",
+          "Go to court before the unrighteous",
+          "Excommunicate them immediately",
+          "Ignore the problem entirely"
+        ],
+        "ref": "1 Corinthians 6:1"
+      },
+      {
+        "q": "Before whom should believers settle disputes?",
+        "a": "The saints",
+        "o": [
+          "The saints",
+          "The Roman judges",
+          "The synagogue leaders",
+          "The high priest"
+        ],
+        "ref": "1 Corinthians 6:1"
+      },
+      {
+        "q": "Who will judge the world?",
+        "a": "The saints",
+        "o": [
+          "The angels",
+          "The saints",
+          "The prophets",
+          "The twelve apostles"
+        ],
+        "ref": "1 Corinthians 6:2"
+      },
+      {
+        "q": "What are the saints competent to judge?",
+        "a": "Trivial cases",
+        "o": [
+          "Criminal offenses",
+          "Theological mysteries",
+          "Roman laws",
+          "Trivial cases"
+        ],
+        "ref": "1 Corinthians 6:2"
+      },
+      {
+        "q": "Whom will believers judge?",
+        "a": "Angels",
+        "o": [
+          "Kings",
+          "Demons",
+          "Angels",
+          "The nations"
+        ],
+        "ref": "1 Corinthians 6:3"
+      },
+      {
+        "q": "What else can believers judge?",
+        "a": "Ordinary matters",
+        "o": [
+          "Matters of life and death",
+          "Ordinary matters",
+          "Spiritual gifts",
+          "Temple sacrifices"
+        ],
+        "ref": "1 Corinthians 6:3"
+      },
+      {
+        "q": "Whom did Paul say the Corinthians appointed as judges?",
+        "a": "Those of no standing in the church",
+        "o": [
+          "The wisest among them",
+          "Roman governors",
+          "Those of no standing in the church",
+          "The elders of the city"
+        ],
+        "ref": "1 Corinthians 6:4"
+      },
+      {
+        "q": "Why did Paul say this?",
+        "a": "To their shame",
+        "o": [
+          "For their encouragement",
+          "To their shame",
+          "To build them up",
+          "As a compliment"
+        ],
+        "ref": "1 Corinthians 6:5"
+      },
+      {
+        "q": "Was there anyone wise enough to settle disputes?",
+        "a": "Yes",
+        "o": [
+          "No",
+          "Only Paul",
+          "Yes",
+          "Only Apollos"
+        ],
+        "ref": "1 Corinthians 6:5"
+      },
+      {
+        "q": "Who was taking another believer to court?",
+        "a": "Brother against brother",
+        "o": [
+          "Sister against sister",
+          "Brother against brother",
+          "Elder against deacon",
+          "Master against servant"
+        ],
+        "ref": "1 Corinthians 6:6"
+      },
+      {
+        "q": "Before whom were these cases being heard?",
+        "a": "Unbelievers",
+        "o": [
+          "The Sanhedrin",
+          "The apostles",
+          "Unbelievers",
+          "Angels"
+        ],
+        "ref": "1 Corinthians 6:6"
+      },
+      {
+        "q": "What did lawsuits among believers already represent?",
+        "a": "A defeat",
+        "o": [
+          "A victory",
+          "A defeat",
+          "A display of justice",
+          "A test of faith"
+        ],
+        "ref": "1 Corinthians 6:7"
+      },
+      {
+        "q": "What should believers rather suffer?",
+        "a": "Wrong",
+        "o": [
+          "Poverty",
+          "Wrong",
+          "Sickness",
+          "Persecution"
+        ],
+        "ref": "1 Corinthians 6:7"
+      },
+      {
+        "q": "What else should they rather suffer?",
+        "a": "Being defrauded",
+        "o": [
+          "Being mocked",
+          "Being defrauded",
+          "Being imprisoned",
+          "Being physically harmed"
+        ],
+        "ref": "1 Corinthians 6:7"
+      },
+      {
+        "q": "What were some Corinthians doing instead?",
+        "a": "Wronging others",
+        "o": [
+          "Fasting",
+          "Praying for justice",
+          "Wronging others",
+          "Leaving the church"
+        ],
+        "ref": "1 Corinthians 6:8"
+      },
+      {
+        "q": "Whom were they wronging?",
+        "a": "Brothers and sisters",
+        "o": [
+          "The Gentiles",
+          "The Romans",
+          "The church elders",
+          "Brothers and sisters"
+        ],
+        "ref": "1 Corinthians 6:8"
+      },
+      {
+        "q": "Who will not inherit the kingdom of God?",
+        "a": "Wrongdoers",
+        "o": [
+          "The poor in spirit",
+          "Wrongdoers",
+          "The peacemakers",
+          "The Gentiles"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "What should believers not be?",
+        "a": "Deceived",
+        "o": [
+          "Deceived",
+          "Fearful",
+          "Anxious",
+          "Proud"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "Name one group that will not inherit God’s kingdom.",
+        "a": "The sexually immoral",
+        "o": [
+          "The poor",
+          "The sexually immoral",
+          "The tax collectors",
+          "The uneducated"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Idolaters",
+        "o": [
+          "Scribes",
+          "Idolaters",
+          "Pharisees",
+          "Sadducees"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Adulterers",
+        "o": [
+          "Fishermen",
+          "Tentmakers",
+          "Adulterers",
+          "Soldiers"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Male prostitutes",
+        "o": [
+          "Male prostitutes",
+          "Merchants",
+          "Slaves",
+          "Magistrates"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Sodomites",
+        "o": [
+          "Zealots",
+          "Sodomites",
+          "Hellenists",
+          "Samaritans"
+        ],
+        "ref": "1 Corinthians 6:9"
+      },
+      {
+        "q": "Name another group that will not inherit God’s kingdom.",
+        "a": "Thieves",
+        "o": [
+          "Beggars",
+          "Servants",
+          "Thieves",
+          "Foreigners"
+        ],
+        "ref": "1 Corinthians 6:10"
+      },
+      {
+        "q": "Name another group.",
+        "a": "The greedy",
+        "o": [
+          "The rich",
+          "The joyful",
+          "The greedy",
+          "The humble"
+        ],
+        "ref": "1 Corinthians 6:10"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Drunkards",
+        "o": [
+          "Gluttons",
+          "Drunkards",
+          "Fasting men",
+          "Wine makers"
+        ],
+        "ref": "1 Corinthians 6:10"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Revilers",
+        "o": [
+          "Philosophers",
+          "Debaters",
+          "Silent ones",
+          "Revilers"
+        ],
+        "ref": "1 Corinthians 6:10"
+      },
+      {
+        "q": "Name another group.",
+        "a": "Robbers",
+        "o": [
+          "Robbers",
+          "Traders",
+          "Shepherds",
+          "Carpenters"
+        ],
+        "ref": "1 Corinthians 6:10"
+      },
+      {
+        "q": "What had happened to the Corinthians?",
+        "a": "They were washed",
+        "o": [
+          "They were condemned",
+          "They were scattered",
+          "They were washed",
+          "They were imprisoned"
+        ],
+        "ref": "1 Corinthians 6:11"
+      },
+      {
+        "q": "What else had happened?",
+        "a": "They were sanctified",
+        "o": [
+          "They were exalted",
+          "They were sanctified",
+          "They were humbled",
+          "They were glorified"
+        ],
+        "ref": "1 Corinthians 6:11"
+      },
+      {
+        "q": "What else had happened?",
+        "a": "They were justified",
+        "o": [
+          "They were enlightened",
+          "They were terrified",
+          "They were justified",
+          "They were enriched"
+        ],
+        "ref": "1 Corinthians 6:11"
+      },
+      {
+        "q": "In whose name?",
+        "a": "The Lord Jesus Christ",
+        "o": [
+          "The Apostle Paul",
+          "Moses",
+          "The Lord Jesus Christ",
+          "Caesar"
+        ],
+        "ref": "1 Corinthians 6:11"
+      },
+      {
+        "q": "By whom?",
+        "a": "The Spirit of our God",
+        "o": [
+          "The Spirit of our God",
+          "The twelve apostles",
+          "The angels of heaven",
+          "The church elders"
+        ],
+        "ref": "1 Corinthians 6:11"
+      },
+      {
+        "q": "What did Paul say is lawful?",
+        "a": "All things",
+        "o": [
+          "Eating meat",
+          "All things",
+          "Drinking wine",
+          "Judging others"
+        ],
+        "ref": "1 Corinthians 6:12"
+      },
+      {
+        "q": "What is not beneficial?",
+        "a": "All things",
+        "o": [
+          "Spiritual gifts",
+          "Speaking in tongues",
+          "All things",
+          "Fasting"
+        ],
+        "ref": "1 Corinthians 6:12"
+      },
+      {
+        "q": "What would Paul not be dominated by?",
+        "a": "Anything",
+        "o": [
+          "The Romans",
+          "Anything",
+          "The Jewish law",
+          "The desires of the flesh"
+        ],
+        "ref": "1 Corinthians 6:12"
+      },
+      {
+        "q": "Food is for what?",
+        "a": "The stomach",
+        "o": [
+          "The taste",
+          "The hungry",
+          "The body",
+          "The stomach"
+        ],
+        "ref": "1 Corinthians 6:13"
+      },
+      {
+        "q": "The stomach is for what?",
+        "a": "Food",
+        "o": [
+          "Drink",
+          "Food",
+          "Health",
+          "Digestion"
+        ],
+        "ref": "1 Corinthians 6:13"
+      },
+      {
+        "q": "What will God destroy?",
+        "a": "Both stomach and food",
+        "o": [
+          "The earth",
+          "Both stomach and food",
+          "The wicked",
+          "The physical body"
+        ],
+        "ref": "1 Corinthians 6:13"
+      },
+      {
+        "q": "The body is not meant for what?",
+        "a": "Sexual immorality",
+        "o": [
+          "Hard labor",
+          "Drunkenness",
+          "Sexual immorality",
+          "Sickness"
+        ],
+        "ref": "1 Corinthians 6:13"
+      },
+      {
+        "q": "The body is meant for whom?",
+        "a": "The Lord",
+        "o": [
+          "The spouse",
+          "The Lord",
+          "The spirit",
+          "The church"
+        ],
+        "ref": "1 Corinthians 6:13"
+      },
+      {
+        "q": "Whom did God raise?",
+        "a": "The Lord",
+        "o": [
+          "Paul",
+          "Lazarus",
+          "The Lord",
+          "David"
+        ],
+        "ref": "1 Corinthians 6:14"
+      },
+      {
+        "q": "Whom else will God raise?",
+        "a": "Us",
+        "o": [
+          "Only the apostles",
+          "The angels",
+          "Us",
+          "The prophets"
+        ],
+        "ref": "1 Corinthians 6:14"
+      },
+      {
+        "q": "By what?",
+        "a": "His power",
+        "o": [
+          "His grace",
+          "His power",
+          "His mercy",
+          "The Holy Spirit"
+        ],
+        "ref": "1 Corinthians 6:14"
+      },
+      {
+        "q": "What are believers’ bodies?",
+        "a": "Members of Christ",
+        "o": [
+          "Temples of stone",
+          "Vessels of wrath",
+          "Members of Christ",
+          "Tools of righteousness"
+        ],
+        "ref": "1 Corinthians 6:15"
+      },
+      {
+        "q": "Should believers make Christ’s members members of a prostitute?",
+        "a": "Never",
+        "o": [
+          "Never",
+          "Only in ignorance",
+          "Perhaps",
+          "If permitted"
+        ],
+        "ref": "1 Corinthians 6:15"
+      },
+      {
+        "q": "Whoever is united with a prostitute becomes what?",
+        "a": "One body",
+        "o": [
+          "A sinner",
+          "One body",
+          "Unclean",
+          "Excommunicated"
+        ],
+        "ref": "1 Corinthians 6:16"
+      },
+      {
+        "q": "How many become one flesh?",
+        "a": "Two",
+        "o": [
+          "Many",
+          "All",
+          "Three",
+          "Two"
+        ],
+        "ref": "1 Corinthians 6:16"
+      },
+      {
+        "q": "Whoever is united to the Lord becomes what?",
+        "a": "One spirit",
+        "o": [
+          "Perfect",
+          "One mind",
+          "A new creation",
+          "One spirit"
+        ],
+        "ref": "1 Corinthians 6:17"
+      },
+      {
+        "q": "What should believers do regarding sexual immorality?",
+        "a": "Shun it",
+        "o": [
+          "Pray about it",
+          "Hide it",
+          "Discuss it",
+          "Shun it"
+        ],
+        "ref": "1 Corinthians 6:18"
+      },
+      {
+        "q": "Against what does the sexually immoral person sin?",
+        "a": "His own body",
+        "o": [
+          "The church",
+          "God's law",
+          "His own body",
+          "Society"
+        ],
+        "ref": "1 Corinthians 6:18"
+      },
+      {
+        "q": "What is the believer’s body?",
+        "a": "A temple of the Holy Spirit",
+        "o": [
+          "A temple of the Holy Spirit",
+          "A house of prayer",
+          "A vessel of clay",
+          "A living sacrifice"
+        ],
+        "ref": "1 Corinthians 6:19"
+      },
+      {
+        "q": "Who lives in believers?",
+        "a": "The Holy Spirit",
+        "o": [
+          "Jesus",
+          "Angels",
+          "The Holy Spirit",
+          "A new spirit"
+        ],
+        "ref": "1 Corinthians 6:19"
+      },
+      {
+        "q": "From whom has the Holy Spirit been received?",
+        "a": "God",
+        "o": [
+          "Paul",
+          "God",
+          "The apostles",
+          "Jesus"
+        ],
+        "ref": "1 Corinthians 6:19"
+      },
+      {
+        "q": "To whom do believers belong?",
+        "a": "God",
+        "o": [
+          "Themselves",
+          "The church",
+          "God",
+          "Paul"
+        ],
+        "ref": "1 Corinthians 6:19"
+      },
+      {
+        "q": "What were believers?",
+        "a": "Bought with a price",
+        "o": [
+          "Given as a gift",
+          "Born free",
+          "Earned by faith",
+          "Bought with a price"
+        ],
+        "ref": "1 Corinthians 6:20"
+      },
+      {
+        "q": "What should believers glorify with their bodies?",
+        "a": "God",
+        "o": [
+          "Themselves",
+          "The church",
+          "The Spirit",
+          "God"
+        ],
+        "ref": "1 Corinthians 6:20"
+      }
+    ]
+  }
+}

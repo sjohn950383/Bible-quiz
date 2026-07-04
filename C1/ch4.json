@@ -1,0 +1,600 @@
+{
+  "questionsDatabase": {
+    "ch4": [
+      {
+        "q": "How should people regard Paul and his companions?",
+        "a": "Servants of Christ",
+        "o": [
+          "Rulers of the church",
+          "Angels of God",
+          "Servants of Christ",
+          "Masters of the law"
+        ],
+        "ref": "1 Corinthians 4:1"
+      },
+      {
+        "q": "What had been entrusted to Paul and his companions?",
+        "a": "The mysteries of God",
+        "o": [
+          "The wealth of the church",
+          "The mysteries of God",
+          "The political power of Rome",
+          "The scrolls of Moses"
+        ],
+        "ref": "1 Corinthians 4:1"
+      },
+      {
+        "q": "What is required of stewards?",
+        "a": "To be found trustworthy",
+        "o": [
+          "To be wealthy",
+          "To be perfect",
+          "To be powerful",
+          "To be found trustworthy"
+        ],
+        "ref": "1 Corinthians 4:2"
+      },
+      {
+        "q": "What did Paul consider a very small thing?",
+        "a": "Being judged by others",
+        "o": [
+          "Being beaten",
+          "Being hungry",
+          "Being judged by others",
+          "Being shipwrecked"
+        ],
+        "ref": "1 Corinthians 4:3"
+      },
+      {
+        "q": "Did Paul even judge himself?",
+        "a": "No",
+        "o": [
+          "Yes",
+          "Only on the Sabbath",
+          "No",
+          "Sometimes"
+        ],
+        "ref": "1 Corinthians 4:3"
+      },
+      {
+        "q": "What did Paul know against himself?",
+        "a": "Nothing",
+        "o": [
+          "Many sins",
+          "Nothing",
+          "Only minor offenses",
+          "A few mistakes"
+        ],
+        "ref": "1 Corinthians 4:4"
+      },
+      {
+        "q": "Who judges Paul?",
+        "a": "The Lord",
+        "o": [
+          "The Lord",
+          "The Roman emperor",
+          "The high priest",
+          "The church elders"
+        ],
+        "ref": "1 Corinthians 4:4"
+      },
+      {
+        "q": "What should believers not do before the appointed time?",
+        "a": "Pronounce judgment",
+        "o": [
+          "Eat meat",
+          "Pronounce judgment",
+          "Speak in tongues",
+          "Collect offerings"
+        ],
+        "ref": "1 Corinthians 4:5"
+      },
+      {
+        "q": "When should judgment come?",
+        "a": "When the Lord comes",
+        "o": [
+          "At the end of the year",
+          "During the next Passover",
+          "When Paul arrives",
+          "When the Lord comes"
+        ],
+        "ref": "1 Corinthians 4:5"
+      },
+      {
+        "q": "What will the Lord bring to light?",
+        "a": "The things hidden in darkness",
+        "o": [
+          "The secrets of angels",
+          "The things hidden in darkness",
+          "The history of the world",
+          "The wealth of kings"
+        ],
+        "ref": "1 Corinthians 4:5"
+      },
+      {
+        "q": "What will the Lord disclose?",
+        "a": "The purposes of the heart",
+        "o": [
+          "The date of the end",
+          "The names of the saved",
+          "The thoughts of demons",
+          "The purposes of the heart"
+        ],
+        "ref": "1 Corinthians 4:5"
+      },
+      {
+        "q": "From whom will each receive praise?",
+        "a": "God",
+        "o": [
+          "Paul",
+          "God",
+          "The angels",
+          "The church"
+        ],
+        "ref": "1 Corinthians 4:5"
+      },
+      {
+        "q": "To whom did Paul apply these things?",
+        "a": "Himself and Apollos",
+        "o": [
+          "Peter and John",
+          "Barnabas and Silas",
+          "Himself and Apollos",
+          "Timothy and Titus"
+        ],
+        "ref": "1 Corinthians 4:6"
+      },
+      {
+        "q": "What should believers learn?",
+        "a": "Nothing beyond what is written",
+        "o": [
+          "The traditions of men",
+          "The wisdom of the Greeks",
+          "Nothing beyond what is written",
+          "The secrets of the stars"
+        ],
+        "ref": "1 Corinthians 4:6"
+      },
+      {
+        "q": "What should no one become?",
+        "a": "Puffed up",
+        "o": [
+          "Discouraged",
+          "Wealthy",
+          "Puffed up",
+          "Too quiet"
+        ],
+        "ref": "1 Corinthians 4:6"
+      },
+      {
+        "q": "Who makes you different?",
+        "a": "God",
+        "o": [
+          "Yourself",
+          "The apostles",
+          "God",
+          "Your parents"
+        ],
+        "ref": "1 Corinthians 4:7"
+      },
+      {
+        "q": "What do you have that you did not receive?",
+        "a": "Nothing",
+        "o": [
+          "Everything",
+          "Wisdom",
+          "Wealth",
+          "Nothing"
+        ],
+        "ref": "1 Corinthians 4:7"
+      },
+      {
+        "q": "Why should no one boast?",
+        "a": "Everything was received",
+        "o": [
+          "It brings bad luck",
+          "Everything was received",
+          "Paul commanded against it",
+          "It offends the weak"
+        ],
+        "ref": "1 Corinthians 4:7"
+      },
+      {
+        "q": "What did Paul sarcastically say the Corinthians already had?",
+        "a": "All they wanted",
+        "o": [
+          "Total wisdom",
+          "Perfect peace",
+          "All they wanted",
+          "Many miracles"
+        ],
+        "ref": "1 Corinthians 4:8"
+      },
+      {
+        "q": "What else did he say they had become?",
+        "a": "Rich",
+        "o": [
+          "Poor",
+          "Rich",
+          "Famous",
+          "Holy"
+        ],
+        "ref": "1 Corinthians 4:8"
+      },
+      {
+        "q": "What else did he say they had become?",
+        "a": "Kings",
+        "o": [
+          "Priests",
+          "Kings",
+          "Prophets",
+          "Angels"
+        ],
+        "ref": "1 Corinthians 4:8"
+      },
+      {
+        "q": "Whom had God exhibited last of all?",
+        "a": "The apostles",
+        "o": [
+          "The prophets",
+          "The angels",
+          "The Romans",
+          "The apostles"
+        ],
+        "ref": "1 Corinthians 4:9"
+      },
+      {
+        "q": "As what were the apostles displayed?",
+        "a": "Those sentenced to death",
+        "o": [
+          "Kings and rulers",
+          "Those sentenced to death",
+          "Wealthy merchants",
+          "Famous philosophers"
+        ],
+        "ref": "1 Corinthians 4:9"
+      },
+      {
+        "q": "Before whom had they become a spectacle?",
+        "a": "The world",
+        "o": [
+          "The Jewish council",
+          "The Roman Senate",
+          "The world",
+          "The church in Jerusalem"
+        ],
+        "ref": "1 Corinthians 4:9"
+      },
+      {
+        "q": "Who else observed them?",
+        "a": "Angels and people",
+        "o": [
+          "Demons and beasts",
+          "Kings and queens",
+          "Scribes and Pharisees",
+          "Angels and people"
+        ],
+        "ref": "1 Corinthians 4:9"
+      },
+      {
+        "q": "For whose sake were the apostles fools?",
+        "a": "Christ’s sake",
+        "o": [
+          "Christ’s sake",
+          "The world's sake",
+          "The church's sake",
+          "Their own sake"
+        ],
+        "ref": "1 Corinthians 4:10"
+      },
+      {
+        "q": "How did Paul describe the Corinthians?",
+        "a": "Wise in Christ",
+        "o": [
+          "Foolish in the world",
+          "Weak in faith",
+          "Wise in Christ",
+          "Strong in spirit"
+        ],
+        "ref": "1 Corinthians 4:10"
+      },
+      {
+        "q": "How did Paul describe the apostles?",
+        "a": "Weak",
+        "o": [
+          "Powerful",
+          "Wealthy",
+          "Invincible",
+          "Weak"
+        ],
+        "ref": "1 Corinthians 4:10"
+      },
+      {
+        "q": "How were the Corinthians treated?",
+        "a": "Held in honor",
+        "o": [
+          "Beaten daily",
+          "Ignored",
+          "Held in honor",
+          "Cast out"
+        ],
+        "ref": "1 Corinthians 4:10"
+      },
+      {
+        "q": "How were the apostles treated?",
+        "a": "In disrepute",
+        "o": [
+          "With great respect",
+          "Like royalty",
+          "As wise teachers",
+          "In disrepute"
+        ],
+        "ref": "1 Corinthians 4:10"
+      },
+      {
+        "q": "What did the apostles suffer?",
+        "a": "Hunger",
+        "o": [
+          "Greed",
+          "Hunger",
+          "Pride",
+          "Jealousy"
+        ],
+        "ref": "1 Corinthians 4:11"
+      },
+      {
+        "q": "What else did they suffer?",
+        "a": "Thirst",
+        "o": [
+          "Blindness",
+          "Thirst",
+          "Deafness",
+          "Leprosy"
+        ],
+        "ref": "1 Corinthians 4:11"
+      },
+      {
+        "q": "What else did they lack?",
+        "a": "Clothing",
+        "o": [
+          "Bibles",
+          "Horses",
+          "Clothing",
+          "Money"
+        ],
+        "ref": "1 Corinthians 4:11"
+      },
+      {
+        "q": "What physical abuse did they endure?",
+        "a": "Beatings",
+        "o": [
+          "Crucifixion",
+          "Stoning",
+          "Burning",
+          "Beatings"
+        ],
+        "ref": "1 Corinthians 4:11"
+      },
+      {
+        "q": "Did they have a permanent home?",
+        "a": "No",
+        "o": [
+          "Yes, in Rome",
+          "Yes, in Jerusalem",
+          "No",
+          "Yes, in Antioch"
+        ],
+        "ref": "1 Corinthians 4:11"
+      },
+      {
+        "q": "How did the apostles earn their living?",
+        "a": "Working with their own hands",
+        "o": [
+          "Collecting tithes",
+          "Begging",
+          "Working with their own hands",
+          "Receiving Roman stipends"
+        ],
+        "ref": "1 Corinthians 4:12"
+      },
+      {
+        "q": "How did they respond when reviled?",
+        "a": "Blessed",
+        "o": [
+          "Cursed back",
+          "Blessed",
+          "Ran away",
+          "Complained"
+        ],
+        "ref": "1 Corinthians 4:12"
+      },
+      {
+        "q": "How did they respond when persecuted?",
+        "a": "Endured",
+        "o": [
+          "Fought back",
+          "Hid",
+          "Endured",
+          "Gave up"
+        ],
+        "ref": "1 Corinthians 4:12"
+      },
+      {
+        "q": "How did they respond when slandered?",
+        "a": "Spoke kindly",
+        "o": [
+          "Sued them",
+          "Spoke kindly",
+          "Ignored it",
+          "Argued"
+        ],
+        "ref": "1 Corinthians 4:13"
+      },
+      {
+        "q": "What had they become to the world?",
+        "a": "The rubbish of the world",
+        "o": [
+          "The leaders of the world",
+          "The light of the world",
+          "The wisdom of the world",
+          "The rubbish of the world"
+        ],
+        "ref": "1 Corinthians 4:13"
+      },
+      {
+        "q": "What else had they become?",
+        "a": "The dregs of all things",
+        "o": [
+          "The salt of the earth",
+          "The dregs of all things",
+          "The crown of creation",
+          "The rulers of the age"
+        ],
+        "ref": "1 Corinthians 4:13"
+      },
+      {
+        "q": "Why did Paul write these things?",
+        "a": "To admonish them",
+        "o": [
+          "To shame them",
+          "To praise them",
+          "To admonish them",
+          "To make them laugh"
+        ],
+        "ref": "1 Corinthians 4:14"
+      },
+      {
+        "q": "What did Paul call the Corinthians?",
+        "a": "Beloved children",
+        "o": [
+          "Wicked servants",
+          "Lost sheep",
+          "Beloved children",
+          "Rebellious teenagers"
+        ],
+        "ref": "1 Corinthians 4:14"
+      },
+      {
+        "q": "Through what did Paul become their father?",
+        "a": "The gospel",
+        "o": [
+          "The law",
+          "The gospel",
+          "Baptism",
+          "A vision"
+        ],
+        "ref": "1 Corinthians 4:15"
+      },
+      {
+        "q": "What did Paul urge the Corinthians to do?",
+        "a": "Imitate him",
+        "o": [
+          "Send him money",
+          "Leave Corinth",
+          "Imitate him",
+          "Build a temple"
+        ],
+        "ref": "1 Corinthians 4:16"
+      },
+      {
+        "q": "Whom did Paul send to Corinth?",
+        "a": "Timothy",
+        "o": [
+          "Titus",
+          "Timothy",
+          "Apollos",
+          "Silas"
+        ],
+        "ref": "1 Corinthians 4:17"
+      },
+      {
+        "q": "How did Paul describe Timothy?",
+        "a": "My beloved and faithful child in the Lord",
+        "o": [
+          "A skilled master builder",
+          "A strong warrior for Christ",
+          "My brother in chains",
+          "My beloved and faithful child in the Lord"
+        ],
+        "ref": "1 Corinthians 4:17"
+      },
+      {
+        "q": "What would Timothy remind them of?",
+        "a": "Paul’s ways in Christ",
+        "o": [
+          "The laws of Moses",
+          "The history of Israel",
+          "Paul’s ways in Christ",
+          "Their past sins"
+        ],
+        "ref": "1 Corinthians 4:17"
+      },
+      {
+        "q": "What had some Corinthians become?",
+        "a": "Arrogant",
+        "o": [
+          "Depressed",
+          "Arrogant",
+          "Poor",
+          "Heretics"
+        ],
+        "ref": "1 Corinthians 4:18"
+      },
+      {
+        "q": "If the Lord wills, what did Paul hope to do?",
+        "a": "Come soon",
+        "o": [
+          "Send more letters",
+          "Retire from ministry",
+          "Come soon",
+          "Visit Jerusalem"
+        ],
+        "ref": "1 Corinthians 4:19"
+      },
+      {
+        "q": "What did Paul want to test?",
+        "a": "Their power",
+        "o": [
+          "Their wealth",
+          "Their knowledge",
+          "Their eloquence",
+          "Their power"
+        ],
+        "ref": "1 Corinthians 4:19"
+      },
+      {
+        "q": "The kingdom of God depends not on what?",
+        "a": "Talk",
+        "o": [
+          "Grace",
+          "Talk",
+          "Faith",
+          "Works"
+        ],
+        "ref": "1 Corinthians 4:20"
+      },
+      {
+        "q": "The kingdom of God depends on what?",
+        "a": "Power",
+        "o": [
+          "Rules",
+          "Tradition",
+          "Power",
+          "Wealth"
+        ],
+        "ref": "1 Corinthians 4:20"
+      },
+      {
+        "q": "With what two options did Paul ask if he should come?",
+        "a": "With a stick or with love and a spirit of gentleness",
+        "o": [
+          "With an army or alone",
+          "With money or in poverty",
+          "With a stick or with love and a spirit of gentleness",
+          "With signs or with wisdom"
+        ],
+        "ref": "1 Corinthians 4:21"
+      }
+    ]
+  }
+}
