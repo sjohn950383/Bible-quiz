@@ -184,8 +184,24 @@
 </head>
 <body>
 
+    <div class="container" id="menu-screen-study-guide">
+        <h1>📖 1 Corinthians Study Guide</h1>
+        <p class="subtitle">Grouped chapter practice</p>
+        <div class="menu-grid">
+            <button class="btn" onclick="startQuiz('ch1-2')">Chapters 1 and 2</button>
+            <button class="btn" onclick="startQuiz('ch3-4')">Chapters 3 and 4</button>
+            <button class="btn" onclick="startQuiz('ch5-6')">Chapters 5 and 6</button>
+            <button class="btn" onclick="startQuiz('ch7-8')">Chapters 7 and 8</button>
+            <button class="btn" onclick="startQuiz('ch9-10')">Chapters 9 and 10</button>
+            <button class="btn" onclick="startQuiz('ch11-12')">Chapters 11 and 12</button>
+            <button class="btn" onclick="startQuiz('ch13-14')">Chapters 13 and 14</button>
+            <button class="btn" onclick="startQuiz('ch15-16')">Chapters 15 and 16</button>
+            <button class="btn btn-orange" onclick="startQuiz('all')">🌟 All Chapters Mix</button>
+        </div>
+    </div>
+    <div style="height:24px"></div>
     <div class="container" id="menu-screen">
-        <h1>📖 1 Corinthians Quiz</h1>
+        <h1>📖 1 Corinthians Extra Practice</h1>
         <p class="subtitle">Study Guide Practice</p>
         <div class="menu-grid">
             <button class="btn" onclick="startQuizC1('Ch1')">Chapter 1</button>
@@ -315,6 +331,8 @@
         }
 
         function showQuizScreen() {
+            const studyGuideMenu = document.getElementById('menu-screen-study-guide');
+            if (studyGuideMenu) studyGuideMenu.classList.add('hidden');
             document.getElementById('menu-screen').classList.add('hidden');
             const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
@@ -403,6 +421,8 @@
 
             currentCategory = category;
             document.getElementById('menu-screen').classList.add('hidden');
+            const studyGuideMenu = document.getElementById('menu-screen-study-guide');
+            if (studyGuideMenu) studyGuideMenu.classList.add('hidden');
             const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
             document.getElementById('quiz-screen').classList.remove('hidden');
@@ -595,6 +615,8 @@
             
             document.getElementById('quiz-screen').classList.add('hidden');
             document.getElementById('result-screen').classList.add('hidden');
+            const studyGuideMenu = document.getElementById('menu-screen-study-guide');
+            if (studyGuideMenu) studyGuideMenu.classList.remove('hidden');
             document.getElementById('menu-screen').classList.remove('hidden');
             const c2menu = document.getElementById('menu-screen-c2'); if (c2menu) c2menu.classList.remove('hidden');
         }
